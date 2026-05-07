@@ -1,0 +1,1501 @@
+annotator,cause_exacerbate,cause_improvement,concern,factor,id,month,subreddit,year
+A,,,-1,,h4blrfv,7,melbourne,2021
+A,government_policy(e),,0,availability,ikmh8ph,8,london,2022
+A,"foreign_investment, underbuilding",government_policy(i),1,"quality, availability, housing_to_income",h711k48,7,sydney,2021
+A,covid,government_policy(i),1,housing_to_income,fksrxg5,3,sydney,2020
+A,the_rich,,0,,ei1v5u3,3,sydney,2019
+A,government_policy(e),,1,quality,d8pkgt3,10,toronto,2016
+A,,,0,quality,gnkwrjf,2,sanfrancisco,2021
+A,,,0,quality,d5ap715,7,london,2016
+A,,,1,"real_price, availability",fdhbil5,1,toronto,2020
+A,the_rich,,2,,ge4fgen,11,losangeles,2020
+A,,bootstraps,0,,eaylkq9,12,sydney,2018
+A,,bootstraps,0,quality,em4o23c,4,sydney,2019
+A,foreign_investment,government_policy(i),1,,hvvddel,2,vancouver,2022
+A,,,-1,,dkq4rf8,7,vancouver,2017
+A,the_rich,,0,availability,eyd2yw5,8,toronto,2019
+A,,,0,housing_to_income,hn6wewr,12,melbourne,2021
+A,,,1,real_price,imudarx,9,losangeles,2022
+A,,,0,availability,cyfc9r3,12,sanfrancisco,2015
+A,,,-1,,e0wz5kh,6,vancouver,2018
+A,,,1,real_price,dym9tvn,5,melbourne,2018
+A,,,-1,,e0xy7sa,6,vancouver,2018
+A,nimbyism,,1,quality,i3acgb6,4,melbourne,2022
+A,,,0,quality,d8h23sh,10,sanfrancisco,2016
+A,,building,1,quality,duw5rj3,2,sanfrancisco,2018
+A,,"building, money",0,,duwwo5m,2,sanfrancisco,2018
+A,"government_policy(e), underbuilding",,1,"real_price, quality",chyhb45,6,sanfrancisco,2014
+A,,,0,real_price,c6rwzlh,10,melbourne,2012
+A,wage_price_imbalance,,2,housing_to_income,e6ocrdr,9,losangeles,2018
+A,"nimbyism, government_policy(e)","government_policy(i), building",1,"quality, availability, housing_to_income",djioiuk,6,sanfrancisco,2017
+A,,,0,real_price,c6r93x6,10,vancouver,2012
+A,,,2,,f133bh7,9,melbourne,2019
+A,,,-1,,j26vgul,12,losangeles,2022
+A,the_rich,,0,real_price,g6cizzp,9,losangeles,2020
+A,"government_policy(e), underbuilding",building,1,availability,g3oy6g7,9,london,2020
+A,,,-1,,ikseo7h,8,sydney,2022
+A,underbuilding,building,2,"quality, availability",ikrrp67,8,vancouver,2022
+A,,,-1,,he2i1tx,9,sydney,2021
+A,,,2,,hbevnwf,9,sydney,2021
+A,"the_rich, cost_of_living, wage_price_imbalance",,2,housing_to_income,cr1xvvx,5,losangeles,2015
+A,nimbyism,,0,real_price,imv4vnq,9,losangeles,2022
+A,foreign_investment,,1,,gem9x2l,12,vancouver,2020
+A,government_policy(e),,1,,ikrvb2m,8,sydney,2022
+A,"government_policy(e), wage_price_imbalance",,2,housing_to_income,imtoaxo,9,losangeles,2022
+A,"foreign_investment, covid",,1,availability,gmrcv53,2,losangeles,2021
+A,cost_of_living,,2,,gf9alk2,12,dublin,2020
+A,,money,0,,cwl2dph,11,vancouver,2015
+A,,,-1,,hwpen82,2,melbourne,2022
+A,wage_price_imbalance,,1,housing_to_income,imtj58u,9,losangeles,2022
+A,,,0,real_price,i7aiqr2,5,toronto,2022
+A,wage_price_imbalance,,1,,df9z11s,3,losangeles,2017
+A,,government_policy(i),1,availability,df10zst,3,toronto,2017
+A,government_policy(e),,1,,h4lyh4a,7,toronto,2021
+A,,building,0,,dzkkcsl,5,losangeles,2018
+A,government_policy(e),,1,,hq7hfe0,12,dublin,2021
+A,"nimbyism, the_rich",,1,,elkmku0,4,toronto,2019
+A,,,0,,duwthro,2,sanfrancisco,2018
+A,,bootstraps,0,housing_to_income,cty6s7a,8,toronto,2015
+A,,government_policy(i),0,,dxn38e9,4,sanfrancisco,2018
+A,underbuilding,,1,,hledx9n,11,losangeles,2021
+A,,,1,"real_price, housing_to_income",cho6bgn,5,melbourne,2014
+A,,,1,real_price,g9b5lxl,10,auckland,2020
+A,"the_rich, government_policy(e)",building,1,availability,ghe3jmr,12,toronto,2020
+A,"the_rich, foreign_investment, government_policy(e)",,2,,dmi21bp,9,vancouver,2017
+A,"wage_price_imbalance, cost_of_living",,2,housing_to_income,e50njsn,8,vancouver,2018
+A,,,-1,,ds4697h,1,sanfrancisco,2018
+A,"foreign_investment, the_rich",,2,,f9ms75j,12,toronto,2019
+A,,,-1,,h8vnz15,8,toronto,2021
+A,cost_of_living,,0,,dfst3s9,4,sydney,2017
+A,,,0,real_price,gon2svw,2,auckland,2021
+A,cost_of_living,,1,quality,dszrjz2,1,losangeles,2018
+A,cost_of_living,,1,"housing_to_income, quality",fdkquvs,1,toronto,2020
+A,,,0,real_price,ei1t0us,3,sydney,2019
+A,"foreign_investment, the_rich",,2,,ckle9ky,9,vancouver,2014
+A,,,-1,,hq5qmuv,12,dublin,2021
+A,"the_rich, wage_price_imbalance",,2,"availability, housing_to_income",dmrcrlf,9,vancouver,2017
+A,cost_of_living,,2,real_price,fi862pc,2,toronto,2020
+A,,government_policy(i),0,housing_to_income,gg8n7a9,12,sanfrancisco,2020
+A,government_policy(e),"government_policy(i), building",2,,i63ii9l,4,sanfrancisco,2022
+A,the_rich,government_policy(i),1,,e6o7u8k,9,losangeles,2018
+A,,,-1,,db5yg60,12,vancouver,2016
+A,cost_of_living,,0,real_price,fb60cbu,12,vancouver,2019
+A,,,-1,,eyckef0,8,toronto,2019
+A,"covid, cost_of_living",,1,"housing_to_income, real_price",iyyu9kj,12,vancouver,2022
+A,cost_of_living,,1,,eludfen,4,vancouver,2019
+A,cost_of_living,money,0,real_price,dd99qam,2,melbourne,2017
+A,,group_action,0,,gfsf1a1,12,sanfrancisco,2020
+A,cost_of_living,,2,,ikqk75u,8,vancouver,2022
+A,cost_of_living,,2,"availability, real_price",h8u6647,8,toronto,2021
+A,"underbuilding, the_rich",government_policy(i),1,availability,imtnn7e,9,losangeles,2022
+A,cost_of_living,,1,"availability, real_price",i4n1o16,4,sydney,2022
+A,government_policy(e),,0,,dfkgdtq,3,toronto,2017
+A,,,1,real_price,d50l60s,7,vancouver,2016
+A,,,0,quality,d8h0vxm,10,sanfrancisco,2016
+A,,,1,"quality, real_price",c9tnh4n,5,vancouver,2013
+A,"wage_price_imbalance, cost_of_living",,2,housing_to_income,dubvzn8,2,sanfrancisco,2018
+A,,,2,,d2wmv9k,5,toronto,2016
+A,"wage_price_imbalance, cost_of_living",,2,,hlrk8xv,11,toronto,2021
+A,,money,0,real_price,d52caii,7,vancouver,2016
+A,,government_policy(i),0,"real_price, housing_to_income",hsm0own,1,london,2022
+A,,,0,real_price,eluwlyk,4,vancouver,2019
+A,wage_price_imbalance,,2,"real_price, housing_to_income",hyyvwv3,3,vancouver,2022
+A,the_rich,,2,,cymgpoq,1,melbourne,2016
+A,wage_price_imbalance,,2,"availability, housing_to_income",ikwq75h,8,dublin,2022
+A,,,0,quality,ieblho4,6,melbourne,2022
+A,"foreign_investment, nimbyism, the_rich",,0,,iyy06fk,12,vancouver,2022
+A,,bootstraps,2,"housing_to_income, real_price",e6p00n1,9,losangeles,2018
+A,,,2,"quality, real_price",c299lzf,8,toronto,2011
+A,"wage_price_imbalance, foreign_investment",government_policy(i),2,real_price,c2gnri0,9,melbourne,2011
+A,nimbyism,,1,,dlc9p7i,8,sanfrancisco,2017
+A,,,-1,,ehwkfqv,3,london,2019
+A,"foreign_investment, covid","government_policy(i), building",1,availability,hvx098o,2,vancouver,2022
+A,foreign_investment,,0,,c7ltn3b,12,toronto,2012
+A,,,0,quality,hdttkek,9,london,2021
+A,,,0,quality,igzjvjj,7,london,2022
+A,"underbuilding, government_policy(e)",,2,availability,ealsuk8,11,toronto,2018
+A,,,0,quality,el7ymqq,4,losangeles,2019
+A,,,-1,,hnwz6g1,12,sanfrancisco,2021
+A,"foreign_investment, government_policy(e), the_rich",,2,real_price,ikxnn0k,8,dublin,2022
+A,cost_of_living,,1,,eluelq3,4,vancouver,2019
+A,foreign_investment,,1,real_price,c55h26j,6,vancouver,2012
+A,,,0,real_price,d29w1bf,4,losangeles,2016
+A,,,2,real_price,djqjbb8,7,sydney,2017
+A,the_rich,,1,,ikxtits,8,dublin,2022
+A,,,-1,,ikr4b4x,8,vancouver,2022
+A,the_rich,,2,,go4jrgs,2,london,2021
+A,,,2,quality,duhwnni,2,losangeles,2018
+A,,,-1,,e4xnfz1,8,toronto,2018
+A,,,-1,,hsmmt9c,1,london,2022
+A,the_rich,,1,,ehwotus,3,london,2019
+A,,bootstraps,0,"housing_to_income, real_price",d218l5b,4,toronto,2016
+A,,,-1,,da0m1ht,11,london,2016
+A,,,-1,,d50jkjn,7,sanfrancisco,2016
+A,,,-1,,f9nj6ly,12,toronto,2019
+A,,government_policy(i),0,availability,crvastx,6,london,2015
+A,,,-1,,f0y08gi,9,melbourne,2019
+A,,,-1,,e0yreqf,6,vancouver,2018
+A,,,1,real_price,ep84fgv,5,losangeles,2019
+A,,,2,real_price,irxa1hf,10,bristol,2022
+A,,,0,"quality, real_price, availability",dcuyb8s,1,melbourne,2017
+A,,,1,"real_price, quality",hyzpk83,3,vancouver,2022
+A,"underbuilding, the_rich",government_policy(i),0,availability,dj6xugt,6,losangeles,2017
+A,,,2,"real_price, quality",ei1xj0l,3,sydney,2019
+A,,,-1,,cfdfmxj,2,vancouver,2014
+A,government_policy(e),group_action,2,quality,f9oe5vh,12,toronto,2019
+A,foreign_investment,,1,real_price,cynie55,1,melbourne,2016
+A,,,0,real_price,ctzb92o,8,toronto,2015
+A,"cost_of_living, covid",government_policy(i),2,,he60km9,9,sydney,2021
+A,,,0,"real_price, quality",ctxydi7,8,toronto,2015
+A,,,-1,,gnh33bl,2,sydney,2021
+A,,,0,real_price,ha3cehp,8,vancouver,2021
+A,,,0,real_price,j0snhdm,12,vancouver,2022
+A,"cost_of_living, government_policy(e)",,2,quality,iuo6k9t,11,auckland,2022
+A,,,0,,cwl8snv,11,vancouver,2015
+A,nimbyism,,0,,ep6tu0y,5,losangeles,2019
+A,,,-1,,i9x29dq,5,auckland,2022
+A,,money,0,quality,dszrveo,1,losangeles,2018
+A,,,0,real_price,d535u5c,7,vancouver,2016
+A,"cost_of_living, wage_price_imbalance",,2,"housing_to_income, real_price",i18aee3,3,melbourne,2022
+A,,,0,,dyt5wdf,5,london,2018
+A,,,0,real_price,hnx77l8,12,sanfrancisco,2021
+A,,,0,real_price,em4p31c,4,melbourne,2019
+A,,,-1,,gngb7dg,2,sydney,2021
+A,foreign_investment,government_policy(i),1,real_price,ep7agzo,5,losangeles,2019
+A,"the_rich, airbnb",,1,availability,fi7lpzg,2,toronto,2020
+A,,,-1,,cvli06x,10,sanfrancisco,2015
+A,,,0,,iee4j87,7,melbourne,2022
+A,,,-1,,cubwuef,8,losangeles,2015
+A,,,1,availability,d51cn27,7,toronto,2016
+A,,,-1,,dzixlvn,5,losangeles,2018
+A,"the_rich, nimbyism",government_policy(i),1,,ealcoh7,11,toronto,2018
+A,,,-1,,de3pbrt,2,vancouver,2017
+A,,,-1,,hr5957d,1,toronto,2022
+A,,,-1,,hue9mj6,1,auckland,2022
+A,cost_of_living,,1,real_price,cwy5cxj,11,melbourne,2015
+A,"cost_of_living, wage_price_imbalance, the_rich, underbuilding","government_policy(i), building",2,quality,crusalt,6,london,2015
+A,,,0,availability,g3ntepd,9,london,2020
+A,foreign_investment,,0,,ep90yan,5,losangeles,2019
+A,,,-1,,cd3cw85,10,toronto,2013
+A,foreign_investment,,0,real_price,cy98cqv,12,sanfrancisco,2015
+A,,,-1,,d8bxigj,10,melbourne,2016
+A,the_old,,1,,hsm14oa,1,london,2022
+A,government_policy(e),,1,,i628lh1,4,sanfrancisco,2022
+A,,money,0,quality,ho6e2kz,12,auckland,2021
+A,,,1,"quality, real_price",cc2jlzy,9,losangeles,2013
+A,,,1,real_price,eb4yz2j,12,toronto,2018
+A,,,0,real_price,hn2nhdg,12,melbourne,2021
+A,,money,2,,e4wyg71,8,toronto,2018
+A,,,0,quality,ctxz92j,8,toronto,2015
+A,,money,1,real_price,drmz1b2,12,bristol,2017
+A,foreign_investment,"group_action, government_policy(i)",1,,hbaiuc8,9,vancouver,2021
+A,the_rich,government_policy(i),1,real_price,hlrn4jv,11,toronto,2021
+A,"cost_of_living, the_rich",money,2,,cju0qfq,8,losangeles,2014
+A,,,0,"quality, housing_to_income",hr397y6,1,toronto,2022
+A,,,0,real_price,dkpue4f,7,vancouver,2017
+A,,,0,real_price,fiw3ljg,2,toronto,2020
+A,foreign_investment,,2,,cs85zu4,6,auckland,2015
+A,,,1,availability,irwafa4,10,bristol,2022
+A,,,0,real_price,dgrrt5g,4,london,2017
+A,,,0,real_price,i4cb255,4,bristol,2022
+A,,,1,"quality, availability",igxn7wz,7,london,2022
+A,,,2,"quality, real_price",ih0vd3u,7,london,2022
+A,,,-1,,duj0t4d,2,sanfrancisco,2018
+A,cost_of_living,,2,,i4ndz77,4,sydney,2022
+A,"foreign_investment, the_rich",,1,real_price,eguyewi,2,vancouver,2019
+A,,,-1,,di9fm8l,5,sydney,2017
+A,,,-1,,el7nfj0,4,losangeles,2019
+A,,money,1,,ho2ww4c,12,auckland,2021
+A,"the_rich, foreign_investment",government_policy(i),1,,ghb8aga,12,toronto,2020
+A,wage_price_imbalance,,2,housing_to_income,hr51xlv,1,toronto,2022
+A,the_rich,,2,,igylo4f,7,london,2022
+A,,relocation,2,quality,f9mpsgv,12,toronto,2019
+A,cost_of_living,,1,housing_to_income,gdi9vr6,11,losangeles,2020
+A,,,-1,,d54edru,7,vancouver,2016
+A,government_policy(e),government_policy(i),1,,gdj6f4x,11,losangeles,2020
+A,,,0,,egxq1zi,2,vancouver,2019
+A,foreign_investment,government_policy(i),2,"quality, real_price",h8t9mon,8,toronto,2021
+A,,,1,quality,f9n6nv9,12,toronto,2019
+A,,government_policy(i),1,,co838bo,2,london,2015
+A,,,-1,,d213um9,4,toronto,2016
+A,,,0,real_price,dhn1why,5,london,2017
+A,,,1,real_price,gppad2r,3,toronto,2021
+A,,"government_policy(i), building",1,,co7u2gb,2,london,2015
+A,nimbyism,relocation,1,quality,ieaw6x2,6,melbourne,2022
+A,,,-1,,d51fz8n,7,vancouver,2016
+A,,,-1,,dzg06pl,5,toronto,2018
+A,,,0,,hs7rz8z,1,toronto,2022
+A,,,-1,,iuponjy,11,auckland,2022
+A,"nimbyism, government_policy(e)",government_policy(i),2,availability,euepat1,7,sanfrancisco,2019
+A,government_policy(e),,1,,hz0kew6,3,vancouver,2022
+A,,,-1,,dt01i1u,1,losangeles,2018
+A,government_policy(e),,2,,hlgaddi,11,losangeles,2021
+A,,,-1,,d53s2ot,7,vancouver,2016
+A,,,1,real_price,d525cxs,7,vancouver,2016
+A,,,-1,,dges00m,4,sanfrancisco,2017
+A,,bootstraps,1,,d22g1gd,4,toronto,2016
+A,,,0,"quality, real_price",dgseejc,4,london,2017
+A,"the_rich, wage_price_imbalance",,2,,ibojmnu,6,sydney,2022
+A,,,-1,,dzgcl0s,5,toronto,2018
+A,,relocation,1,,ctegjbu,7,sanfrancisco,2015
+A,,,0,housing_to_income,d53guu8,7,vancouver,2016
+A,,,0,,ep8ot24,5,losangeles,2019
+A,,,0,"quality, real_price",dnkh2n3,9,melbourne,2017
+A,,,1,"quality, housing_to_income",i4xziun,4,london,2022
+A,foreign_investment,government_policy(i),1,availability,gdhpfz1,11,losangeles,2020
+A,,,0,quality,fjhoa9q,3,toronto,2020
+A,,government_policy(i),0,,imuuqu5,9,losangeles,2022
+A,foreign_investment,,0,,egtg120,2,vancouver,2019
+A,,bootstraps,1,real_price,dnp1pc1,9,melbourne,2017
+A,,,0,real_price,csvimm1,7,toronto,2015
+A,,,-1,,db7pnl5,12,vancouver,2016
+A,,,0,"real_price, quality",d32tmyw,5,losangeles,2016
+A,,,0,real_price,egw9dtl,2,vancouver,2019
+A,cost_of_living,,2,housing_to_income,cs2f0k4,6,melbourne,2015
+A,nimbyism,government_policy(i),1,availability,imuiiz7,9,losangeles,2022
+A,overcrowding,building,1,availability,cdmrxme,11,sanfrancisco,2013
+A,government_policy(e),,1,,gpo36ba,3,toronto,2021
+A,"foreign_investment, the_rich",,0,,didcpc7,6,vancouver,2017
+A,cost_of_living,"relocation, government_policy(i)",2,,cvx65no,10,sanfrancisco,2015
+A,,,2,quality,hn1gemi,12,melbourne,2021
+A,,government_policy(i),0,,dgs2rtc,4,london,2017
+A,"the_rich, underbuilding",,1,quality,eali3tl,11,toronto,2018
+A,,,-1,,daiegxb,11,melbourne,2016
+A,,,-1,,dftgvuy,4,sydney,2017
+A,nimbyism,,1,,dhmrenl,5,sanfrancisco,2017
+A,,,0,real_price,cwidxi8,10,london,2015
+A,,,0,real_price,ghalbkt,12,toronto,2020
+A,,,-1,,cnw2l89,1,toronto,2015
+A,,,-1,,dziv6pi,5,losangeles,2018
+A,,,-1,,ctw9ncg,8,losangeles,2015
+A,,,0,real_price,dyojd3k,5,melbourne,2018
+A,government_policy(e),,2,,gyrzqlk,5,sydney,2021
+A,,"relocation, bootstraps",0,,ddxppk3,2,melbourne,2017
+A,,,0,real_price,hleqjeb,11,losangeles,2021
+A,foreign_investment,,2,,iky8zmg,8,dublin,2022
+A,cost_of_living,,1,quality,cq2j86l,4,vancouver,2015
+A,"the_rich, the_old",bootstraps,2,,ii8wk3a,7,melbourne,2022
+A,,,-1,,dngyv5i,9,vancouver,2017
+A,"overcrowding, cost_of_living",building,1,availability,ds3r1eu,1,sanfrancisco,2018
+A,nimbyism,,1,,etb04s3,7,sanfrancisco,2019
+A,,,0,"availability, real_price",e6nvin9,9,melbourne,2018
+A,"the_rich, government_policy(e)",,2,,h6gmat8,7,bristol,2021
+A,,,-1,,f3w5er1,10,vancouver,2019
+A,,,-1,,hnbzhij,12,melbourne,2021
+A,cost_of_living,,1,real_price,eyecbu9,8,toronto,2019
+A,,,-1,,em4buxy,4,melbourne,2019
+A,,bootstraps,2,,f9n10go,12,toronto,2019
+A,,,-1,,ct2h51h,7,melbourne,2015
+A,,,1,"quality, real_price",eb5bmg5,12,toronto,2018
+A,,,-1,,dg8q6z8,4,losangeles,2017
+A,,,1,real_price,ghcu2fp,12,toronto,2020
+A,,,2,"quality, real_price",ei23wnz,3,sydney,2019
+A,,building,0,real_price,igx7i5b,7,london,2022
+A,the_rich,,0,,d2bbho1,4,sydney,2016
+A,,relocation,0,,ckl08lc,9,vancouver,2014
+A,"the_rich, government_policy(e)",,1,,cju02e8,8,losangeles,2014
+A,,bootstraps,2,real_price,cwkz794,11,vancouver,2015
+A,,,1,,g4jzzpu,9,vancouver,2020
+A,,building,0,quality,d1zzcmp,4,vancouver,2016
+A,"wage_price_imbalance, the_rich",bootstraps,2,housing_to_income,hb8uwgu,9,vancouver,2021
+A,,,2,,gx8g8a0,5,bristol,2021
+A,,,-1,,d8bo98x,10,melbourne,2016
+A,"foreign_investment, government_policy(e)",,1,,dyfbn2s,5,vancouver,2018
+A,,,-1,,dfaoi4p,3,losangeles,2017
+A,,,-1,,c1ast1g,12,sydney,2010
+A,the_rich,,2,,g3p8xdn,9,london,2020
+A,,building,1,availability,epc6mog,5,losangeles,2019
+A,,relocation,0,quality,d8pez1t,10,toronto,2016
+A,wage_price_imbalance,,1,"real_price, housing_to_income",d2b7exu,4,sydney,2016
+A,,,1,"quality, real_price",gpo1omw,3,toronto,2021
+A,cost_of_living,"building, government_policy(i)",1,"availability, housing_to_income",hvvx783,2,vancouver,2022
+A,"underbuilding, the_rich, overcrowding, the_old",government_policy(i),1,"availability, quality",dfvqyf4,4,toronto,2017
+A,,bootstraps,1,"real_price, quality",hslvuk6,1,london,2022
+A,"overcrowding, foreign_investment",,2,,hs4wdwr,1,toronto,2022
+A,,relocation,2,"quality, real_price",e4zy38t,8,vancouver,2018
+A,,relocation,0,quality,i325pfa,4,losangeles,2022
+A,,,-1,,c1a2ldb,12,sanfrancisco,2010
+A,,building,1,availability,dmjxtsp,9,vancouver,2017
+A,,"relocation, building",0,availability,g901gij,10,bristol,2020
+A,government_policy(e),government_policy(i),1,availability,d4yyny7,7,losangeles,2016
+A,government_policy(e),,1,availability,gpoilyz,3,london,2021
+A,,,-1,,dukdar5,2,sanfrancisco,2018
+A,,,-1,,chmv9go,5,sanfrancisco,2014
+A,,,0,,fi7guna,2,toronto,2020
+A,,,0,real_price,ctzg4hk,8,toronto,2015
+A,,,1,quality,dmj7y8o,9,vancouver,2017
+A,underbuilding,,1,,effaf37,1,sanfrancisco,2019
+A,"nimbyism, government_policy(e), underbuilding",,1,"availability, real_price",dndj03n,9,sanfrancisco,2017
+A,the_rich,,1,"real_price, housing_to_income",c39t5j4,12,toronto,2011
+A,,,1,"quality, real_price",ehxx58o,3,sanfrancisco,2019
+A,,,-1,,eqx8sk8,6,bristol,2019
+A,,,-1,,fs4t1f1,5,vancouver,2020
+A,,,-1,,hduhuda,9,london,2021
+A,,"relocation, building",1,availability,e06avao,6,losangeles,2018
+A,,,0,real_price,elkgc0c,4,toronto,2019
+A,"wage_price_imbalance, the_rich",,1,housing_to_income,de3y12p,2,vancouver,2017
+A,,relocation,2,quality,hr3vydo,1,toronto,2022
+A,,,1,,dykvxd8,5,melbourne,2018
+A,,,-1,,cn8e6os,12,vancouver,2014
+A,,,-1,,in1tspr,9,losangeles,2022
+A,government_policy(e),,2,real_price,f9mvetl,12,toronto,2019
+A,,bootstraps,0,"quality, real_price, housing_to_income",djqmnc9,7,sydney,2017
+A,,,0,quality,i4xvoip,4,london,2022
+A,,,-1,,cp1pj18,3,melbourne,2015
+A,the_rich,bootstraps,1,,dianjne,6,bristol,2017
+A,,,2,,i3b5smc,4,melbourne,2022
+A,,,0,quality,hsjwf36,1,london,2022
+A,wage_price_imbalance,,1,"housing_to_income, real_price",igwuffa,7,london,2022
+A,,,0,"housing_to_income, quality",fb4oaif,12,vancouver,2019
+A,government_policy(e),bootstraps,0,quality,gdi985b,11,losangeles,2020
+A,,,1,real_price,c1tjgiv,5,losangeles,2011
+A,,,0,quality,i15634r,3,melbourne,2022
+A,the_rich,,2,housing_to_income,hlvblkt,11,melbourne,2021
+A,,,-1,,dnbm52d,9,losangeles,2017
+A,"overcrowding, foreign_investment",,1,quality,j1coxm2,12,sydney,2022
+A,cost_of_living,,0,"quality, real_price",ha2o4px,8,vancouver,2021
+A,,,-1,,f9n2men,12,toronto,2019
+A,"airbnb, government_policy(e)",government_policy(i),1,,eb7pso7,12,toronto,2018
+A,,,-1,,cwka8oc,11,vancouver,2015
+A,,,-1,,cyo15e9,1,melbourne,2016
+A,nimbyism,government_policy(i),1,availability,dgeuhpg,4,sanfrancisco,2017
+A,,,1,real_price,inia3mw,9,bristol,2022
+A,,"relocation, bootstraps",0,,gf84imo,12,dublin,2020
+A,cost_of_living,bootstraps,2,,ddyjqi5,2,melbourne,2017
+A,,,-1,,fz0r4lq,7,london,2020
+A,,,1,,cty70c1,8,toronto,2015
+A,"the_rich, nimbyism","government_policy(i), building",1,,dzglxbl,5,toronto,2018
+A,,,1,housing_to_income,dfw8q5g,4,toronto,2017
+A,,,-1,,he2wrzl,9,sydney,2021
+A,,,-1,,igx695p,7,london,2022
+A,nimbyism,,1,,dj6risa,6,losangeles,2017
+A,underbuilding,building,1,,iyyknde,12,vancouver,2022
+A,,,2,,h7r3pfk,8,auckland,2021
+A,"cost_of_living, the_rich",,1,,dj7pslm,6,losangeles,2017
+A,,,-1,,chlzp1w,5,vancouver,2014
+A,,relocation,0,quality,elurxsu,4,vancouver,2019
+A,,,0,"real_price, quality",i7adec1,5,toronto,2022
+A,the_rich,,1,quality,gpo4e01,3,toronto,2021
+A,,relocation,0,quality,d661x1p,8,vancouver,2016
+A,"overcrowding, government_policy(e)",government_policy(i),1,real_price,ffszkbj,1,auckland,2020
+A,,,-1,,igwonq0,7,london,2022
+A,cost_of_living,,2,housing_to_income,gsz050d,3,vancouver,2021
+A,,,-1,,j20nbou,12,toronto,2022
+A,the_rich,building,2,,chme2wk,5,sanfrancisco,2014
+A,"the_rich, government_policy(e)",,0,real_price,cpy8tvr,4,bristol,2015
+A,,government_policy(i),0,,c4l2fr4,5,london,2012
+A,,,-1,,dul2v28,2,melbourne,2018
+A,overcrowding,,0,real_price,gpoipj0,3,toronto,2021
+A,,,-1,,ih0seak,7,london,2022
+A,,,-1,,eluezmh,4,vancouver,2019
+A,cost_of_living,,1,housing_to_income,cx66ioy,11,london,2015
+A,,,0,availability,iyz744y,12,vancouver,2022
+A,,,-1,,i30g72l,4,losangeles,2022
+A,cost_of_living,government_policy(i),0,,dzixky8,5,losangeles,2018
+A,,,-1,,imu5tgj,9,losangeles,2022
+A,,government_policy(i),1,quality,gyrme42,5,sydney,2021
+A,,,0,quality,i4y57bv,4,london,2022
+A,foreign_investment,,0,availability,d50com7,7,vancouver,2016
+A,,building,0,,ep7xaqg,5,losangeles,2019
+A,"overcrowding, nimbyism",,1,quality,cp1jrg2,3,melbourne,2015
+A,"foreign_investment, the_rich",,0,,ckmaebc,9,vancouver,2014
+A,"foreign_investment, the_rich",,1,real_price,ck9qvpu,9,sydney,2014
+A,,,-1,,i31amj4,4,losangeles,2022
+A,cost_of_living,,2,real_price,dndbio9,9,sanfrancisco,2017
+A,,,-1,,hvv292t,2,vancouver,2022
+A,,,0,,d4y9dmp,7,losangeles,2016
+A,wage_price_imbalance,,2,"real_price, housing_to_income",fdhfzwt,1,toronto,2020
+A,,,-1,,cp362r7,3,losangeles,2015
+A,,,-1,,hfkwpob,10,bristol,2021
+A,government_policy(e),,1,availability,d51eokd,7,toronto,2016
+A,,,-1,,duiopyn,2,sanfrancisco,2018
+A,,building,1,quality,cfjfe94,2,losangeles,2014
+A,,bootstraps,0,,ctxzapa,8,toronto,2015
+A,,,-1,,d524ytp,7,vancouver,2016
+A,,,-1,,ho3lycw,12,auckland,2021
+A,nimbyism,,1,,ieahxpm,6,melbourne,2022
+A,"cost_of_living, wage_price_imbalance",,2,"real_price, quality",hlr7txl,11,melbourne,2021
+A,,bootstraps,0,"real_price, quality",cbjd59e,8,vancouver,2013
+A,the_rich,,2,"quality, real_price",dw976i3,3,sydney,2018
+A,,bootstraps,0,,ikptbhl,8,vancouver,2022
+A,,,0,real_price,c58zlcx,7,vancouver,2012
+A,"airbnb, the_rich",,2,,ellpcd2,4,toronto,2019
+A,,,-1,,hn5tpfl,12,melbourne,2021
+A,,,-1,,fft3xie,1,auckland,2020
+A,,,1,availability,f3vn0g4,10,vancouver,2019
+A,overcrowding,bootstraps,1,,ikuebzp,8,sydney,2022
+A,nimbyism,,0,,ccqutuf,10,sanfrancisco,2013
+A,"nimbyism, underbuilding",,2,availability,ghaodh8,12,toronto,2020
+A,,,1,,hvv85cj,2,vancouver,2022
+A,,,0,quality,gmrd85r,2,losangeles,2021
+A,,,-1,,dnbd3on,9,losangeles,2017
+A,"cost_of_living, the_rich, foreign_investment",government_policy(i),2,housing_to_income,c2hyqi5,9,toronto,2011
+A,,,-1,,iryg1cc,10,bristol,2022
+A,,,0,quality,ctxzkiy,8,toronto,2015
+A,,,1,real_price,i4nfqet,4,sydney,2022
+A,"foreign_investment, overcrowding",,1,availability,dfuswxg,4,sydney,2017
+A,"overcrowding, the_rich",,2,quality,dks0fgv,7,vancouver,2017
+A,cost_of_living,,1,real_price,iidfxh8,7,bristol,2022
+A,,,0,real_price,d51jo4d,7,vancouver,2016
+A,,bootstraps,0,"real_price, quality",igygwgg,7,london,2022
+A,,relocation,2,real_price,gmth4wx,2,losangeles,2021
+A,,bootstraps,1,quality,eu4oelv,7,toronto,2019
+A,,,0,,d1zxnts,4,vancouver,2016
+A,,,-1,,dui3ge3,2,sanfrancisco,2018
+A,"nimbyism, government_policy(e)",,2,quality,ho3gke6,12,sanfrancisco,2021
+A,,,-1,,j20vhyg,12,toronto,2022
+A,nimbyism,building,1,,gnhv4hr,2,sanfrancisco,2021
+A,,,0,real_price,i7a3y51,5,toronto,2022
+A,,,-1,,iyfx4pz,12,sydney,2022
+A,,,2,,d4js9bj,6,losangeles,2016
+A,,,0,quality,hbez6dc,9,sydney,2021
+A,,,1,"real_price, quality",deqghcv,3,toronto,2017
+A,foreign_investment,,2,availability,dnfene7,9,vancouver,2017
+A,,government_policy(i),1,,dyfy89l,5,vancouver,2018
+A,,,0,real_price,d52duu9,7,vancouver,2016
+A,wage_price_imbalance,,2,real_price,ghah9z2,12,toronto,2020
+A,the_rich,,1,real_price,em6i05k,4,melbourne,2019
+A,foreign_investment,government_policy(i),1,,hw1yb2h,2,vancouver,2022
+A,"the_rich, foreign_investment, cost_of_living",,1,,ikut2yj,8,vancouver,2022
+A,,,-1,,iuktwf4,11,sanfrancisco,2022
+A,,,-1,,ho6hifj,12,auckland,2021
+A,,building,2,availability,hly13y3,11,dublin,2021
+A,,,-1,,ctzfdca,8,toronto,2015
+A,overcrowding,,2,availability,j24vu1n,12,losangeles,2022
+A,,,-1,,hyzsg08,3,vancouver,2022
+A,,relocation,1,real_price,ciighuh,6,losangeles,2014
+A,,,2,"quality, real_price",cjunsg4,8,losangeles,2014
+A,,,0,real_price,c6i6mz9,10,toronto,2012
+A,government_policy(e),,1,"real_price, quality",dyvml7r,5,bristol,2018
+A,the_rich,group_action,2,"real_price, quality",f9o2oe3,12,toronto,2019
+A,,bootstraps,0,quality,i34kjwl,4,losangeles,2022
+A,,,2,real_price,c45xt5r,3,london,2012
+A,the_rich,,2,quality,hlrnoja,11,toronto,2021
+A,covid,government_policy(i),1,real_price,j2744ns,12,losangeles,2022
+A,,bootstraps,1,real_price,iib5cll,7,melbourne,2022
+A,,,-1,,c6r55cm,10,vancouver,2012
+A,,,-1,,d8f9x29,10,losangeles,2016
+A,,,0,quality,h6x5dzi,7,sydney,2021
+A,,,-1,,iw45q1k,11,dublin,2022
+A,cost_of_living,bootstraps,1,,iid8efu,7,bristol,2022
+A,,,-1,,fyzruqd,7,london,2020
+A,,bootstraps,2,,hn482wq,12,melbourne,2021
+A,,,0,"real_price, quality",hz0m6hh,3,vancouver,2022
+A,,,-1,,dsz4up8,1,losangeles,2018
+A,,,2,quality,hwpg764,2,melbourne,2022
+A,"government_policy(e), overcrowding",,1,,ikwn5lw,8,dublin,2022
+A,,,0,availability,efevvgj,1,sanfrancisco,2019
+A,"foreign_investment, the_rich",,2,,chm0puw,5,vancouver,2014
+A,,,-1,,f9nq97s,12,toronto,2019
+A,,,0,real_price,c9thque,5,vancouver,2013
+A,,,-1,,dsz2bn5,1,losangeles,2018
+A,the_rich,,0,real_price,em49ymr,4,melbourne,2019
+A,,,-1,,h70yxlq,7,sydney,2021
+A,,,0,quality,dd8aeme,2,melbourne,2017
+A,,,0,,c1t674n,5,sanfrancisco,2011
+A,,,-1,,ieaetvf,6,melbourne,2022
+A,foreign_investment,bootstraps,2,,hlrjo7r,11,toronto,2021
+A,,,1,"real_price, quality",fzsrco7,7,vancouver,2020
+A,,,0,,d1joe1y,3,sydney,2016
+A,"the_rich, cost_of_living",,1,,egunjgw,2,vancouver,2019
+A,"wage_price_imbalance, the_rich",relocation,2,"quality, housing_to_income",hs43hl1,1,toronto,2022
+B,,,-1,,h4blrfv,7,melbourne,2021
+B,,,0,availability,ikmh8ph,8,london,2022
+B,"underbuilding, foreign_investment",government_policy(i),1,"housing_to_income, availability, quality",h711k48,7,sydney,2021
+B,covid,government_policy(i),1,housing_to_income,fksrxg5,3,sydney,2020
+B,the_rich,,0,,ei1v5u3,3,sydney,2019
+B,,,-1,,d8pkgt3,10,toronto,2016
+B,overcrowding,,2,quality,gnkwrjf,2,sanfrancisco,2021
+B,,,0,quality,d5ap715,7,london,2016
+B,underbuilding,,1,"real_price, availability",fdhbil5,1,toronto,2020
+B,the_rich,,2,,ge4fgen,11,losangeles,2020
+B,,bootstraps,0,,eaylkq9,12,sydney,2018
+B,,,1,"housing_to_income, quality",em4o23c,4,sydney,2019
+B,foreign_investment,government_policy(i),1,,hvvddel,2,vancouver,2022
+B,,,-1,,dkq4rf8,7,vancouver,2017
+B,the_rich,,0,availability,eyd2yw5,8,toronto,2019
+B,wage_price_imbalance,,1,housing_to_income,hn6wewr,12,melbourne,2021
+B,the_old,,1,real_price,imudarx,9,losangeles,2022
+B,,building,1,quality,cyfc9r3,12,sanfrancisco,2015
+B,,,-1,,e0wz5kh,6,vancouver,2018
+B,,,1,real_price,dym9tvn,5,melbourne,2018
+B,,,-1,,e0xy7sa,6,vancouver,2018
+B,nimbyism,,1,quality,i3acgb6,4,melbourne,2022
+B,,,0,quality,d8h23sh,10,sanfrancisco,2016
+B,,,1,quality,duw5rj3,2,sanfrancisco,2018
+B,,building,0,real_price,duwwo5m,2,sanfrancisco,2018
+B,"underbuilding, government_policy(e)",,1,"real_price, quality",chyhb45,6,sanfrancisco,2014
+B,,building,0,"real_price, availability",c6rwzlh,10,melbourne,2012
+B,wage_price_imbalance,,2,housing_to_income,e6ocrdr,9,losangeles,2018
+B,"nimbyism, government_policy(e)","building, government_policy(i)",1,"housing_to_income, quality, availability",djioiuk,6,sanfrancisco,2017
+B,,,1,real_price,c6r93x6,10,vancouver,2012
+B,,,-1,,f133bh7,9,melbourne,2019
+B,,,-1,,j26vgul,12,losangeles,2022
+B,the_rich,,0,real_price,g6cizzp,9,losangeles,2020
+B,government_policy(e),"building, government_policy(i)",2,availability,g3oy6g7,9,london,2020
+B,,,-1,,ikseo7h,8,sydney,2022
+B,underbuilding,building,2,"availability, quality",ikrrp67,8,vancouver,2022
+B,,,-1,,he2i1tx,9,sydney,2021
+B,,,2,,hbevnwf,9,sydney,2021
+B,"the_rich, wage_price_imbalance, cost_of_living",,2,housing_to_income,cr1xvvx,5,losangeles,2015
+B,nimbyism,,0,,imv4vnq,9,losangeles,2022
+B,foreign_investment,,1,,gem9x2l,12,vancouver,2020
+B,government_policy(e),government_policy(i),2,,ikrvb2m,8,sydney,2022
+B,"government_policy(e), wage_price_imbalance",government_policy(i),2,housing_to_income,imtoaxo,9,losangeles,2022
+B,"covid, foreign_investment",,2,availability,gmrcv53,2,losangeles,2021
+B,,,-1,,gf9alk2,12,dublin,2020
+B,,,2,real_price,cwl2dph,11,vancouver,2015
+B,,,-1,,hwpen82,2,melbourne,2022
+B,wage_price_imbalance,,1,housing_to_income,imtj58u,9,losangeles,2022
+B,,,0,real_price,i7aiqr2,5,toronto,2022
+B,,,-1,,df9z11s,3,losangeles,2017
+B,,government_policy(i),1,availability,df10zst,3,toronto,2017
+B,,,-1,,h4lyh4a,7,toronto,2021
+B,,building,1,availability,dzkkcsl,5,losangeles,2018
+B,,,0,availability,hq7hfe0,12,dublin,2021
+B,"nimbyism, the_rich",,1,,elkmku0,4,toronto,2019
+B,,,-1,,duwthro,2,sanfrancisco,2018
+B,,,0,housing_to_income,cty6s7a,8,toronto,2015
+B,,"building, government_policy(i)",1,availability,dxn38e9,4,sanfrancisco,2018
+B,underbuilding,,2,availability,hledx9n,11,losangeles,2021
+B,wage_price_imbalance,,1,housing_to_income,cho6bgn,5,melbourne,2014
+B,,,0,,g9b5lxl,10,auckland,2020
+B,the_rich,,1,real_price,ghe3jmr,12,toronto,2020
+B,"the_rich, government_policy(e)",government_policy(i),2,real_price,dmi21bp,9,vancouver,2017
+B,"wage_price_imbalance, cost_of_living",,2,housing_to_income,e50njsn,8,vancouver,2018
+B,,,-1,,ds4697h,1,sanfrancisco,2018
+B,foreign_investment,,2,availability,f9ms75j,12,toronto,2019
+B,,,-1,,h8vnz15,8,toronto,2021
+B,cost_of_living,,1,housing_to_income,dfst3s9,4,sydney,2017
+B,,,1,real_price,gon2svw,2,auckland,2021
+B,,,0,real_price,dszrjz2,1,losangeles,2018
+B,"cost_of_living, wage_price_imbalance",,1,housing_to_income,fdkquvs,1,toronto,2020
+B,,,0,,ei1t0us,3,sydney,2019
+B,,,1,availability,ckle9ky,9,vancouver,2014
+B,,,-1,,hq5qmuv,12,dublin,2021
+B,"the_rich, wage_price_imbalance",,2,"real_price, housing_to_income",dmrcrlf,9,vancouver,2017
+B,,,2,real_price,fi862pc,2,toronto,2020
+B,,,1,availability,gg8n7a9,12,sanfrancisco,2020
+B,"government_policy(e), the_rich",,1,,i63ii9l,4,sanfrancisco,2022
+B,the_rich,,1,availability,e6o7u8k,9,losangeles,2018
+B,,,-1,,db5yg60,12,vancouver,2016
+B,,,0,,fb60cbu,12,vancouver,2019
+B,,,-1,,eyckef0,8,toronto,2019
+B,,,1,real_price,iyyu9kj,12,vancouver,2022
+B,,,-1,,eludfen,4,vancouver,2019
+B,,,0,real_price,dd99qam,2,melbourne,2017
+B,,,1,,gfsf1a1,12,sanfrancisco,2020
+B,,,-1,,ikqk75u,8,vancouver,2022
+B,wage_price_imbalance,,2,real_price,h8u6647,8,toronto,2021
+B,government_policy(e),government_policy(i),2,housing_to_income,imtnn7e,9,losangeles,2022
+B,cost_of_living,,1,real_price,i4n1o16,4,sydney,2022
+B,"the_rich, government_policy(e)",,1,availability,dfkgdtq,3,toronto,2017
+B,,,0,,d50l60s,7,vancouver,2016
+B,,,-1,,d8h0vxm,10,sanfrancisco,2016
+B,,,2,real_price,c9tnh4n,5,vancouver,2013
+B,"wage_price_imbalance, cost_of_living",,1,housing_to_income,dubvzn8,2,sanfrancisco,2018
+B,,,2,,d2wmv9k,5,toronto,2016
+B,,,-1,,hlrk8xv,11,toronto,2021
+B,,,1,real_price,d52caii,7,vancouver,2016
+B,wage_price_imbalance,,1,housing_to_income,hsm0own,1,london,2022
+B,,,0,real_price,eluwlyk,4,vancouver,2019
+B,wage_price_imbalance,,2,housing_to_income,hyyvwv3,3,vancouver,2022
+B,the_rich,,2,"real_price, housing_to_income, availability",cymgpoq,1,melbourne,2016
+B,wage_price_imbalance,,2,housing_to_income,ikwq75h,8,dublin,2022
+B,,,-1,,ieblho4,6,melbourne,2022
+B,"nimbyism, overcrowding",building,1,availability,iyy06fk,12,vancouver,2022
+B,wage_price_imbalance,,2,housing_to_income,e6p00n1,9,losangeles,2018
+B,,,1,"quality, real_price",c299lzf,8,toronto,2011
+B,,,1,real_price,c2gnri0,9,melbourne,2011
+B,,,-1,,dlc9p7i,8,sanfrancisco,2017
+B,,,-1,,ehwkfqv,3,london,2019
+B,foreign_investment,government_policy(i),1,"availability, real_price",hvx098o,2,vancouver,2022
+B,foreign_investment,,1,,c7ltn3b,12,toronto,2012
+B,,,-1,,hdttkek,9,london,2021
+B,,,0,real_price,igzjvjj,7,london,2022
+B,underbuilding,,2,availability,ealsuk8,11,toronto,2018
+B,,,1,quality,el7ymqq,4,losangeles,2019
+B,,,-1,,hnwz6g1,12,sanfrancisco,2021
+B,"government_policy(e), the_rich, wage_price_imbalance",,2,real_price,ikxnn0k,8,dublin,2022
+B,,,2,housing_to_income,eluelq3,4,vancouver,2019
+B,foreign_investment,,2,real_price,c55h26j,6,vancouver,2012
+B,,,0,real_price,d29w1bf,4,losangeles,2016
+B,,,2,real_price,djqjbb8,7,sydney,2017
+B,,,1,real_price,ikxtits,8,dublin,2022
+B,,,-1,,ikr4b4x,8,vancouver,2022
+B,,,-1,,go4jrgs,2,london,2021
+B,,,-1,,duhwnni,2,losangeles,2018
+B,,,-1,,e4xnfz1,8,toronto,2018
+B,wage_price_imbalance,,0,real_price,hsmmt9c,1,london,2022
+B,the_rich,,1,,ehwotus,3,london,2019
+B,,,0,"housing_to_income, real_price",d218l5b,4,toronto,2016
+B,,,-1,,da0m1ht,11,london,2016
+B,,,-1,,d50jkjn,7,sanfrancisco,2016
+B,,,-1,,f9nj6ly,12,toronto,2019
+B,,,0,real_price,crvastx,6,london,2015
+B,,,-1,,f0y08gi,9,melbourne,2019
+B,,,-1,,e0yreqf,6,vancouver,2018
+B,,,0,real_price,ep84fgv,5,losangeles,2019
+B,,,2,availability,irxa1hf,10,bristol,2022
+B,,,0,"real_price, availability",dcuyb8s,1,melbourne,2017
+B,,,2,real_price,hyzpk83,3,vancouver,2022
+B,underbuilding,government_policy(i),1,availability,dj6xugt,6,losangeles,2017
+B,wage_price_imbalance,,2,real_price,ei1xj0l,3,sydney,2019
+B,,,-1,,cfdfmxj,2,vancouver,2014
+B,government_policy(e),,2,quality,f9oe5vh,12,toronto,2019
+B,foreign_investment,,1,real_price,cynie55,1,melbourne,2016
+B,,,1,real_price,ctzb92o,8,toronto,2015
+B,cost_of_living,,1,real_price,he60km9,9,sydney,2021
+B,overcrowding,,1,"real_price, quality",ctxydi7,8,toronto,2015
+B,,,-1,,gnh33bl,2,sydney,2021
+B,,,1,real_price,ha3cehp,8,vancouver,2021
+B,,,-1,,j0snhdm,12,vancouver,2022
+B,"overcrowding, underbuilding",,2,"quality, availability",iuo6k9t,11,auckland,2022
+B,,,1,real_price,cwl8snv,11,vancouver,2015
+B,nimbyism ,,1,,ep6tu0y,5,losangeles,2019
+B,,,-1,,i9x29dq,5,auckland,2022
+B,,,0,"real_price, quality",dszrveo,1,losangeles,2018
+B,,,0,real_price,d535u5c,7,vancouver,2016
+B,"cost_of_living, wage_price_imbalance",,2,"real_price, housing_to_income",i18aee3,3,melbourne,2022
+B,,,0,,dyt5wdf,5,london,2018
+B,,,0,real_price,hnx77l8,12,sanfrancisco,2021
+B,,,0,real_price,em4p31c,4,melbourne,2019
+B,,,-1,,gngb7dg,2,sydney,2021
+B,foreign_investment,government_policy(i),0,real_price,ep7agzo,5,losangeles,2019
+B,airbnb,,1,availability,fi7lpzg,2,toronto,2020
+B,,,-1,,cvli06x,10,sanfrancisco,2015
+B,,,-1,,iee4j87,7,melbourne,2022
+B,,,-1,,cubwuef,8,losangeles,2015
+B,,,2,availability,d51cn27,7,toronto,2016
+B,,,-1,,dzixlvn,5,losangeles,2018
+B,"nimbyism, the_rich",,2,,ealcoh7,11,toronto,2018
+B,,,-1,,de3pbrt,2,vancouver,2017
+B,,,-1,,hr5957d,1,toronto,2022
+B,,,-1,,hue9mj6,1,auckland,2022
+B,cost_of_living,,1,"real_price, housing_to_income",cwy5cxj,11,melbourne,2015
+B,"wage_price_imbalance, overcrowding",relocation,2,"real_price, housing_to_income",crusalt,6,london,2015
+B,,building,0,availability,g3ntepd,9,london,2020
+B,foreign_investment,,1,real_price,ep90yan,5,losangeles,2019
+B,overcrowding,,2,availability,cd3cw85,10,toronto,2013
+B,,,0,real_price,cy98cqv,12,sanfrancisco,2015
+B,,,-1,,d8bxigj,10,melbourne,2016
+B,the_old,,1,quality,hsm14oa,1,london,2022
+B,government_policy(e),,2,,i628lh1,4,sanfrancisco,2022
+B,,,-1,,ho6e2kz,12,auckland,2021
+B,,,1,real_price,cc2jlzy,9,losangeles,2013
+B,,,2,real_price,eb4yz2j,12,toronto,2018
+B,,,-1,,hn2nhdg,12,melbourne,2021
+B,wage_price_imbalance,,2,real_price,e4wyg71,8,toronto,2018
+B,,,-1,,ctxz92j,8,toronto,2015
+B,wage_price_imbalance,,2,"real_price, housing_to_income",drmz1b2,12,bristol,2017
+B,foreign_investment,,1,,hbaiuc8,9,vancouver,2021
+B,foreign_investment,,1,,hlrn4jv,11,toronto,2021
+B,"wage_price_imbalance, cost_of_living",,2,housing_to_income,cju0qfq,8,losangeles,2014
+B,,,0,housing_to_income,hr397y6,1,toronto,2022
+B,,,0,real_price,dkpue4f,7,vancouver,2017
+B,,,0,real_price,fiw3ljg,2,toronto,2020
+B,foreign_investment,,2,,cs85zu4,6,auckland,2015
+B,,,0,availability,irwafa4,10,bristol,2022
+B,,,0,real_price,dgrrt5g,4,london,2017
+B,,,0,real_price,i4cb255,4,bristol,2022
+B,,,1,"quality, availability",igxn7wz,7,london,2022
+B,,,2,real_price,ih0vd3u,7,london,2022
+B,,,-1,,duj0t4d,2,sanfrancisco,2018
+B,,,-1,,i4ndz77,4,sydney,2022
+B,"foreign_investment, the_rich",,1,,eguyewi,2,vancouver,2019
+B,,,-1,,di9fm8l,5,sydney,2017
+B,,,-1,,el7nfj0,4,losangeles,2019
+B,,,-1,,ho2ww4c,12,auckland,2021
+B,"the_rich, foreign_investment",government_policy(i),2,,ghb8aga,12,toronto,2020
+B,"cost_of_living, wage_price_imbalance",,2,housing_to_income,hr51xlv,1,toronto,2022
+B,the_rich,,2,,igylo4f,7,london,2022
+B,,relocation,1,"availability, quality, housing_to_income",f9mpsgv,12,toronto,2019
+B,,,1,quality,gdi9vr6,11,losangeles,2020
+B,,,-1,,d54edru,7,vancouver,2016
+B,government_policy(e),government_policy(i),1,,gdj6f4x,11,losangeles,2020
+B,,,0,,egxq1zi,2,vancouver,2019
+B,foreign_investment,,2,real_price,h8t9mon,8,toronto,2021
+B,,,1,quality,f9n6nv9,12,toronto,2019
+B,,government_policy(i),1,,co838bo,2,london,2015
+B,,,-1,,d213um9,4,toronto,2016
+B,,,1,real_price,dhn1why,5,london,2017
+B,,,1,real_price,gppad2r,3,toronto,2021
+B,,"government_policy(i), building",1,,co7u2gb,2,london,2015
+B,nimbyism,relocation,1,quality,ieaw6x2,6,melbourne,2022
+B,,,-1,,d51fz8n,7,vancouver,2016
+B,,,-1,,dzg06pl,5,toronto,2018
+B,,,0,real_price,hs7rz8z,1,toronto,2022
+B,,,-1,,iuponjy,11,auckland,2022
+B,"nimbyism, government_policy(e)",,2,availability,euepat1,7,sanfrancisco,2019
+B,,,1,housing_to_income,hz0kew6,3,vancouver,2022
+B,,,-1,,dt01i1u,1,losangeles,2018
+B,,,-1,,hlgaddi,11,losangeles,2021
+B,,,-1,,d53s2ot,7,vancouver,2016
+B,,,1,real_price,d525cxs,7,vancouver,2016
+B,,,-1,,dges00m,4,sanfrancisco,2017
+B,,bootstraps,1,,d22g1gd,4,toronto,2016
+B,,,0,real_price,dgseejc,4,london,2017
+B,"wage_price_imbalance, the_rich",,2,housing_to_income,ibojmnu,6,sydney,2022
+B,,,-1,,dzgcl0s,5,toronto,2018
+B,,relocation,1,,ctegjbu,7,sanfrancisco,2015
+B,,,1,housing_to_income,d53guu8,7,vancouver,2016
+B,,,0,,ep8ot24,5,losangeles,2019
+B,,,0,real_price,dnkh2n3,9,melbourne,2017
+B,,,1,"real_price, housing_to_income, quality",i4xziun,4,london,2022
+B,foreign_investment,,2,availability,gdhpfz1,11,losangeles,2020
+B,,,-1,quality,fjhoa9q,3,toronto,2020
+B,,,0,,imuuqu5,9,losangeles,2022
+B,foreign_investment,,0,,egtg120,2,vancouver,2019
+B,,bootstraps,1,real_price,dnp1pc1,9,melbourne,2017
+B,,,0,real_price,csvimm1,7,toronto,2015
+B,,,-1,,db7pnl5,12,vancouver,2016
+B,,,0,"real_price, quality",d32tmyw,5,losangeles,2016
+B,,,0,real_price,egw9dtl,2,vancouver,2019
+B,"wage_price_imbalance, cost_of_living",,2,housing_to_income,cs2f0k4,6,melbourne,2015
+B,nimbyism ,government_policy(i),1,availability,imuiiz7,9,losangeles,2022
+B,,,-1,,cdmrxme,11,sanfrancisco,2013
+B,government_policy(e),,1,,gpo36ba,3,toronto,2021
+B,foreign_investment,,0,,didcpc7,6,vancouver,2017
+B,"government_policy(e), the_rich",relocation,2,housing_to_income,cvx65no,10,sanfrancisco,2015
+B,government_policy(e),,2,quality,hn1gemi,12,melbourne,2021
+B,,,-1,,dgs2rtc,4,london,2017
+B,"government_policy(e), the_rich, wage_price_imbalance",government_policy(i),2,"quality, housing_to_income",eali3tl,11,toronto,2018
+B,,,-1,,daiegxb,11,melbourne,2016
+B,,,-1,,dftgvuy,4,sydney,2017
+B,,,-1,,dhmrenl,5,sanfrancisco,2017
+B,,,0,real_price,cwidxi8,10,london,2015
+B,,,-1,,ghalbkt,12,toronto,2020
+B,,,-1,,cnw2l89,1,toronto,2015
+B,,,-1,,dziv6pi,5,losangeles,2018
+B,,,-1,,ctw9ncg,8,losangeles,2015
+B,,,0,real_price,dyojd3k,5,melbourne,2018
+B,government_policy(e),,2,real_price,gyrzqlk,5,sydney,2021
+B,,relocation,1,,ddxppk3,2,melbourne,2017
+B,,,0,real_price,hleqjeb,11,losangeles,2021
+B,"government_policy(e), foreign_investment",,2,,iky8zmg,8,dublin,2022
+B,wage_price_imbalance,,2,"real_price, housing_to_income",cq2j86l,4,vancouver,2015
+B,"the_old, the_rich",,2,,ii8wk3a,7,melbourne,2022
+B,,,-1,,dngyv5i,9,vancouver,2017
+B,"overcrowding, cost_of_living",building,2,"housing_to_income, availability",ds3r1eu,1,sanfrancisco,2018
+B,"wage_price_imbalance, the_rich, government_policy(e)",group_action,2,"quality, housing_to_income",etb04s3,7,sanfrancisco,2019
+B,,,1,availability,e6nvin9,9,melbourne,2018
+B,"the_rich, government_policy(e), wage_price_imbalance",,2,housing_to_income,h6gmat8,7,bristol,2021
+B,,,-1,,f3w5er1,10,vancouver,2019
+B,,,-1,,hnbzhij,12,melbourne,2021
+B,,,0,real_price,eyecbu9,8,toronto,2019
+B,,,-1,,em4buxy,4,melbourne,2019
+B,,relocation,2,,f9n10go,12,toronto,2019
+B,,,-1,,ct2h51h,7,melbourne,2015
+B,,,1,"real_price, quality",eb5bmg5,12,toronto,2018
+B,,,-1,,dg8q6z8,4,losangeles,2017
+B,,,0,real_price,ghcu2fp,12,toronto,2020
+B,,,1,real_price,ei23wnz,3,sydney,2019
+B,,building,1,real_price,igx7i5b,7,london,2022
+B,the_rich,,2,real_price,d2bbho1,4,sydney,2016
+B,"wage_price_imbalance, cost_of_living",relocation,1,"housing_to_income, availability",ckl08lc,9,vancouver,2014
+B,the_rich,,2,availability,cju02e8,8,losangeles,2014
+B,,bootstraps,2,real_price,cwkz794,11,vancouver,2015
+B,,,1,,g4jzzpu,9,vancouver,2020
+B,"underbuilding, overcrowding",building,1,availability,d1zzcmp,4,vancouver,2016
+B,"the_rich, wage_price_imbalance",bootstraps,2,housing_to_income,hb8uwgu,9,vancouver,2021
+B,,,2,,gx8g8a0,5,bristol,2021
+B,,,-1,,d8bo98x,10,melbourne,2016
+B,foreign_investment,government_policy(i),1,real_price,dyfbn2s,5,vancouver,2018
+B,,,-1,,dfaoi4p,3,losangeles,2017
+B,,,-1,,c1ast1g,12,sydney,2010
+B,,,-1,,g3p8xdn,9,london,2020
+B,,,-1,,epc6mog,5,losangeles,2019
+B,,relocation,1,,d8pez1t,10,toronto,2016
+B,wage_price_imbalance,,2,"real_price, housing_to_income",d2b7exu,4,sydney,2016
+B,,,1,real_price,gpo1omw,3,toronto,2021
+B,cost_of_living,"government_policy(i), building",1,"housing_to_income, availability",hvvx783,2,vancouver,2022
+B,"overcrowding, underbuilding",building,2,"availability, quality",dfvqyf4,4,toronto,2017
+B,"wage_price_imbalance, cost_of_living",,2,"availability, housing_to_income",hslvuk6,1,london,2022
+B,foreign_investment,,2,real_price,hs4wdwr,1,toronto,2022
+B,"cost_of_living, wage_price_imbalance",relocation,2,housing_to_income,e4zy38t,8,vancouver,2018
+B,,relocation,0,quality,i325pfa,4,losangeles,2022
+B,,,-1,,c1a2ldb,12,sanfrancisco,2010
+B,"underbuilding, overcrowding",building,1,availability,dmjxtsp,9,vancouver,2017
+B,"underbuilding, overcrowding",relocation,2,"availability, real_price",g901gij,10,bristol,2020
+B,government_policy(e),government_policy(i),1,availability,d4yyny7,7,losangeles,2016
+B,overcrowding,"building, government_policy(i)",0,real_price,gpoilyz,3,london,2021
+B,,,-1,,dukdar5,2,sanfrancisco,2018
+B,,,-1,,chmv9go,5,sanfrancisco,2014
+B,,,0,,fi7guna,2,toronto,2020
+B,,,0,real_price,ctzg4hk,8,toronto,2015
+B,,,-1,,dmj7y8o,9,vancouver,2017
+B,,,1,availability,effaf37,1,sanfrancisco,2019
+B,"nimbyism, underbuilding, overcrowding",,2,availability,dndj03n,9,sanfrancisco,2017
+B,,,1,real_price,c39t5j4,12,toronto,2011
+B,,,1,"quality, real_price",ehxx58o,3,sanfrancisco,2019
+B,,,-1,,eqx8sk8,6,bristol,2019
+B,,,-1,,fs4t1f1,5,vancouver,2020
+B,,,-1,,hduhuda,9,london,2021
+B,"nimbyism, the_rich",,1,"availability, quality",e06avao,6,losangeles,2018
+B,,,1,real_price,elkgc0c,4,toronto,2019
+B,"the_rich, wage_price_imbalance",,2,housing_to_income,de3y12p,2,vancouver,2017
+B,,relocation,2,,hr3vydo,1,toronto,2022
+B,,,-1,,dykvxd8,5,melbourne,2018
+B,,,-1,,cn8e6os,12,vancouver,2014
+B,,,-1,,in1tspr,9,losangeles,2022
+B,,bootstraps,2,real_price,f9mvetl,12,toronto,2019
+B,"wage_price_imbalance, cost_of_living",bootstraps,1,housing_to_income,djqmnc9,7,sydney,2017
+B,,,-1,,i4xvoip,4,london,2022
+B,,,-1,,cp1pj18,3,melbourne,2015
+B,,,-1,,dianjne,6,bristol,2017
+B,,,2,,i3b5smc,4,melbourne,2022
+B,,,-1,,hsjwf36,1,london,2022
+B,wage_price_imbalance,,1,"housing_to_income, real_price",igwuffa,7,london,2022
+B,,,1,housing_to_income,fb4oaif,12,vancouver,2019
+B,"the_rich, wage_price_imbalance",,2,real_price,gdi985b,11,losangeles,2020
+B,,,1,real_price,c1tjgiv,5,losangeles,2011
+B,,,1,quality,i15634r,3,melbourne,2022
+B,"government_policy(e), wage_price_imbalance",government_policy(i),2,housing_to_income,hlvblkt,11,melbourne,2021
+B,,,-1,,dnbm52d,9,losangeles,2017
+B,foreign_investment,,2,real_price,j1coxm2,12,sydney,2022
+B,,,1,real_price,ha2o4px,8,vancouver,2021
+B,,,-1,,f9n2men,12,toronto,2019
+B,"government_policy(e), airbnb",government_policy(i),1,,eb7pso7,12,toronto,2018
+B,,,-1,,cwka8oc,11,vancouver,2015
+B,,,-1,,cyo15e9,1,melbourne,2016
+B,nimbyism,building,0,,dgeuhpg,4,sanfrancisco,2017
+B,,relocation,2,real_price,inia3mw,9,bristol,2022
+B,,,-1,,gf84imo,12,dublin,2020
+B,"cost_of_living, wage_price_imbalance",,2,housing_to_income,ddyjqi5,2,melbourne,2017
+B,,,-1,,fz0r4lq,7,london,2020
+B,,,1,real_price,cty70c1,8,toronto,2015
+B,"overcrowding, the_rich, nimbyism",building,2,,dzglxbl,5,toronto,2018
+B,,,1,housing_to_income,dfw8q5g,4,toronto,2017
+B,,,-1,,he2wrzl,9,sydney,2021
+B,,,-1,,igx695p,7,london,2022
+B,nimbyism,,2,,dj6risa,6,losangeles,2017
+B,,,-1,,iyyknde,12,vancouver,2022
+B,,,-1,,h7r3pfk,8,auckland,2021
+B,"the_rich, cost_of_living",,2,"housing_to_income, real_price",dj7pslm,6,losangeles,2017
+B,,,-1,,chlzp1w,5,vancouver,2014
+B,,relocation,1,real_price,elurxsu,4,vancouver,2019
+B,,,1,"real_price, quality",i7adec1,5,toronto,2022
+B,the_rich,,2,real_price,gpo4e01,3,toronto,2021
+B,the_rich,,1,,d661x1p,8,vancouver,2016
+B,"government_policy(e), overcrowding",government_policy(i),1,real_price,ffszkbj,1,auckland,2020
+B,,,1,real_price,igwonq0,7,london,2022
+B,"wage_price_imbalance, cost_of_living",,2,housing_to_income,gsz050d,3,vancouver,2021
+B,,,-1,,j20nbou,12,toronto,2022
+B,"underbuilding, the_rich",building,1,,chme2wk,5,sanfrancisco,2014
+B,"the_rich, government_policy(e)",,0,real_price,cpy8tvr,4,bristol,2015
+B,,,-1,,c4l2fr4,5,london,2012
+B,,,-1,,dul2v28,2,melbourne,2018
+B,,,-1,,gpoipj0,3,toronto,2021
+B,,,-1,,ih0seak,7,london,2022
+B,,,-1,,eluezmh,4,vancouver,2019
+B,cost_of_living,,1,housing_to_income,cx66ioy,11,london,2015
+B,,,1,availability,iyz744y,12,vancouver,2022
+B,,,-1,,i30g72l,4,losangeles,2022
+B,cost_of_living,government_policy(i),1,real_price,dzixky8,5,losangeles,2018
+B,,,-1,,imu5tgj,9,losangeles,2022
+B,,,-1,,gyrme42,5,sydney,2021
+B,,,1,quality,i4y57bv,4,london,2022
+B,foreign_investment,,1,real_price,d50com7,7,vancouver,2016
+B,,building,0,real_price,ep7xaqg,5,losangeles,2019
+B,"nimbyism, the_rich, overcrowding",,1,"availability, quality",cp1jrg2,3,melbourne,2015
+B,"the_rich, foreign_investment",,2,real_price,ckmaebc,9,vancouver,2014
+B,"foreign_investment, the_rich, government_policy(e)",,2,real_price,ck9qvpu,9,sydney,2014
+B,,,-1,,i31amj4,4,losangeles,2022
+B,,,1,real_price,dndbio9,9,sanfrancisco,2017
+B,,,-1,,hvv292t,2,vancouver,2022
+B,the_rich,,0,real_price,d4y9dmp,7,losangeles,2016
+B,,,0,"real_price, housing_to_income",fdhfzwt,1,toronto,2020
+B,,,-1,,cp362r7,3,losangeles,2015
+B,,,0,quality,hfkwpob,10,bristol,2021
+B,government_policy(e),,2,real_price,d51eokd,7,toronto,2016
+B,,,-1,,duiopyn,2,sanfrancisco,2018
+B,,,2,"real_price, quality",cfjfe94,2,losangeles,2014
+B,,,-1,,ctxzapa,8,toronto,2015
+B,,relocation,0,,d524ytp,7,vancouver,2016
+B,,,-1,,ho3lycw,12,auckland,2021
+B,"underbuilding, nimbyism",building,2,availability,ieahxpm,6,melbourne,2022
+B,cost_of_living,,2,"real_price, availability, quality",hlr7txl,11,melbourne,2021
+B,,,1,"real_price, quality",cbjd59e,8,vancouver,2013
+B,,,2,real_price,dw976i3,3,sydney,2018
+B,,bootstraps,1,,ikptbhl,8,vancouver,2022
+B,,,0,real_price,c58zlcx,7,vancouver,2012
+B,the_rich,,1,availability,ellpcd2,4,toronto,2019
+B,,,0,real_price,hn5tpfl,12,melbourne,2021
+B,,,-1,,fft3xie,1,auckland,2020
+B,"foreign_investment, overcrowding",government_policy(i),1,"availability, real_price",f3vn0g4,10,vancouver,2019
+B,,,1,"availability, real_price",ikuebzp,8,sydney,2022
+B,,,1,,ccqutuf,10,sanfrancisco,2013
+B,"nimbyism, underbuilding",,2,,ghaodh8,12,toronto,2020
+B,,,0,availability,hvv85cj,2,vancouver,2022
+B,,,0,quality,gmrd85r,2,losangeles,2021
+B,,,-1,,dnbd3on,9,losangeles,2017
+B,"the_rich, foreign_investment",,2,"housing_to_income, real_price",c2hyqi5,9,toronto,2011
+B,,,-1,,iryg1cc,10,bristol,2022
+B,the_rich,,2,,ctxzkiy,8,toronto,2015
+B,,,2,real_price,i4nfqet,4,sydney,2022
+B,foreign_investment,,2,real_price,dfuswxg,4,sydney,2017
+B,"the_rich, foreign_investment",,2,"real_price, availability",dks0fgv,7,vancouver,2017
+B,,,0,real_price,iidfxh8,7,bristol,2022
+B,government_policy(e),,1,,d51jo4d,7,vancouver,2016
+B,,bootstraps,0,real_price,igygwgg,7,london,2022
+B,government_policy(e),relocation,2,real_price,gmth4wx,2,losangeles,2021
+B,the_rich,,1,,eu4oelv,7,toronto,2019
+B,,,1,quality,d1zxnts,4,vancouver,2016
+B,,,-1,,dui3ge3,2,sanfrancisco,2018
+B,"nimbyism, overcrowding",building,2,"real_price, availability",ho3gke6,12,sanfrancisco,2021
+B,,,-1,,j20vhyg,12,toronto,2022
+B,nimbyism,building,1,availability,gnhv4hr,2,sanfrancisco,2021
+B,,,0,real_price,i7a3y51,5,toronto,2022
+B,,,-1,,iyfx4pz,12,sydney,2022
+B,,,2,"housing_to_income, real_price",d4js9bj,6,losangeles,2016
+B,,,0,quality,hbez6dc,9,sydney,2021
+B,the_rich,,2,real_price,deqghcv,3,toronto,2017
+B,foreign_investment,,2,,dnfene7,9,vancouver,2017
+B,,bootstraps,0,,dyfy89l,5,vancouver,2018
+B,,,0,,d52duu9,7,vancouver,2016
+B,wage_price_imbalance,government_policy(i),1,"real_price, housing_to_income",ghah9z2,12,toronto,2020
+B,,,1,real_price,em6i05k,4,melbourne,2019
+B,government_policy(e),,2,real_price,hw1yb2h,2,vancouver,2022
+B,"foreign_investment, the_rich",,2,real_price,ikut2yj,8,vancouver,2022
+B,,,-1,,iuktwf4,11,sanfrancisco,2022
+B,,bootstraps,2,,ho6hifj,12,auckland,2021
+B,cost_of_living,building,0,availability,hly13y3,11,dublin,2021
+B,,,-1,,ctzfdca,8,toronto,2015
+B,,,-1,,j24vu1n,12,losangeles,2022
+B,,,-1,,hyzsg08,3,vancouver,2022
+B,,relocation,1,real_price,ciighuh,6,losangeles,2014
+B,,,2,real_price,cjunsg4,8,losangeles,2014
+B,,,0,real_price,c6i6mz9,10,toronto,2012
+B,cost_of_living,,2,real_price,dyvml7r,5,bristol,2018
+B,"the_rich, cost_of_living",,1,real_price,f9o2oe3,12,toronto,2019
+B,,,0,housing_to_income,i34kjwl,4,losangeles,2022
+B,,government_policy(i),2,real_price,c45xt5r,3,london,2012
+B,,government_policy(i),2,"quality, availability, housing_to_income",hlrnoja,11,toronto,2021
+B,,government_policy(i),0,real_price,j2744ns,12,losangeles,2022
+B,,bootstraps,2,real_price,iib5cll,7,melbourne,2022
+B,,,-1,,c6r55cm,10,vancouver,2012
+B,,,-1,,d8f9x29,10,losangeles,2016
+B,,,0,quality,h6x5dzi,7,sydney,2021
+B,,,-1,,iw45q1k,11,dublin,2022
+B,cost_of_living,,1,,iid8efu,7,bristol,2022
+B,,bootstraps,1,,fyzruqd,7,london,2020
+B,,bootstraps,2,,hn482wq,12,melbourne,2021
+B,cost_of_living,,0,real_price,hz0m6hh,3,vancouver,2022
+B,,,-1,,dsz4up8,1,losangeles,2018
+B,,,2,quality,hwpg764,2,melbourne,2022
+B,government_policy(e),government_policy(i),1,,ikwn5lw,8,dublin,2022
+B,,,0,real_price,efevvgj,1,sanfrancisco,2019
+B,"the_rich, foreign_investment",,2,,chm0puw,5,vancouver,2014
+B,,,-1,,f9nq97s,12,toronto,2019
+B,,,0,real_price,c9thque,5,vancouver,2013
+B,,,-1,,dsz2bn5,1,losangeles,2018
+B,the_rich,bootstraps,1,,em49ymr,4,melbourne,2019
+B,,,-1,,h70yxlq,7,sydney,2021
+B,,,1,quality,dd8aeme,2,melbourne,2017
+B,,,0,,c1t674n,5,sanfrancisco,2011
+B,,,-1,,ieaetvf,6,melbourne,2022
+B,"foreign_investment, the_rich",,2,,hlrjo7r,11,toronto,2021
+B,,,-1,,fzsrco7,7,vancouver,2020
+B,,,-1,,d1joe1y,3,sydney,2016
+B,,,2,real_price,egunjgw,2,vancouver,2019
+B,"cost_of_living, wage_price_imbalance",relocation,2,"real_price, housing_to_income",hs43hl1,1,toronto,2022
+C,,,-1,,h4blrfv,7,melbourne,2021
+C,government_policy(e),government_policy(i),0,,ikmh8ph,8,london,2022
+C,,building,1,quality,h711k48,7,sydney,2021
+C,covid,,2,housing_to_income,fksrxg5,3,sydney,2020
+C,wage_price_imbalance,,0,housing_to_income,ei1v5u3,3,sydney,2019
+C,government_policy(e),government_policy(i),2,"housing_to_income, quality",d8pkgt3,10,toronto,2016
+C,overcrowding,,1,,gnkwrjf,2,sanfrancisco,2021
+C,,,-1,,d5ap715,7,london,2016
+C,demand,,2,real_price,fdhbil5,1,toronto,2020
+C,the_rich,,2,real_price,ge4fgen,11,losangeles,2020
+C,,bootstraps,1,,eaylkq9,12,sydney,2018
+C,,bootstraps,1,real_price,em4o23c,4,sydney,2019
+C,,government_policy(i),2,real_price,hvvddel,2,vancouver,2022
+C,,,-1,,dkq4rf8,7,vancouver,2017
+C,,,0,housing_to_income,eyd2yw5,8,toronto,2019
+C,,bootstraps,1,real_price,hn6wewr,12,melbourne,2021
+C,the_old,,1,housing_to_income,imudarx,9,losangeles,2022
+C,,building,1,availability,cyfc9r3,12,sanfrancisco,2015
+C,,government_policy(i),1,quality,e0wz5kh,6,vancouver,2018
+C,demand,,1,real_price,dym9tvn,5,melbourne,2018
+C,,,-1,,e0xy7sa,6,vancouver,2018
+C,nimbyism,,2,,i3acgb6,4,melbourne,2022
+C,,building,1,quality,d8h23sh,10,sanfrancisco,2016
+C,nimbyism,,0,,duw5rj3,2,sanfrancisco,2018
+C,,,0,,duwwo5m,2,sanfrancisco,2018
+C,nimbyism,,0,,chyhb45,6,sanfrancisco,2014
+C,,building,1,,c6rwzlh,10,melbourne,2012
+C,"wage_price_imbalance, cost_of_living",,1,real_price,e6ocrdr,9,losangeles,2018
+C,nimbyism,"building, group_action, government_policy(i)",2,"quality, availability",djioiuk,6,sanfrancisco,2017
+C,,bootstraps,1,real_price,c6r93x6,10,vancouver,2012
+C,the_old,,2,"housing_to_income, real_price",f133bh7,9,melbourne,2019
+C,government_policy(e),,1,,j26vgul,12,losangeles,2022
+C,government_policy(e),government_policy(i),1,real_price,g6cizzp,9,losangeles,2020
+C,government_policy(e),government_policy(i),2,"availability, real_price",g3oy6g7,9,london,2020
+C,the_rich,,1,availability,ikseo7h,8,sydney,2022
+C,,building,2,availability,ikrrp67,8,vancouver,2022
+C,,,-1,,he2i1tx,9,sydney,2021
+C,,building,0,quality,hbevnwf,9,sydney,2021
+C,"wage_price_imbalance, cost_of_living, the_rich",,2,"housing_to_income, real_price",cr1xvvx,5,losangeles,2015
+C,"demand, nimbyism",,1,real_price,imv4vnq,9,losangeles,2022
+C,foreign_investment,,2,,gem9x2l,12,vancouver,2020
+C,government_policy(e),,1,,ikrvb2m,8,sydney,2022
+C,"wage_price_imbalance, cost_of_living",relocation,2,"real_price, availability",imtoaxo,9,losangeles,2022
+C,"covid, foreign_investment",,2,real_price,gmrcv53,2,losangeles,2021
+C,cost_of_living,bootstraps,2,real_price,gf9alk2,12,dublin,2020
+C,,bootstraps,1,,cwl2dph,11,vancouver,2015
+C,,,-1,,hwpen82,2,melbourne,2022
+C,wage_price_imbalance,,2,real_price,imtj58u,9,losangeles,2022
+C,demand,,2,real_price,i7aiqr2,5,toronto,2022
+C,cost_of_living,,0,,df9z11s,3,losangeles,2017
+C,demand,,1,,df10zst,3,toronto,2017
+C,,government_policy(i),2,,h4lyh4a,7,toronto,2021
+C,,building,1,,dzkkcsl,5,losangeles,2018
+C,,building,1,,hq7hfe0,12,dublin,2021
+C,the_rich,,1,,elkmku0,4,toronto,2019
+C,,,-1,,duwthro,2,sanfrancisco,2018
+C,,bootstraps,0,,cty6s7a,8,toronto,2015
+C,,building,2,,dxn38e9,4,sanfrancisco,2018
+C,"government_policy(e), nimbyism",,2,,hledx9n,11,losangeles,2021
+C,,bootstraps,1,,cho6bgn,5,melbourne,2014
+C,,,0,real_price,g9b5lxl,10,auckland,2020
+C,government_policy(e),,1,,ghe3jmr,12,toronto,2020
+C,foreign_investment,government_policy(i),2,housing_to_income,dmi21bp,9,vancouver,2017
+C,"the_rich, cost_of_living, wage_price_imbalance",,2,housing_to_income,e50njsn,8,vancouver,2018
+C,government_policy(e),,0,,ds4697h,1,sanfrancisco,2018
+C,foreign_investment,,2,availability,f9ms75j,12,toronto,2019
+C,,,-1,,h8vnz15,8,toronto,2021
+C,,bootstraps,0,,dfst3s9,4,sydney,2017
+C,,,1,,gon2svw,2,auckland,2021
+C,,,0,real_price,dszrjz2,1,losangeles,2018
+C,"wage_price_imbalance, cost_of_living",bootstraps,1,housing_to_income,fdkquvs,1,toronto,2020
+C,,,-1,,ei1t0us,3,sydney,2019
+C,"foreign_investment, the_rich, government_policy(e)",,0,,ckle9ky,9,vancouver,2014
+C,,,-1,,hq5qmuv,12,dublin,2021
+C,"government_policy(e), the_rich, foreign_investment",,2,availability,dmrcrlf,9,vancouver,2017
+C,airbnb,,-1,,fi862pc,2,toronto,2020
+C,"demand, covid",,2,availability,gg8n7a9,12,sanfrancisco,2020
+C,government_policy(e),,2,,i63ii9l,4,sanfrancisco,2022
+C,"the_rich, foreign_investment",,2,availability,e6o7u8k,9,losangeles,2018
+C,,,-1,,db5yg60,12,vancouver,2016
+C,,relocation,0,,fb60cbu,12,vancouver,2019
+C,,,-1,,eyckef0,8,toronto,2019
+C,covid,government_policy(i),2,,iyyu9kj,12,vancouver,2022
+C,,,-1,,eludfen,4,vancouver,2019
+C,,bootstraps,0,,dd99qam,2,melbourne,2017
+C,the_rich,,1,,gfsf1a1,12,sanfrancisco,2020
+C,,,-1,,ikqk75u,8,vancouver,2022
+C,the_rich,,2,availability,h8u6647,8,toronto,2021
+C,,government_policy(i),1,real_price,imtnn7e,9,losangeles,2022
+C,underbuilding,,2,availability,i4n1o16,4,sydney,2022
+C,government_policy(e),,2,availability,dfkgdtq,3,toronto,2017
+C,,bootstraps,0,,d50l60s,7,vancouver,2016
+C,,,-1,,d8h0vxm,10,sanfrancisco,2016
+C,,,2,real_price,c9tnh4n,5,vancouver,2013
+C,wage_price_imbalance,,1,housing_to_income,dubvzn8,2,sanfrancisco,2018
+C,,,2,,d2wmv9k,5,toronto,2016
+C,wage_price_imbalance,,2,housing_to_income,hlrk8xv,11,toronto,2021
+C,,government_policy(i),1,,d52caii,7,vancouver,2016
+C,demand,,1,"availability, real_price",hsm0own,1,london,2022
+C,,,0,,eluwlyk,4,vancouver,2019
+C,"wage_price_imbalance, cost_of_living",,2,"real_price, housing_to_income",hyyvwv3,3,vancouver,2022
+C,,bootstraps,1,availability,cymgpoq,1,melbourne,2016
+C,government_policy(e),,2,availability,ikwq75h,8,dublin,2022
+C,,,1,quality,ieblho4,6,melbourne,2022
+C,"foreign_investment, nimbyism, underbuilding",,2,,iyy06fk,12,vancouver,2022
+C,,bootstraps,1,,e6p00n1,9,losangeles,2018
+C,,,2,availability,c299lzf,8,toronto,2011
+C,government_policy(e),,2,real_price,c2gnri0,9,melbourne,2011
+C,nimbyism,,1,,dlc9p7i,8,sanfrancisco,2017
+C,the_rich,,1,,ehwkfqv,3,london,2019
+C,,government_policy(i),2,,hvx098o,2,vancouver,2022
+C,foreign_investment,,1,,c7ltn3b,12,toronto,2012
+C,,,-1,,hdttkek,9,london,2021
+C,overcrowding,,1,"availability, real_price",igzjvjj,7,london,2022
+C,underbuilding,,2,availability,ealsuk8,11,toronto,2018
+C,,,1,quality,el7ymqq,4,losangeles,2019
+C,,,1,,hnwz6g1,12,sanfrancisco,2021
+C,"the_rich, foreign_investment",,2,,ikxnn0k,8,dublin,2022
+C,,,2,real_price,eluelq3,4,vancouver,2019
+C,foreign_investment,,2,real_price,c55h26j,6,vancouver,2012
+C,,,1,,d29w1bf,4,losangeles,2016
+C,,,2,real_price,djqjbb8,7,sydney,2017
+C,the_rich,,2,real_price,ikxtits,8,dublin,2022
+C,,,-1,,ikr4b4x,8,vancouver,2022
+C,the_rich,,2,,go4jrgs,2,london,2021
+C,,,0,,duhwnni,2,losangeles,2018
+C,,relocation,1,housing_to_income,e4xnfz1,8,toronto,2018
+C,,,1,,hsmmt9c,1,london,2022
+C,,,-1,,ehwotus,3,london,2019
+C,,bootstraps,1,,d218l5b,4,toronto,2016
+C,,,-1,,da0m1ht,11,london,2016
+C,,,-1,,d50jkjn,7,sanfrancisco,2016
+C,,,1,,f9nj6ly,12,toronto,2019
+C,,government_policy(i),1,,crvastx,6,london,2015
+C,,,-1,,f0y08gi,9,melbourne,2019
+C,,,-1,,e0yreqf,6,vancouver,2018
+C,,,2,real_price,ep84fgv,5,losangeles,2019
+C,demand,,2,availability,irxa1hf,10,bristol,2022
+C,,,0,availability,dcuyb8s,1,melbourne,2017
+C,the_rich,,2,,hyzpk83,3,vancouver,2022
+C,,"government_policy(i), building",2,,dj6xugt,6,losangeles,2017
+C,,,1,real_price,ei1xj0l,3,sydney,2019
+C,the_rich,,1,,cfdfmxj,2,vancouver,2014
+C,government_policy(e),,2,,f9oe5vh,12,toronto,2019
+C,foreign_investment,,2,,cynie55,1,melbourne,2016
+C,,bootstraps,0,,ctzb92o,8,toronto,2015
+C,,,-1,,he60km9,9,sydney,2021
+C,,building,1,,ctxydi7,8,toronto,2015
+C,,,-1,,gnh33bl,2,sydney,2021
+C,,bootstraps,0,,ha3cehp,8,vancouver,2021
+C,,,2,,j0snhdm,12,vancouver,2022
+C,"government_policy(e), cost_of_living",,2,"real_price, housing_to_income",iuo6k9t,11,auckland,2022
+C,,,0,,cwl8snv,11,vancouver,2015
+C,nimbyism,bootstraps,0,,ep6tu0y,5,losangeles,2019
+C,,bootstraps,0,,i9x29dq,5,auckland,2022
+C,,bootstraps,0,,dszrveo,1,losangeles,2018
+C,,government_policy(i),0,,d535u5c,7,vancouver,2016
+C,,,2,"real_price, housing_to_income",i18aee3,3,melbourne,2022
+C,,,1,,dyt5wdf,5,london,2018
+C,the_rich,,1,,hnx77l8,12,sanfrancisco,2021
+C,,,1,real_price,em4p31c,4,melbourne,2019
+C,,,-1,,gngb7dg,2,sydney,2021
+C,foreign_investment,government_policy(i),1,,ep7agzo,5,losangeles,2019
+C,airbnb,bootstraps,1,,fi7lpzg,2,toronto,2020
+C,,,-1,,cvli06x,10,sanfrancisco,2015
+C,the_rich,,1,,iee4j87,7,melbourne,2022
+C,,,-1,,cubwuef,8,losangeles,2015
+C,demand,,1,availability,d51cn27,7,toronto,2016
+C,,,-1,,dzixlvn,5,losangeles,2018
+C,nimbyism,,2,,ealcoh7,11,toronto,2018
+C,,,-1,,de3pbrt,2,vancouver,2017
+C,,,-1,,hr5957d,1,toronto,2022
+C,,,-1,,hue9mj6,1,auckland,2022
+C,government_policy(e),,0,,cwy5cxj,11,melbourne,2015
+C,overcrowding,,2,,crusalt,6,london,2015
+C,,,0,,g3ntepd,9,london,2020
+C,foreign_investment,,0,,ep90yan,5,losangeles,2019
+C,,government_policy(i),2,,cd3cw85,10,toronto,2013
+C,,,0,real_price,cy98cqv,12,sanfrancisco,2015
+C,,,1,,d8bxigj,10,melbourne,2016
+C,the_rich,,1,,hsm14oa,1,london,2022
+C,government_policy(e),,2,,i628lh1,4,sanfrancisco,2022
+C,,bootstraps,0,,ho6e2kz,12,auckland,2021
+C,,,1,real_price,cc2jlzy,9,losangeles,2013
+C,,,1,,eb4yz2j,12,toronto,2018
+C,,,-1,,hn2nhdg,12,melbourne,2021
+C,,bootstraps,1,,e4wyg71,8,toronto,2018
+C,,,1,,ctxz92j,8,toronto,2015
+C,,bootstraps,1,,drmz1b2,12,bristol,2017
+C,foreign_investment,,0,,hbaiuc8,9,vancouver,2021
+C,,government_policy(i),1,,hlrn4jv,11,toronto,2021
+C,,bootstraps,1,real_price,cju0qfq,8,losangeles,2014
+C,,bootstraps,0,,hr397y6,1,toronto,2022
+C,,,1,,dkpue4f,7,vancouver,2017
+C,,,-1,,fiw3ljg,2,toronto,2020
+C,foreign_investment,,2,,cs85zu4,6,auckland,2015
+C,demand,,2,,irwafa4,10,bristol,2022
+C,,"bootstraps, relocation",0,,dgrrt5g,4,london,2017
+C,the_rich,,1,,i4cb255,4,bristol,2022
+C,,relocation,1,,igxn7wz,7,london,2022
+C,,,2,real_price,ih0vd3u,7,london,2022
+C,,,-1,,duj0t4d,2,sanfrancisco,2018
+C,,bootstraps,0,,i4ndz77,4,sydney,2022
+C,foreign_investment,,1,,eguyewi,2,vancouver,2019
+C,,,-1,,di9fm8l,5,sydney,2017
+C,,,-1,,el7nfj0,4,losangeles,2019
+C,,,1,,ho2ww4c,12,auckland,2021
+C,foreign_investment,government_policy(i),2,,ghb8aga,12,toronto,2020
+C,wage_price_imbalance,,2,housing_to_income,hr51xlv,1,toronto,2022
+C,the_rich,,2,,igylo4f,7,london,2022
+C,,relocation,1,,f9mpsgv,12,toronto,2019
+C,,,2,,gdi9vr6,11,losangeles,2020
+C,,,-1,,d54edru,7,vancouver,2016
+C,government_policy(e),government_policy(i),1,,gdj6f4x,11,losangeles,2020
+C,,bootstraps,0,,egxq1zi,2,vancouver,2019
+C,"government_policy(e), foreign_investment",,2,,h8t9mon,8,toronto,2021
+C,,government_policy(i),1,,f9n6nv9,12,toronto,2019
+C,,government_policy(i),1,,co838bo,2,london,2015
+C,,,-1,,d213um9,4,toronto,2016
+C,,,1,real_price,dhn1why,5,london,2017
+C,,,1,real_price,gppad2r,3,toronto,2021
+C,the_rich,,2,,co7u2gb,2,london,2015
+C,nimbyism,relocation,0,,ieaw6x2,6,melbourne,2022
+C,,,-1,,d51fz8n,7,vancouver,2016
+C,,,-1,,dzg06pl,5,toronto,2018
+C,,,0,,hs7rz8z,1,toronto,2022
+C,,,-1,,iuponjy,11,auckland,2022
+C,"nimbyism, demand",,2,availability,euepat1,7,sanfrancisco,2019
+C,,,2,real_price,hz0kew6,3,vancouver,2022
+C,,,-1,,dt01i1u,1,losangeles,2018
+C,,,-1,,hlgaddi,11,losangeles,2021
+C,,bootstraps,1,,d53s2ot,7,vancouver,2016
+C,,,0,real_price,d525cxs,7,vancouver,2016
+C,,,-1,,dges00m,4,sanfrancisco,2017
+C,,bootstraps,1,,d22g1gd,4,toronto,2016
+C,,,1,real_price,dgseejc,4,london,2017
+C,the_rich,,2,availability,ibojmnu,6,sydney,2022
+C,,bootstraps,-1,,dzgcl0s,5,toronto,2018
+C,"overcrowding, demand",,0,availability,ctegjbu,7,sanfrancisco,2015
+C,,,2,real_price,d53guu8,7,vancouver,2016
+C,"demand, overcrowding",,0,,ep8ot24,5,losangeles,2019
+C,,,0,,dnkh2n3,9,melbourne,2017
+C,,relocation,1,,i4xziun,4,london,2022
+C,"foreign_investment, underbuilding",government_policy(i),2,,gdhpfz1,11,losangeles,2020
+C,,,-1,quality,fjhoa9q,3,toronto,2020
+C,,government_policy(i),1,,imuuqu5,9,losangeles,2022
+C,foreign_investment,,0,,egtg120,2,vancouver,2019
+C,,bootstraps,1,real_price,dnp1pc1,9,melbourne,2017
+C,,,1,real_price,csvimm1,7,toronto,2015
+C,,,-1,,db7pnl5,12,vancouver,2016
+C,,,1,real_price,d32tmyw,5,losangeles,2016
+C,,,1,real_price,egw9dtl,2,vancouver,2019
+C,,,2,housing_to_income,cs2f0k4,6,melbourne,2015
+C,government_policy(e),,2,,imuiiz7,9,losangeles,2022
+C,government_policy(e),,1,,cdmrxme,11,sanfrancisco,2013
+C,,,2,,gpo36ba,3,toronto,2021
+C,foreign_investment,,2,,didcpc7,6,vancouver,2017
+C,nimbyism,,2,,cvx65no,10,sanfrancisco,2015
+C,,,2,quality,hn1gemi,12,melbourne,2021
+C,,government_policy(i),0,,dgs2rtc,4,london,2017
+C,,,2,"quality, availability",eali3tl,11,toronto,2018
+C,,,-1,,daiegxb,11,melbourne,2016
+C,,,0,,dftgvuy,4,sydney,2017
+C,"nimbyism, government_policy(e)",government_policy(i),2,,dhmrenl,5,sanfrancisco,2017
+C,,,2,real_price,cwidxi8,10,london,2015
+C,,,1,,ghalbkt,12,toronto,2020
+C,,,1,quality,cnw2l89,1,toronto,2015
+C,,,1,,dziv6pi,5,losangeles,2018
+C,,relocation,-1,,ctw9ncg,8,losangeles,2015
+C,,,1,,dyojd3k,5,melbourne,2018
+C,,,-1,,gyrzqlk,5,sydney,2021
+C,,"relocation, bootstraps",0,,ddxppk3,2,melbourne,2017
+C,,,0,,hleqjeb,11,losangeles,2021
+C,foreign_investment,,2,,iky8zmg,8,dublin,2022
+C,,,1,,cq2j86l,4,vancouver,2015
+C,the_rich,,2,real_price,ii8wk3a,7,melbourne,2022
+C,,,-1,,dngyv5i,9,vancouver,2017
+C,"overcrowding, nimbyism",,0,,ds3r1eu,1,sanfrancisco,2018
+C,government_policy(e),,2,quality,etb04s3,7,sanfrancisco,2019
+C,,,0,,e6nvin9,9,melbourne,2018
+C,the_rich,,2,,h6gmat8,7,bristol,2021
+C,,,-1,,f3w5er1,10,vancouver,2019
+C,,,-1,,hnbzhij,12,melbourne,2021
+C,government_policy(e),,2,real_price,eyecbu9,8,toronto,2019
+C,,,-1,,em4buxy,4,melbourne,2019
+C,,relocation,2,,f9n10go,12,toronto,2019
+C,,,-1,,ct2h51h,7,melbourne,2015
+C,cost_of_living,,2,,eb5bmg5,12,toronto,2018
+C,,,-1,,dg8q6z8,4,losangeles,2017
+C,,,0,,ghcu2fp,12,toronto,2020
+C,,,2,real_price,ei23wnz,3,sydney,2019
+C,,,0,real_price,igx7i5b,7,london,2022
+C,,,-1,,d2bbho1,4,sydney,2016
+C,,relocation,0,,ckl08lc,9,vancouver,2014
+C,the_rich,,2,,cju02e8,8,losangeles,2014
+C,,bootstraps,1,,cwkz794,11,vancouver,2015
+C,government_policy(e),,2,,g4jzzpu,9,vancouver,2020
+C,"demand, nimbyism",,2,,d1zzcmp,4,vancouver,2016
+C,nimbyism,bootstraps,2,,hb8uwgu,9,vancouver,2021
+C,demand,,1,,gx8g8a0,5,bristol,2021
+C,,,0,,d8bo98x,10,melbourne,2016
+C,,government_policy(i),1,,dyfbn2s,5,vancouver,2018
+C,,,-1,,dfaoi4p,3,losangeles,2017
+C,,,-1,,c1ast1g,12,sydney,2010
+C,the_rich,,-1,,g3p8xdn,9,london,2020
+C,the_rich,bootstraps,1,,epc6mog,5,losangeles,2019
+C,,relocation,1,,d8pez1t,10,toronto,2016
+C,,,2,housing_to_income,d2b7exu,4,sydney,2016
+C,,,1,real_price,gpo1omw,3,toronto,2021
+C,underbuilding,government_policy(i),1,,hvvx783,2,vancouver,2022
+C,"underbuilding, demand",,2,,dfvqyf4,4,toronto,2017
+C,demand,bootstraps,1,,hslvuk6,1,london,2022
+C,,,-1,,hs4wdwr,1,toronto,2022
+C,,,2,housing_to_income,e4zy38t,8,vancouver,2018
+C,,bootstraps,0,,i325pfa,4,losangeles,2022
+C,,,-1,,c1a2ldb,12,sanfrancisco,2010
+C,"underbuilding, nimbyism",,2,,dmjxtsp,9,vancouver,2017
+C,the_rich,,0,,g901gij,10,bristol,2020
+C,government_policy(e),,1,,d4yyny7,7,losangeles,2016
+C,demand,"bootstraps, government_policy(i)",1,real_price,gpoilyz,3,london,2021
+C,,,-1,,dukdar5,2,sanfrancisco,2018
+C,,,-1,,chmv9go,5,sanfrancisco,2014
+C,airbnb,government_policy(i),1,,fi7guna,2,toronto,2020
+C,,bootstraps,1,,ctzg4hk,8,toronto,2015
+C,,bootstraps,1,,dmj7y8o,9,vancouver,2017
+C,underbuilding,,1,,effaf37,1,sanfrancisco,2019
+C,"nimbyism, underbuilding, government_policy(e), overcrowding, demand",,2,,dndj03n,9,sanfrancisco,2017
+C,,,2,,c39t5j4,12,toronto,2011
+C,,,1,real_price,ehxx58o,3,sanfrancisco,2019
+C,the_rich,,0,,eqx8sk8,6,bristol,2019
+C,,,-1,,fs4t1f1,5,vancouver,2020
+C,,,-1,,hduhuda,9,london,2021
+C,"nimbyism, underbuilding, government_policy(e)",,1,,e06avao,6,losangeles,2018
+C,,,0,,elkgc0c,4,toronto,2019
+C,foreign_investment,,2,housing_to_income,de3y12p,2,vancouver,2017
+C,,relocation,2,,hr3vydo,1,toronto,2022
+C,government_policy(e),,2,,dykvxd8,5,melbourne,2018
+C,,bootstraps,1,,cn8e6os,12,vancouver,2014
+C,,,-1,,in1tspr,9,losangeles,2022
+C,government_policy(e),,2,,f9mvetl,12,toronto,2019
+C,,bootstraps,1,housing_to_income,djqmnc9,7,sydney,2017
+C,,,-1,,i4xvoip,4,london,2022
+C,,,-1,,cp1pj18,3,melbourne,2015
+C,the_rich,,2,,dianjne,6,bristol,2017
+C,,,2,,i3b5smc,4,melbourne,2022
+C,,,0,,hsjwf36,1,london,2022
+C,cost_of_living,,2,housing_to_income,igwuffa,7,london,2022
+C,,,0,,fb4oaif,12,vancouver,2019
+C,,bootstraps,0,,gdi985b,11,losangeles,2020
+C,demand,bootstraps,0,,c1tjgiv,5,losangeles,2011
+C,,,-1,,i15634r,3,melbourne,2022
+C,,government_policy(i),2,,hlvblkt,11,melbourne,2021
+C,,relocation,0,,dnbm52d,9,losangeles,2017
+C,"demand, overcrowding, foreign_investment",,1,,j1coxm2,12,sydney,2022
+C,,,0,,ha2o4px,8,vancouver,2021
+C,,,0,,f9n2men,12,toronto,2019
+C,"airbnb, the_rich",,1,,eb7pso7,12,toronto,2018
+C,,,-1,,cwka8oc,11,vancouver,2015
+C,,,-1,,cyo15e9,1,melbourne,2016
+C,nimbyism,,1,,dgeuhpg,4,sanfrancisco,2017
+C,,relocation,2,,inia3mw,9,bristol,2022
+C,,bootstraps,0,,gf84imo,12,dublin,2020
+C,,bootstraps,1,,ddyjqi5,2,melbourne,2017
+C,,,-1,,fz0r4lq,7,london,2020
+C,,,2,,cty70c1,8,toronto,2015
+C,"nimbyism, government_policy(e), underbuilding",,1,,dzglxbl,5,toronto,2018
+C,,,0,,dfw8q5g,4,toronto,2017
+C,,,-1,,he2wrzl,9,sydney,2021
+C,,,1,,igx695p,7,london,2022
+C,nimbyism,,1,,dj6risa,6,losangeles,2017
+C,"nimbyism, underbuilding",,1,,iyyknde,12,vancouver,2022
+C,,,-1,,h7r3pfk,8,auckland,2021
+C,"overcrowding, the_rich",,2,,dj7pslm,6,losangeles,2017
+C,,,-1,,chlzp1w,5,vancouver,2014
+C,,relocation,0,quality,elurxsu,4,vancouver,2019
+C,the_rich,,1,real_price,i7adec1,5,toronto,2022
+C,the_rich,,2,,gpo4e01,3,toronto,2021
+C,,"relocation, bootstraps",2,,d661x1p,8,vancouver,2016
+C,,government_policy(i),1,,ffszkbj,1,auckland,2020
+C,cost_of_living,,0,,igwonq0,7,london,2022
+C,"cost_of_living, wage_price_imbalance",,2,,gsz050d,3,vancouver,2021
+C,,,-1,,j20nbou,12,toronto,2022
+C,"underbuilding, the_rich, nimbyism",,1,,chme2wk,5,sanfrancisco,2014
+C,,,0,,cpy8tvr,4,bristol,2015
+C,government_policy(e),"group_action, government_policy(i)",1,,c4l2fr4,5,london,2012
+C,,,-1,,dul2v28,2,melbourne,2018
+C,,,1,real_price,gpoipj0,3,toronto,2021
+C,,,-1,,ih0seak,7,london,2022
+C,,,-1,,eluezmh,4,vancouver,2019
+C,,,-1,,cx66ioy,11,london,2015
+C,"government_policy(e), underbuilding",,1,,iyz744y,12,vancouver,2022
+C,,relocation,0,,i30g72l,4,losangeles,2022
+C,government_policy(e),government_policy(i),1,,dzixky8,5,losangeles,2018
+C,,,-1,,imu5tgj,9,losangeles,2022
+C,government_policy(e),,1,quality,gyrme42,5,sydney,2021
+C,,,1,quality,i4y57bv,4,london,2022
+C,"foreign_investment, demand",,0,,d50com7,7,vancouver,2016
+C,underbuilding,,1,quality,ep7xaqg,5,losangeles,2019
+C,"nimbyism, underbuilding",,1,,cp1jrg2,3,melbourne,2015
+C,"foreign_investment, the_rich",,1,,ckmaebc,9,vancouver,2014
+C,"government_policy(e), foreign_investment, the_rich",relocation,1,,ck9qvpu,9,sydney,2014
+C,,,-1,,i31amj4,4,losangeles,2022
+C,,,1,,dndbio9,9,sanfrancisco,2017
+C,,government_policy(i),1,,hvv292t,2,vancouver,2022
+C,,,0,,d4y9dmp,7,losangeles,2016
+C,,,0,,fdhfzwt,1,toronto,2020
+C,,,1,availability,cp362r7,3,losangeles,2015
+C,,,0,,hfkwpob,10,bristol,2021
+C,"underbuilding, government_policy(e)",government_policy(i),1,availability,d51eokd,7,toronto,2016
+C,,,-1,,duiopyn,2,sanfrancisco,2018
+C,,,0,availability,cfjfe94,2,losangeles,2014
+C,,bootstraps,0,,ctxzapa,8,toronto,2015
+C,,relocation,1,,d524ytp,7,vancouver,2016
+C,,,-1,,ho3lycw,12,auckland,2021
+C,nimbyism,,2,,ieahxpm,6,melbourne,2022
+C,,,2,,hlr7txl,11,melbourne,2021
+C,,bootstraps,1,real_price,cbjd59e,8,vancouver,2013
+C,,,2,real_price,dw976i3,3,sydney,2018
+C,,bootstraps,1,,ikptbhl,8,vancouver,2022
+C,,,1,,c58zlcx,7,vancouver,2012
+C,"the_rich, airbnb",,2,,ellpcd2,4,toronto,2019
+C,,,-1,,hn5tpfl,12,melbourne,2021
+C,,,-1,,fft3xie,1,auckland,2020
+C,,,-1,,f3vn0g4,10,vancouver,2019
+C,demand,,1,,ikuebzp,8,sydney,2022
+C,,,1,,ccqutuf,10,sanfrancisco,2013
+C,"underbuilding, nimbyism",,2,,ghaodh8,12,toronto,2020
+C,,,1,,hvv85cj,2,vancouver,2022
+C,,,-1,,gmrd85r,2,losangeles,2021
+C,,relocation,1,,dnbd3on,9,losangeles,2017
+C,"government_policy(e), foreign_investment",,1,,c2hyqi5,9,toronto,2011
+C,,,-1,,iryg1cc,10,bristol,2022
+C,,bootstraps,1,,ctxzkiy,8,toronto,2015
+C,government_policy(e),government_policy(i),1,,i4nfqet,4,sydney,2022
+C,"the_rich, foreign_investment",,1,,dfuswxg,4,sydney,2017
+C,,,1,,dks0fgv,7,vancouver,2017
+C,cost_of_living,,1,,iidfxh8,7,bristol,2022
+C,,,1,real_price,d51jo4d,7,vancouver,2016
+C,,bootstraps,1,,igygwgg,7,london,2022
+C,government_policy(e),relocation,2,,gmth4wx,2,losangeles,2021
+C,,"relocation, bootstraps",2,,eu4oelv,7,toronto,2019
+C,,,1,quality,d1zxnts,4,vancouver,2016
+C,,,-1,,dui3ge3,2,sanfrancisco,2018
+C,nimbyism,,1,,ho3gke6,12,sanfrancisco,2021
+C,cost_of_living,,1,,j20vhyg,12,toronto,2022
+C,nimbyism,,1,,gnhv4hr,2,sanfrancisco,2021
+C,,,1,,i7a3y51,5,toronto,2022
+C,,,-1,,iyfx4pz,12,sydney,2022
+C,"wage_price_imbalance, cost_of_living",,2,,d4js9bj,6,losangeles,2016
+C,,,-1,,hbez6dc,9,sydney,2021
+C,the_rich,bootstraps,1,real_price,deqghcv,3,toronto,2017
+C,"foreign_investment, the_rich",,2,,dnfene7,9,vancouver,2017
+C,,government_policy(i),1,,dyfy89l,5,vancouver,2018
+C,,,0,,d52duu9,7,vancouver,2016
+C,,,1,,ghah9z2,12,toronto,2020
+C,,"government_policy(i), bootstraps",1,real_price,em6i05k,4,melbourne,2019
+C,,government_policy(i),1,,hw1yb2h,2,vancouver,2022
+C,"foreign_investment, the_rich",,2,quality,ikut2yj,8,vancouver,2022
+C,,,1,,iuktwf4,11,sanfrancisco,2022
+C,,,-1,,ho6hifj,12,auckland,2021
+C,,government_policy(i),1,,hly13y3,11,dublin,2021
+C,,,-1,,ctzfdca,8,toronto,2015
+C,overcrowding,,0,,j24vu1n,12,losangeles,2022
+C,,relocation,0,,hyzsg08,3,vancouver,2022
+C,,government_policy(i),1,,ciighuh,6,losangeles,2014
+C,,,1,real_price,cjunsg4,8,losangeles,2014
+C,the_rich,,2,,c6i6mz9,10,toronto,2012
+C,,,1,,dyvml7r,5,bristol,2018
+C,,bootstraps,1,,f9o2oe3,12,toronto,2019
+C,,bootstraps,0,,i34kjwl,4,losangeles,2022
+C,the_rich,government_policy(i),2,,c45xt5r,3,london,2012
+C,,,1,quality,hlrnoja,11,toronto,2021
+C,government_policy(e),"government_policy(i), bootstraps",1,,j2744ns,12,losangeles,2022
+C,,bootstraps,1,,iib5cll,7,melbourne,2022
+C,,,-1,,c6r55cm,10,vancouver,2012
+C,,,-1,,d8f9x29,10,losangeles,2016
+C,,,0,quality,h6x5dzi,7,sydney,2021
+C,,,-1,,iw45q1k,11,dublin,2022
+C,,bootstraps,1,,iid8efu,7,bristol,2022
+C,,,-1,,fyzruqd,7,london,2020
+C,,bootstraps,1,,hn482wq,12,melbourne,2021
+C,government_policy(e),,2,housing_to_income,hz0m6hh,3,vancouver,2022
+C,,,-1,,dsz4up8,1,losangeles,2018
+C,,,1,quality,hwpg764,2,melbourne,2022
+C,"foreign_investment, government_policy(e)",,2,,ikwn5lw,8,dublin,2022
+C,government_policy(e),government_policy(i),1,,efevvgj,1,sanfrancisco,2019
+C,foreign_investment,,2,real_price,chm0puw,5,vancouver,2014
+C,,,-1,,f9nq97s,12,toronto,2019
+C,,,0,real_price,c9thque,5,vancouver,2013
+C,,,-1,,dsz2bn5,1,losangeles,2018
+C,,,-1,,em49ymr,4,melbourne,2019
+C,,,-1,,h70yxlq,7,sydney,2021
+C,,,0,quality,dd8aeme,2,melbourne,2017
+C,,,-1,,c1t674n,5,sanfrancisco,2011
+C,,,-1,,ieaetvf,6,melbourne,2022
+C,,bootstraps,2,,hlrjo7r,11,toronto,2021
+C,,,2,quality,fzsrco7,7,vancouver,2020
+C,,,0,,d1joe1y,3,sydney,2016
+C,"the_rich, government_policy(e), foreign_investment",,2,real_price,egunjgw,2,vancouver,2019
+C,"wage_price_imbalance, cost_of_living",relocation,2,housing_to_income,hs43hl1,1,toronto,2022

@@ -1,0 +1,20 @@
+ housing
+ house
+ home
+ flat
+ apartment
+ condo
+ rental
+ landlord
+ tenant
+ rent
+ mortgage
+ real estate
+ property
+ sublet
+ maisonette
+ cottage
+ bungalow
+ studio
+ duplex
+ triplex

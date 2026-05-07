@@ -1,0 +1,1001 @@
+subreddit,id,year,month,concern_score,aspect_exacerbate,aspect_improve,factor
+melbourne,h4blrfv,2021,7,2,None,None,Quality
+london,ikmh8ph,2022,8,-1,None,None,None
+sydney,h711k48,2021,7,1,"Foreign_Investment, Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Quality, Availability, Real_price"
+sydney,fksrxg5,2020,3,2,Government_Policy(E),Government_Policy(I),Housing_to_Income
+sydney,ei1v5u3,2019,3,2,"The_Rich, Wage_Price_Imbalance",None,None
+toronto,d8pkgt3,2016,10,-1,None,None,None
+sanfrancisco,gnkwrjf,2021,2,-1,None,None,None
+london,d5ap715,2016,7,0,None,None,Quality
+toronto,fdhbil5,2020,1,1,None,None,"Availability, Real_price"
+losangeles,ge4fgen,2020,11,2,The_Rich,None,None
+sydney,eaylkq9,2018,12,0,The_Rich,Bootstraps,None
+sydney,em4o23c,2019,4,0,None,Bootstraps,"Quality, Availability"
+vancouver,hvvddel,2022,2,2,"Foreign_Investment, Government_Policy(E), The_Rich",Government_Policy(I),"Housing_to_Income, Availability"
+vancouver,dkq4rf8,2017,7,-1,None,None,None
+toronto,eyd2yw5,2019,8,0,The_Rich,None,None
+melbourne,hn6wewr,2021,12,-1,None,None,None
+losangeles,imudarx,2022,9,1,Government_Policy(E),None,Real_price
+sanfrancisco,cyfc9r3,2015,12,1,None,Building,Quality
+vancouver,e0wz5kh,2018,6,2,"Wage_Price_Imbalance, Cost_of_Living",None,Quality
+melbourne,dym9tvn,2018,5,-1,None,None,None
+vancouver,e0xy7sa,2018,6,-1,None,None,None
+melbourne,i3acgb6,2022,4,-1,None,None,None
+sanfrancisco,d8h23sh,2016,10,-1,None,None,None
+sanfrancisco,duw5rj3,2018,2,-1,None,None,None
+sanfrancisco,duwwo5m,2018,2,0,None,Building,Real_price
+sanfrancisco,chyhb45,2014,6,1,"NIMBYism, Underbuilding","Government_Policy(I), Building","Availability, Real_price, Quality"
+melbourne,c6rwzlh,2012,10,0,None,None,Real_price
+losangeles,e6ocrdr,2018,9,2,Wage_Price_Imbalance,None,"Housing_to_Income, Availability"
+sanfrancisco,djioiuk,2017,6,2,"Government_Policy(E), NIMBYism, Underbuilding, Wage_Price_Imbalance","Government_Policy(I), Building","Quality, Availability, Housing_to_Income"
+vancouver,c6r93x6,2012,10,0,None,None,None
+melbourne,f133bh7,2019,9,2,Wage_Price_Imbalance,None,None
+losangeles,j26vgul,2022,12,0,Government_Policy(E),Government_Policy(I),None
+losangeles,g6cizzp,2020,9,-1,None,None,None
+london,g3oy6g7,2020,9,2,"Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price"
+sydney,ikseo7h,2022,8,-1,None,None,None
+vancouver,ikrrp67,2022,8,1,Underbuilding,Building,"Quality, Availability"
+sydney,he2i1tx,2021,9,-1,None,None,None
+sydney,hbevnwf,2021,9,1,None,None,Quality
+losangeles,cr1xvvx,2015,5,2,"The_Rich, Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Quality, Real_price"
+losangeles,imv4vnq,2022,9,1,"NIMBYism, The_Rich",Building,"Quality, Real_price, Availability"
+vancouver,gem9x2l,2020,12,1,Foreign_Investment,None,None
+sydney,ikrvb2m,2022,8,2,Government_Policy(E),Government_Policy(I),"Availability, Real_price"
+losangeles,imtoaxo,2022,9,2,"Government_Policy(E), Cost_of_Living",Government_Policy(I),"Housing_to_Income, Real_price"
+losangeles,gmrcv53,2021,2,1,"Foreign_Investment, Cost_of_Living, Underbuilding",None,Availability
+dublin,gf9alk2,2020,12,2,"Wage_Price_Imbalance, Cost_of_Living",None,Real_price
+vancouver,cwl2dph,2015,11,-1,None,None,None
+melbourne,hwpen82,2022,2,-1,None,None,None
+losangeles,imtj58u,2022,9,2,Wage_Price_Imbalance,None,Housing_to_Income
+toronto,i7aiqr2,2022,5,1,None,None,"Real_price, Availability"
+losangeles,df9z11s,2017,3,2,"The_Rich, Wage_Price_Imbalance",Bootstraps,"Quality, Housing_to_Income, Availability"
+toronto,df10zst,2017,3,2,"Government_Policy(E), The_Rich",Government_Policy(I),None
+toronto,h4lyh4a,2021,7,-1,None,None,None
+losangeles,dzkkcsl,2018,5,1,Underbuilding,Building,Availability
+dublin,hq7hfe0,2021,12,1,NIMBYism,"Government_Policy(I), Building",Availability
+toronto,elkmku0,2019,4,1,The_Rich,None,None
+sanfrancisco,duwthro,2018,2,-1,None,None,None
+toronto,cty6s7a,2015,8,0,None,"Bootstraps, Relocation","Housing_to_Income, Real_price"
+sanfrancisco,dxn38e9,2018,4,1,NIMBYism,Building,Availability
+losangeles,hledx9n,2021,11,2,Underbuilding,Building,Availability
+melbourne,cho6bgn,2014,5,2,Wage_Price_Imbalance,"Relocation, Bootstraps","Housing_to_Income, Real_price, Availability"
+auckland,g9b5lxl,2020,10,2,None,None,Availability
+toronto,ghe3jmr,2020,12,1,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+vancouver,dmi21bp,2017,9,2,"Foreign_Investment, Government_Policy(E), The_Rich",Government_Policy(I),None
+vancouver,e50njsn,2018,8,2,Wage_Price_Imbalance,Relocation,"Housing_to_Income, Availability"
+sanfrancisco,ds4697h,2018,1,-1,None,None,None
+toronto,f9ms75j,2019,12,2,Foreign_Investment,Government_Policy(I),Availability
+toronto,h8vnz15,2021,8,-1,None,None,None
+sydney,dfst3s9,2017,4,1,Cost_of_Living,Bootstraps,None
+auckland,gon2svw,2021,2,0,None,None,None
+losangeles,dszrjz2,2018,1,0,None,None,"Real_price, Quality"
+toronto,fdkquvs,2020,1,1,Wage_Price_Imbalance,"Bootstraps, Relocation","Housing_to_Income, Quality"
+sydney,ei1t0us,2019,3,0,None,Bootstraps,Availability
+vancouver,ckle9ky,2014,9,2,None,Government_Policy(I),None
+dublin,hq5qmuv,2021,12,-1,None,None,None
+vancouver,dmrcrlf,2017,9,2,The_Rich,Government_Policy(I),"Housing_to_Income, Availability, Real_price"
+toronto,fi862pc,2020,2,1,"AirBnB, Cost_of_Living",None,"Real_price, Quality"
+sanfrancisco,gg8n7a9,2020,12,1,Wage_Price_Imbalance,Government_Policy(I),Availability
+sanfrancisco,i63ii9l,2022,4,2,"Government_Policy(E), The_Rich, NIMBYism",Government_Policy(I),Real_price
+losangeles,e6o7u8k,2018,9,2,The_Rich,Government_Policy(I),"Housing_to_Income, Availability"
+vancouver,db5yg60,2016,12,-1,None,None,None
+vancouver,fb60cbu,2019,12,0,Cost_of_Living,None,"Quality, Real_price"
+toronto,eyckef0,2019,8,-1,None,None,None
+vancouver,iyyu9kj,2022,12,2,"Cost_of_Living, Government_Policy(E)",Government_Policy(I),"Housing_to_Income, Real_price"
+vancouver,eludfen,2019,4,0,None,None,None
+melbourne,dd99qam,2017,2,0,Cost_of_Living,Bootstraps,Real_price
+sanfrancisco,gfsf1a1,2020,12,-1,None,None,None
+vancouver,ikqk75u,2022,8,2,Cost_of_Living,Bootstraps,"Housing_to_Income, Real_price"
+toronto,h8u6647,2021,8,2,The_Rich,None,"Availability, Real_price"
+losangeles,imtnn7e,2022,9,2,"Government_Policy(E), Underbuilding, The_Rich","Government_Policy(I), Building",Availability
+sydney,i4n1o16,2022,4,1,None,None,"Availability, Real_price"
+toronto,dfkgdtq,2017,3,0,"The_Rich, Government_Policy(E)",Government_Policy(I),None
+vancouver,d50l60s,2016,7,2,Wage_Price_Imbalance,None,Real_price
+sanfrancisco,d8h0vxm,2016,10,-1,None,None,None
+vancouver,c9tnh4n,2013,5,2,Cost_of_Living,None,"Real_price, Quality"
+sanfrancisco,dubvzn8,2018,2,2,"Wage_Price_Imbalance, Cost_of_Living",None,"Housing_to_Income, Quality"
+toronto,d2wmv9k,2016,5,2,None,None,Availability
+toronto,hlrk8xv,2021,11,2,"Wage_Price_Imbalance, Cost_of_Living",Group_action,None
+vancouver,d52caii,2016,7,0,None,"Relocation, Government_Policy(I), Bootstraps","Real_price, Quality"
+london,hsm0own,2022,1,1,"Wage_Price_Imbalance, Cost_of_Living","Bootstraps, Relocation","Housing_to_Income, Quality, Real_price"
+vancouver,eluwlyk,2019,4,0,The_Rich,Bootstraps,Real_price
+vancouver,hyyvwv3,2022,3,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+melbourne,cymgpoq,2016,1,2,The_Rich,Bootstraps,None
+dublin,ikwq75h,2022,8,2,"Underbuilding, Wage_Price_Imbalance",Building,"Housing_to_Income, Quality, Availability"
+melbourne,ieblho4,2022,6,1,None,None,Availability
+vancouver,iyy06fk,2022,12,1,"NIMBYism, Foreign_Investment, The_Rich",Building,None
+losangeles,e6p00n1,2018,9,2,Wage_Price_Imbalance,Bootstraps,"Housing_to_Income, Real_price, Availability"
+toronto,c299lzf,2011,8,2,"Overcrowding, Cost_of_Living",None,"Quality, Real_price"
+melbourne,c2gnri0,2011,9,2,"Wage_Price_Imbalance, Government_Policy(E), Foreign_Investment, Cost_of_Living",Government_Policy(I),"Housing_to_Income, Real_price"
+sanfrancisco,dlc9p7i,2017,8,-1,None,None,None
+london,ehwkfqv,2019,3,2,None,None,None
+vancouver,hvx098o,2022,2,2,"Foreign_Investment, Government_Policy(E), The_Rich, Underbuilding","Government_Policy(I), Building",Availability
+toronto,c7ltn3b,2012,12,-1,None,None,None
+london,hdttkek,2021,9,-1,None,None,None
+london,igzjvjj,2022,7,1,None,None,Quality
+toronto,ealsuk8,2018,11,2,"Underbuilding, Government_Policy(E)","Building, Government_Policy(I)",Availability
+losangeles,el7ymqq,2019,4,1,None,None,Quality
+sanfrancisco,hnwz6g1,2021,12,-1,None,None,None
+dublin,ikxnn0k,2022,8,2,"Government_Policy(E), The_Rich, Cost_of_Living",Government_Policy(I),Real_price
+vancouver,eluelq3,2019,4,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+vancouver,c55h26j,2012,6,2,"Foreign_Investment, Overcrowding, Government_Policy(E), Wage_Price_Imbalance",None,"Housing_to_Income, Real_price, Availability"
+losangeles,d29w1bf,2016,4,2,None,None,Real_price
+sydney,djqjbb8,2017,7,1,Overcrowding,Relocation,Real_price
+dublin,ikxtits,2022,8,2,The_Rich,None,"Real_price, Quality"
+vancouver,ikr4b4x,2022,8,-1,None,None,None
+london,go4jrgs,2021,2,2,The_Rich,None,Quality
+losangeles,duhwnni,2018,2,2,None,None,Quality
+toronto,e4xnfz1,2018,8,-1,None,None,None
+london,hsmmt9c,2022,1,0,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+london,ehwotus,2019,3,1,None,Government_Policy(I),Quality
+toronto,d218l5b,2016,4,0,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Real_price"
+london,da0m1ht,2016,11,-1,None,None,None
+sanfrancisco,d50jkjn,2016,7,2,"NIMBYism, Government_Policy(E)",Government_Policy(I),None
+toronto,f9nj6ly,2019,12,2,None,None,None
+london,crvastx,2015,6,0,"Government_Policy(E), The_Rich",Government_Policy(I),"Availability, Real_price"
+melbourne,f0y08gi,2019,9,-1,None,None,None
+vancouver,e0yreqf,2018,6,1,"Wage_Price_Imbalance, Cost_of_Living","Government_Policy(I), Group_action",Housing_to_Income
+losangeles,ep84fgv,2019,5,2,None,None,"Real_price, Quality"
+bristol,irxa1hf,2022,10,2,Overcrowding,None,Availability
+melbourne,dcuyb8s,2017,1,0,None,Building,"Availability, Real_price"
+vancouver,hyzpk83,2022,3,2,The_Rich,None,"Quality, Real_price"
+losangeles,dj6xugt,2017,6,1,"Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price"
+sydney,ei1xj0l,2019,3,2,None,None,"Quality, Real_price"
+vancouver,cfdfmxj,2014,2,-1,None,None,None
+toronto,f9oe5vh,2019,12,2,Government_Policy(E),"Group_action, Government_Policy(I)",Quality
+melbourne,cynie55,2016,1,0,Foreign_Investment,None,None
+toronto,ctzb92o,2015,8,-1,None,None,None
+sydney,he60km9,2021,9,2,Cost_of_Living,None,Availability
+toronto,ctxydi7,2015,8,1,None,Relocation,"Quality, Real_price"
+sydney,gnh33bl,2021,2,-1,None,None,None
+vancouver,ha3cehp,2021,8,0,None,Government_Policy(I),"Housing_to_Income, Real_price"
+vancouver,j0snhdm,2022,12,-1,None,None,None
+auckland,iuo6k9t,2022,11,2,Cost_of_Living,None,"Quality, Real_price, Housing_to_Income"
+vancouver,cwl8snv,2015,11,0,None,Bootstraps,Real_price
+losangeles,ep6tu0y,2019,5,-1,None,None,None
+auckland,i9x29dq,2022,5,-1,None,None,None
+losangeles,dszrveo,2018,1,1,None,Bootstraps,"Quality, Real_price"
+vancouver,d535u5c,2016,7,-1,None,None,None
+melbourne,i18aee3,2022,3,2,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Real_price, Availability"
+london,dyt5wdf,2018,5,0,None,None,None
+sanfrancisco,hnx77l8,2021,12,0,The_Rich,None,None
+melbourne,em4p31c,2019,4,1,None,None,Real_price
+sydney,gngb7dg,2021,2,-1,None,None,None
+losangeles,ep7agzo,2019,5,1,Foreign_Investment,Government_Policy(I),None
+toronto,fi7lpzg,2020,2,1,AirBnB,"Government_Policy(I), Building",Availability
+sanfrancisco,cvli06x,2015,10,-1,None,None,None
+melbourne,iee4j87,2022,7,-1,None,None,None
+losangeles,cubwuef,2015,8,-1,None,None,None
+toronto,d51cn27,2016,7,1,Underbuilding,None,"Availability, Real_price"
+losangeles,dzixlvn,2018,5,-1,None,None,None
+toronto,ealcoh7,2018,11,2,"NIMBYism, The_Rich, Government_Policy(E)","Building, Government_Policy(I)",Availability
+vancouver,de3pbrt,2017,2,2,Wage_Price_Imbalance,None,None
+toronto,hr5957d,2022,1,-1,None,None,None
+auckland,hue9mj6,2022,1,-1,None,None,None
+melbourne,cwy5cxj,2015,11,2,"Cost_of_Living, NIMBYism",None,"Housing_to_Income, Real_price, Availability"
+london,crusalt,2015,6,2,"Wage_Price_Imbalance, Overcrowding, Underbuilding, NIMBYism, The_Rich","Government_Policy(I), Building, Relocation","Housing_to_Income, Quality, Availability, Real_price"
+london,g3ntepd,2020,9,0,None,None,Availability
+losangeles,ep90yan,2019,5,0,Foreign_Investment,None,None
+toronto,cd3cw85,2013,10,-1,None,None,None
+sanfrancisco,cy98cqv,2015,12,2,"Foreign_Investment, Cost_of_Living",None,"Real_price, Availability, Quality"
+melbourne,d8bxigj,2016,10,-1,None,None,None
+london,hsm14oa,2022,1,2,The_Rich,None,Quality
+sanfrancisco,i628lh1,2022,4,-1,None,None,None
+auckland,ho6e2kz,2021,12,0,None,Bootstraps,Quality
+losangeles,cc2jlzy,2013,9,2,None,Relocation,"Quality, Real_price"
+toronto,eb4yz2j,2018,12,-1,None,None,None
+melbourne,hn2nhdg,2021,12,0,None,None,None
+toronto,e4wyg71,2018,8,2,Wage_Price_Imbalance,None,"Housing_to_Income, Availability"
+toronto,ctxz92j,2015,8,-1,None,None,None
+bristol,drmz1b2,2017,12,2,Wage_Price_Imbalance,None,"Real_price, Housing_to_Income"
+vancouver,hbaiuc8,2021,9,-1,None,None,None
+toronto,hlrn4jv,2021,11,1,"The_Rich, Government_Policy(E)",Government_Policy(I),"Real_price, Availability"
+losangeles,cju0qfq,2014,8,2,The_Rich,Bootstraps,"Availability, Real_price"
+toronto,hr397y6,2022,1,0,None,Relocation,"Housing_to_Income, Quality"
+vancouver,dkpue4f,2017,7,1,Cost_of_Living,None,"Real_price, Availability"
+toronto,fiw3ljg,2020,2,2,None,None,"Real_price, Availability"
+auckland,cs85zu4,2015,6,-1,None,None,None
+bristol,irwafa4,2022,10,2,Underbuilding,None,"Availability, Real_price"
+london,dgrrt5g,2017,4,0,None,Bootstraps,"Availability, Real_price"
+bristol,i4cb255,2022,4,0,None,None,Real_price
+london,igxn7wz,2022,7,1,Underbuilding,Building,Availability
+london,ih0vd3u,2022,7,2,Cost_of_Living,None,"Quality, Real_price"
+sanfrancisco,duj0t4d,2018,2,-1,None,None,None
+sydney,i4ndz77,2022,4,2,Cost_of_Living,None,Housing_to_Income
+vancouver,eguyewi,2019,2,1,"Foreign_Investment, The_Rich",None,Real_price
+sydney,di9fm8l,2017,5,-1,None,None,None
+losangeles,el7nfj0,2019,4,-1,None,None,None
+auckland,ho2ww4c,2021,12,-1,None,None,None
+toronto,ghb8aga,2020,12,-1,None,None,None
+toronto,hr51xlv,2022,1,2,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Real_price"
+london,igylo4f,2022,7,2,The_Rich,None,None
+toronto,f9mpsgv,2019,12,2,Cost_of_Living,Relocation,"Quality, Real_price, Housing_to_Income"
+losangeles,gdi9vr6,2020,11,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+vancouver,d54edru,2016,7,-1,None,None,None
+losangeles,gdj6f4x,2020,11,2,Government_Policy(E),Government_Policy(I),Availability
+vancouver,egxq1zi,2019,2,0,The_Rich,None,None
+toronto,h8t9mon,2021,8,2,"Foreign_Investment, Government_Policy(E)",Government_Policy(I),Real_price
+toronto,f9n6nv9,2019,12,2,"The_Rich, Government_Policy(E)",Group_action,"Quality, Real_price"
+london,co838bo,2015,2,1,Government_Policy(E),Government_Policy(I),None
+toronto,d213um9,2016,4,-1,None,None,None
+london,dhn1why,2017,5,1,None,None,Real_price
+toronto,gppad2r,2021,3,1,Cost_of_Living,None,Real_price
+london,co7u2gb,2015,2,2,Government_Policy(E),"Government_Policy(I), Building",Availability
+melbourne,ieaw6x2,2022,6,1,NIMBYism,"Building, Relocation",Quality
+vancouver,d51fz8n,2016,7,-1,None,None,None
+toronto,dzg06pl,2018,5,-1,None,None,None
+toronto,hs7rz8z,2022,1,0,None,None,None
+auckland,iuponjy,2022,11,-1,None,None,None
+sanfrancisco,euepat1,2019,7,2,"Underbuilding, Government_Policy(E), NIMBYism","Government_Policy(I), Building",Availability
+vancouver,hz0kew6,2022,3,1,None,None,None
+losangeles,dt01i1u,2018,1,-1,None,None,None
+losangeles,hlgaddi,2021,11,-1,None,None,None
+vancouver,d53s2ot,2016,7,-1,None,None,None
+vancouver,d525cxs,2016,7,0,None,None,Real_price
+sanfrancisco,dges00m,2017,4,-1,None,None,None
+toronto,d22g1gd,2016,4,1,None,"Bootstraps, Relocation","Housing_to_Income, Real_price, Quality"
+london,dgseejc,2017,4,0,None,None,"Quality, Real_price"
+sydney,ibojmnu,2022,6,2,"The_Rich, Wage_Price_Imbalance",None,Housing_to_Income
+toronto,dzgcl0s,2018,5,-1,None,None,None
+sanfrancisco,ctegjbu,2015,7,2,Underbuilding,Building,Availability
+vancouver,d53guu8,2016,7,0,None,None,Housing_to_Income
+losangeles,ep8ot24,2019,5,0,Cost_of_Living,None,Real_price
+melbourne,dnkh2n3,2017,9,0,None,None,"Quality, Real_price"
+london,i4xziun,2022,4,2,Wage_Price_Imbalance,None,"Quality, Availability"
+losangeles,gdhpfz1,2020,11,1,"Foreign_Investment, Underbuilding",Building,"Availability, Real_price"
+toronto,fjhoa9q,2020,3,2,None,None,Quality
+losangeles,imuuqu5,2022,9,1,Government_Policy(E),Government_Policy(I),None
+vancouver,egtg120,2019,2,0,Foreign_Investment,Government_Policy(I),None
+melbourne,dnp1pc1,2017,9,1,Cost_of_Living,Bootstraps,"Real_price, Quality"
+toronto,csvimm1,2015,7,1,Cost_of_Living,Government_Policy(I),Real_price
+vancouver,db7pnl5,2016,12,-1,None,None,None
+losangeles,d32tmyw,2016,5,1,None,None,"Quality, Real_price"
+vancouver,egw9dtl,2019,2,0,None,Bootstraps,Real_price
+melbourne,cs2f0k4,2015,6,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+losangeles,imuiiz7,2022,9,-1,None,None,None
+sanfrancisco,cdmrxme,2013,11,1,"Overcrowding, Underbuilding",Building,Availability
+toronto,gpo36ba,2021,3,2,Government_Policy(E),Government_Policy(I),Availability
+vancouver,didcpc7,2017,6,2,"Foreign_Investment, Underbuilding",Building,Availability
+sanfrancisco,cvx65no,2015,10,2,"NIMBYism, Cost_of_Living","Government_Policy(I), Relocation","Real_price, Availability"
+melbourne,hn1gemi,2021,12,2,Underbuilding,None,Quality
+london,dgs2rtc,2017,4,0,Government_Policy(E),Government_Policy(I),Real_price
+toronto,eali3tl,2018,11,2,"Underbuilding, The_Rich","Government_Policy(I), Building","Quality, Availability"
+melbourne,daiegxb,2016,11,-1,None,None,None
+sydney,dftgvuy,2017,4,-1,None,None,None
+sanfrancisco,dhmrenl,2017,5,-1,None,None,None
+london,cwidxi8,2015,10,-1,None,None,None
+toronto,ghalbkt,2020,12,1,Wage_Price_Imbalance,None,Housing_to_Income
+toronto,cnw2l89,2015,1,-1,None,None,None
+losangeles,dziv6pi,2018,5,-1,None,None,None
+losangeles,ctw9ncg,2015,8,-1,None,None,None
+melbourne,dyojd3k,2018,5,0,None,None,Real_price
+sydney,gyrzqlk,2021,5,2,None,None,"Quality, Real_price"
+melbourne,ddxppk3,2017,2,1,None,"Relocation, Bootstraps",Quality
+losangeles,hleqjeb,2021,11,0,None,None,Real_price
+dublin,iky8zmg,2022,8,2,"Foreign_Investment, The_Rich, Government_Policy(E)",Government_Policy(I),"Real_price, Availability"
+vancouver,cq2j86l,2015,4,2,Cost_of_Living,None,Real_price
+melbourne,ii8wk3a,2022,7,2,The_Rich,Bootstraps,"Availability, Real_price"
+vancouver,dngyv5i,2017,9,-1,None,None,None
+sanfrancisco,ds3r1eu,2018,1,2,"NIMBYism, Underbuilding, Cost_of_Living, Wage_Price_Imbalance, Overcrowding","Building, Group_action","Quality, Availability, Real_price"
+sanfrancisco,etb04s3,2019,7,2,"NIMBYism, The_Rich",Government_Policy(I),"Quality, Availability"
+melbourne,e6nvin9,2018,9,0,None,None,"Real_price, Availability"
+bristol,h6gmat8,2021,7,2,"The_Rich, Wage_Price_Imbalance",None,"Real_price, Housing_to_Income"
+vancouver,f3w5er1,2019,10,-1,None,None,None
+melbourne,hnbzhij,2021,12,-1,None,None,None
+toronto,eyecbu9,2019,8,0,Government_Policy(E),Government_Policy(I),Real_price
+melbourne,em4buxy,2019,4,-1,None,None,None
+toronto,f9n10go,2019,12,2,Wage_Price_Imbalance,"Relocation, Bootstraps",None
+melbourne,ct2h51h,2015,7,-1,None,None,None
+toronto,eb5bmg5,2018,12,1,Cost_of_Living,None,"Quality, Availability, Real_price"
+losangeles,dg8q6z8,2017,4,-1,None,None,None
+toronto,ghcu2fp,2020,12,1,None,None,"Availability, Real_price"
+sydney,ei23wnz,2019,3,2,None,None,Real_price
+london,igx7i5b,2022,7,0,None,Building,Real_price
+sydney,d2bbho1,2016,4,1,"Foreign_Investment, The_Rich",None,None
+vancouver,ckl08lc,2014,9,1,Wage_Price_Imbalance,Relocation,"Housing_to_Income, Real_price, Quality"
+losangeles,cju02e8,2014,8,2,"The_Rich, Government_Policy(E)",None,None
+vancouver,cwkz794,2015,11,2,Wage_Price_Imbalance,Bootstraps,"Real_price, Housing_to_Income, Availability"
+vancouver,g4jzzpu,2020,9,1,Government_Policy(E),Government_Policy(I),None
+vancouver,d1zzcmp,2016,4,1,"NIMBYism, Underbuilding",Building,"Availability, Quality, Real_price"
+vancouver,hb8uwgu,2021,9,2,"The_Rich, Wage_Price_Imbalance, Cost_of_Living",None,"Housing_to_Income, Quality, Availability, Real_price"
+bristol,gx8g8a0,2021,5,2,None,None,Availability
+melbourne,d8bo98x,2016,10,-1,None,None,None
+vancouver,dyfbn2s,2018,5,-1,None,None,None
+losangeles,dfaoi4p,2017,3,-1,None,None,None
+sydney,c1ast1g,2010,12,-1,None,None,None
+london,g3p8xdn,2020,9,2,The_Rich,Government_Policy(I),None
+losangeles,epc6mog,2019,5,2,"Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price"
+toronto,d8pez1t,2016,10,0,None,Relocation,None
+sydney,d2b7exu,2016,4,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+toronto,gpo1omw,2021,3,-1,None,None,None
+vancouver,hvvx783,2022,2,2,"Government_Policy(E), Underbuilding, Wage_Price_Imbalance, Cost_of_Living","Government_Policy(I), Building","Availability, Housing_to_Income, Real_price, Quality"
+toronto,dfvqyf4,2017,4,2,"Foreign_Investment, Underbuilding, Government_Policy(E), NIMBYism, The_Rich, Overcrowding","Government_Policy(I), Building","Availability, Quality, Real_price, Housing_to_Income"
+london,hslvuk6,2022,1,2,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Quality, Availability, Real_price, Housing_to_Income"
+toronto,hs4wdwr,2022,1,2,"Foreign_Investment, Overcrowding",None,Real_price
+vancouver,e4zy38t,2018,8,2,Wage_Price_Imbalance,Relocation,"Housing_to_Income, Quality, Availability, Real_price"
+losangeles,i325pfa,2022,4,0,None,"Bootstraps, Relocation",Quality
+sanfrancisco,c1a2ldb,2010,12,-1,None,None,None
+vancouver,dmjxtsp,2017,9,1,"Underbuilding, NIMBYism",Building,"Availability, Real_price"
+bristol,g901gij,2020,10,0,Underbuilding,"Building, Relocation",Availability
+losangeles,d4yyny7,2016,7,2,Government_Policy(E),"Government_Policy(I), Building","Quality, Availability"
+london,gpoilyz,2021,3,1,Government_Policy(E),Government_Policy(I),"Availability, Real_price"
+sanfrancisco,dukdar5,2018,2,-1,None,None,None
+sanfrancisco,chmv9go,2014,5,-1,None,None,None
+toronto,fi7guna,2020,2,-1,None,None,None
+toronto,ctzg4hk,2015,8,0,None,None,"Housing_to_Income, Real_price"
+vancouver,dmj7y8o,2017,9,0,None,None,Quality
+sanfrancisco,effaf37,2019,1,1,NIMBYism,"Building, Government_Policy(I)",Availability
+sanfrancisco,dndj03n,2017,9,2,"Government_Policy(E), NIMBYism, Underbuilding","Government_Policy(I), Building, Relocation","Availability, Real_price"
+toronto,c39t5j4,2011,12,2,"The_Rich, Wage_Price_Imbalance",None,"Real_price, Housing_to_Income"
+sanfrancisco,ehxx58o,2019,3,2,Cost_of_Living,Relocation,"Quality, Real_price, Availability"
+bristol,eqx8sk8,2019,6,-1,None,None,None
+vancouver,fs4t1f1,2020,5,-1,None,None,None
+london,hduhuda,2021,9,-1,None,None,None
+losangeles,e06avao,2018,6,2,"NIMBYism, Cost_of_Living, Underbuilding","Building, Relocation","Availability, Real_price, Quality"
+toronto,elkgc0c,2019,4,0,None,None,Real_price
+vancouver,de3y12p,2017,2,2,"Wage_Price_Imbalance, The_Rich",None,"Housing_to_Income, Real_price"
+toronto,hr3vydo,2022,1,2,Cost_of_Living,Relocation,"Real_price, Quality"
+melbourne,dykvxd8,2018,5,-1,None,None,None
+vancouver,cn8e6os,2014,12,-1,None,None,None
+losangeles,in1tspr,2022,9,-1,None,None,None
+toronto,f9mvetl,2019,12,2,"Government_Policy(E), Cost_of_Living",Government_Policy(I),Real_price
+sydney,djqmnc9,2017,7,1,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Real_price, Quality"
+london,i4xvoip,2022,4,-1,None,None,None
+melbourne,cp1pj18,2015,3,-1,None,None,None
+bristol,dianjne,2017,6,-1,None,None,None
+melbourne,i3b5smc,2022,4,2,Government_Policy(E),None,None
+london,hsjwf36,2022,1,-1,None,None,None
+london,igwuffa,2022,7,2,Wage_Price_Imbalance,Bootstraps,"Housing_to_Income, Availability"
+vancouver,fb4oaif,2019,12,0,Wage_Price_Imbalance,None,"Housing_to_Income, Quality"
+losangeles,gdi985b,2020,11,2,"Government_Policy(E), Cost_of_Living","Bootstraps, Government_Policy(I)",Quality
+losangeles,c1tjgiv,2011,5,1,None,None,"Availability, Real_price"
+melbourne,i15634r,2022,3,-1,None,None,None
+melbourne,hlvblkt,2021,11,2,"The_Rich, Wage_Price_Imbalance, Government_Policy(E)",Government_Policy(I),"Housing_to_Income, Real_price"
+losangeles,dnbm52d,2017,9,-1,None,None,None
+sydney,j1coxm2,2022,12,2,"Overcrowding, Foreign_Investment, The_Rich",Government_Policy(I),"Quality, Real_price, Availability"
+vancouver,ha2o4px,2021,8,2,Wage_Price_Imbalance,None,"Quality, Real_price, Housing_to_Income"
+toronto,f9n2men,2019,12,-1,None,None,None
+toronto,eb7pso7,2018,12,1,"AirBnB, Government_Policy(E)",Government_Policy(I),"Availability, Real_price"
+vancouver,cwka8oc,2015,11,-1,None,None,None
+melbourne,cyo15e9,2016,1,-1,None,None,None
+sanfrancisco,dgeuhpg,2017,4,1,"NIMBYism, Government_Policy(E)",Government_Policy(I),None
+bristol,inia3mw,2022,9,2,Cost_of_Living,Relocation,Real_price
+dublin,gf84imo,2020,12,0,Wage_Price_Imbalance,"Bootstraps, Relocation",None
+melbourne,ddyjqi5,2017,2,2,Cost_of_Living,Bootstraps,Housing_to_Income
+london,fz0r4lq,2020,7,-1,None,None,None
+toronto,cty70c1,2015,8,2,None,None,None
+toronto,dzglxbl,2018,5,1,"NIMBYism, The_Rich","Building, Government_Policy(I)",Availability
+toronto,dfw8q5g,2017,4,2,Wage_Price_Imbalance,None,"Housing_to_Income, Quality"
+sydney,he2wrzl,2021,9,2,Wage_Price_Imbalance,None,Housing_to_Income
+london,igx695p,2022,7,-1,None,None,None
+losangeles,dj6risa,2017,6,1,NIMBYism,Building,Availability
+vancouver,iyyknde,2022,12,-1,None,None,None
+auckland,h7r3pfk,2021,8,2,None,Group_action,None
+losangeles,dj7pslm,2017,6,2,Cost_of_Living,None,Real_price
+vancouver,chlzp1w,2014,5,0,Overcrowding,None,None
+vancouver,elurxsu,2019,4,1,None,Relocation,"Quality, Real_price"
+toronto,i7adec1,2022,5,1,None,None,"Real_price, Quality"
+toronto,gpo4e01,2021,3,2,The_Rich,Government_Policy(I),"Housing_to_Income, Quality, Availability, Real_price"
+vancouver,d661x1p,2016,8,1,None,Relocation,"Quality, Availability"
+auckland,ffszkbj,2020,1,1,"Government_Policy(E), Overcrowding",Government_Policy(I),"Availability, Real_price"
+london,igwonq0,2022,7,2,None,None,Quality
+vancouver,gsz050d,2021,3,2,"Wage_Price_Imbalance, Cost_of_Living",None,Housing_to_Income
+toronto,j20nbou,2022,12,-1,None,None,None
+sanfrancisco,chme2wk,2014,5,1,"Underbuilding, NIMBYism",Building,"Availability, Real_price"
+bristol,cpy8tvr,2015,4,0,"The_Rich, Government_Policy(E), Cost_of_Living","Government_Policy(I), Bootstraps","Housing_to_Income, Real_price, Availability"
+london,c4l2fr4,2012,5,-1,None,None,None
+melbourne,dul2v28,2018,2,-1,None,None,None
+toronto,gpoipj0,2021,3,-1,None,None,None
+london,ih0seak,2022,7,-1,None,None,None
+vancouver,eluezmh,2019,4,-1,None,None,None
+london,cx66ioy,2015,11,2,"Wage_Price_Imbalance, Cost_of_Living",None,Housing_to_Income
+vancouver,iyz744y,2022,12,1,NIMBYism,"Government_Policy(I), Building",Availability
+losangeles,i30g72l,2022,4,-1,None,None,None
+losangeles,dzixky8,2018,5,0,"Government_Policy(E), Cost_of_Living",Government_Policy(I),None
+losangeles,imu5tgj,2022,9,2,None,None,None
+sydney,gyrme42,2021,5,1,Government_Policy(E),Government_Policy(I),Quality
+london,i4y57bv,2022,4,1,None,None,Quality
+vancouver,d50com7,2016,7,0,Foreign_Investment,None,"Availability, Real_price"
+losangeles,ep7xaqg,2019,5,1,"Underbuilding, Wage_Price_Imbalance","Government_Policy(I), Building","Housing_to_Income, Real_price"
+melbourne,cp1jrg2,2015,3,1,NIMBYism,"Building, Relocation","Quality, Availability"
+vancouver,ckmaebc,2014,9,-1,None,None,None
+sydney,ck9qvpu,2014,9,1,"Foreign_Investment, Government_Policy(E), The_Rich",Government_Policy(I),"Real_price, Quality"
+losangeles,i31amj4,2022,4,-1,None,None,None
+sanfrancisco,dndbio9,2017,9,2,"Wage_Price_Imbalance, Cost_of_Living",Government_Policy(I),"Housing_to_Income, Real_price"
+vancouver,hvv292t,2022,2,-1,None,None,None
+losangeles,d4y9dmp,2016,7,0,"The_Rich, Government_Policy(E)",Government_Policy(I),None
+toronto,fdhfzwt,2020,1,2,Wage_Price_Imbalance,None,Housing_to_Income
+losangeles,cp362r7,2015,3,1,None,None,Availability
+bristol,hfkwpob,2021,10,-1,None,None,None
+toronto,d51eokd,2016,7,2,"Government_Policy(E), Underbuilding, Overcrowding","Government_Policy(I), Building","Availability, Real_price"
+sanfrancisco,duiopyn,2018,2,-1,None,None,None
+losangeles,cfjfe94,2014,2,2,Government_Policy(E),"Building, Relocation, Government_Policy(I)","Quality, Real_price"
+toronto,ctxzapa,2015,8,-1,None,None,None
+vancouver,d524ytp,2016,7,0,None,None,None
+auckland,ho3lycw,2021,12,0,None,None,None
+melbourne,ieahxpm,2022,6,2,NIMBYism,"Building, Government_Policy(I)",Availability
+melbourne,hlr7txl,2021,11,2,"Wage_Price_Imbalance, Cost_of_Living, The_Rich",None,"Housing_to_Income, Quality, Availability, Real_price"
+vancouver,cbjd59e,2013,8,2,None,Bootstraps,"Real_price, Quality"
+sydney,dw976i3,2018,3,2,The_Rich,None,"Quality, Real_price"
+vancouver,ikptbhl,2022,8,1,The_Rich,Bootstraps,Housing_to_Income
+vancouver,c58zlcx,2012,7,1,None,Government_Policy(I),Real_price
+toronto,ellpcd2,2019,4,2,"AirBnB, The_Rich",None,Availability
+melbourne,hn5tpfl,2021,12,-1,None,None,None
+auckland,fft3xie,2020,1,-1,None,None,None
+vancouver,f3vn0g4,2019,10,1,Overcrowding,Government_Policy(I),Availability
+sydney,ikuebzp,2022,8,2,None,Bootstraps,"Quality, Availability, Real_price"
+sanfrancisco,ccqutuf,2013,10,-1,None,None,None
+toronto,ghaodh8,2020,12,2,"NIMBYism, Government_Policy(E), Underbuilding","Building, Government_Policy(I)",Availability
+vancouver,hvv85cj,2022,2,2,The_Rich,None,"Availability, Quality"
+losangeles,gmrd85r,2021,2,-1,None,None,None
+losangeles,dnbd3on,2017,9,-1,None,None,None
+toronto,c2hyqi5,2011,9,2,"Foreign_Investment, Cost_of_Living, Wage_Price_Imbalance, The_Rich, Government_Policy(E)",Government_Policy(I),"Housing_to_Income, Real_price, Availability"
+bristol,iryg1cc,2022,10,-1,None,None,None
+toronto,ctxzkiy,2015,8,0,None,None,None
+sydney,i4nfqet,2022,4,2,Cost_of_Living,Government_Policy(I),Real_price
+sydney,dfuswxg,2017,4,2,Foreign_Investment,Government_Policy(I),"Availability, Real_price"
+vancouver,dks0fgv,2017,7,2,"Foreign_Investment, The_Rich",None,"Availability, Real_price"
+bristol,iidfxh8,2022,7,2,Cost_of_Living,None,"Real_price, Quality"
+vancouver,d51jo4d,2016,7,-1,None,None,None
+london,igygwgg,2022,7,1,"The_Rich, Government_Policy(E), Cost_of_Living",Bootstraps,"Housing_to_Income, Quality, Real_price"
+losangeles,gmth4wx,2021,2,2,Government_Policy(E),"Government_Policy(I), Relocation",Real_price
+toronto,eu4oelv,2019,7,2,None,Bootstraps,None
+vancouver,d1zxnts,2016,4,1,None,None,None
+sanfrancisco,dui3ge3,2018,2,-1,None,None,None
+sanfrancisco,ho3gke6,2021,12,2,"NIMBYism, The_Rich","Government_Policy(I), Building","Quality, Availability"
+toronto,j20vhyg,2022,12,-1,None,None,None
+sanfrancisco,gnhv4hr,2021,2,1,NIMBYism,Building,Availability
+toronto,i7a3y51,2022,5,2,Cost_of_Living,None,None
+sydney,iyfx4pz,2022,12,-1,None,None,None
+losangeles,d4js9bj,2016,6,2,Wage_Price_Imbalance,None,"Housing_to_Income, Availability"
+sydney,hbez6dc,2021,9,-1,None,None,None
+toronto,deqghcv,2017,3,2,Wage_Price_Imbalance,Bootstraps,Real_price
+vancouver,dnfene7,2017,9,2,Foreign_Investment,None,Availability
+vancouver,dyfy89l,2018,5,1,Government_Policy(E),Government_Policy(I),None
+vancouver,d52duu9,2016,7,0,None,None,"Housing_to_Income, Real_price"
+toronto,ghah9z2,2020,12,2,"Wage_Price_Imbalance, Cost_of_Living",Government_Policy(I),"Housing_to_Income, Real_price"
+melbourne,em6i05k,2019,4,1,The_Rich,None,Real_price
+vancouver,hw1yb2h,2022,2,2,"Foreign_Investment, Government_Policy(E), NIMBYism",Government_Policy(I),Availability
+vancouver,ikut2yj,2022,8,2,"Foreign_Investment, The_Rich, Government_Policy(E), Cost_of_Living",Government_Policy(I),None
+sanfrancisco,iuktwf4,2022,11,-1,None,None,None
+auckland,ho6hifj,2021,12,2,Wage_Price_Imbalance,None,None
+dublin,hly13y3,2021,11,2,None,Building,Availability
+toronto,ctzfdca,2015,8,-1,None,None,None
+losangeles,j24vu1n,2022,12,2,Overcrowding,None,"Availability, Quality"
+vancouver,hyzsg08,2022,3,-1,None,None,None
+losangeles,ciighuh,2014,6,2,Cost_of_Living,"Relocation, Government_Policy(I)",Real_price
+losangeles,cjunsg4,2014,8,2,Cost_of_Living,None,"Quality, Real_price"
+toronto,c6i6mz9,2012,10,1,None,None,"Availability, Real_price, Quality"
+bristol,dyvml7r,2018,5,2,Government_Policy(E),Government_Policy(I),"Quality, Real_price"
+toronto,f9o2oe3,2019,12,2,The_Rich,Group_action,"Housing_to_Income, Quality, Availability, Real_price"
+losangeles,i34kjwl,2022,4,0,None,Bootstraps,"Quality, Real_price"
+london,c45xt5r,2012,3,2,The_Rich,Government_Policy(I),Real_price
+toronto,hlrnoja,2021,11,2,The_Rich,None,Quality
+losangeles,j2744ns,2022,12,2,Government_Policy(E),Government_Policy(I),Real_price
+melbourne,iib5cll,2022,7,2,None,Bootstraps,Real_price
+vancouver,c6r55cm,2012,10,-1,None,None,None
+losangeles,d8f9x29,2016,10,-1,None,None,None
+sydney,h6x5dzi,2021,7,0,None,None,Quality
+dublin,iw45q1k,2022,11,-1,None,None,None
+bristol,iid8efu,2022,7,2,Cost_of_Living,Bootstraps,"Housing_to_Income, Quality"
+london,fyzruqd,2020,7,-1,None,None,None
+melbourne,hn482wq,2021,12,2,Wage_Price_Imbalance,Bootstraps,Availability
+vancouver,hz0m6hh,2022,3,0,None,Government_Policy(I),"Quality, Real_price"
+losangeles,dsz4up8,2018,1,-1,None,None,None
+melbourne,hwpg764,2022,2,2,None,None,Quality
+dublin,ikwn5lw,2022,8,2,"Government_Policy(E), Overcrowding",Government_Policy(I),Availability
+sanfrancisco,efevvgj,2019,1,0,Overcrowding,None,"Real_price, Availability"
+vancouver,chm0puw,2014,5,2,"Foreign_Investment, The_Rich",None,Real_price
+toronto,f9nq97s,2019,12,-1,None,None,None
+vancouver,c9thque,2013,5,0,None,None,Real_price
+losangeles,dsz2bn5,2018,1,-1,None,None,None
+melbourne,em49ymr,2019,4,2,The_Rich,Bootstraps,Real_price
+sydney,h70yxlq,2021,7,-1,None,None,None
+melbourne,dd8aeme,2017,2,-1,None,None,None
+sanfrancisco,c1t674n,2011,5,-1,None,None,None
+melbourne,ieaetvf,2022,6,-1,None,None,None
+toronto,hlrjo7r,2021,11,2,The_Rich,Bootstraps,None
+vancouver,fzsrco7,2020,7,-1,None,None,None
+sydney,d1joe1y,2016,3,-1,None,None,None
+vancouver,egunjgw,2019,2,2,"Foreign_Investment, The_Rich",Government_Policy(I),None
+toronto,hs43hl1,2022,1,2,"Wage_Price_Imbalance, The_Rich",Relocation,"Availability, Quality, Housing_to_Income"
+vancouver,hvuwumh,2022,2,2,Overcrowding,None,"Availability, Real_price"
+vancouver,c2upc1a,2011,10,0,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+melbourne,dnkpbn9,2017,9,2,Cost_of_Living,None,"Real_price, Quality"
+melbourne,i185by4,2022,3,2,Wage_Price_Imbalance,None,Housing_to_Income
+vancouver,chmevhz,2014,5,0,"Foreign_Investment, The_Rich",None,None
+losangeles,dzj3nyu,2018,5,2,Overcrowding,None,Availability
+sanfrancisco,cdeehib,2013,11,0,None,None,Real_price
+vancouver,g4lardv,2020,9,-1,None,None,None
+sanfrancisco,dndgn0n,2017,9,1,Government_Policy(E),Government_Policy(I),None
+sydney,he253bm,2021,9,-1,None,None,None
+vancouver,dunvhwi,2018,2,2,Government_Policy(E),Government_Policy(I),None
+losangeles,dszb9lm,2018,1,2,"Government_Policy(E), Cost_of_Living",Government_Policy(I),Real_price
+auckland,iuvmuqt,2022,11,-1,None,None,None
+auckland,hobdd5k,2021,12,2,Cost_of_Living,Government_Policy(I),Real_price
+toronto,hs9ufw4,2022,1,2,Cost_of_Living,None,"Quality, Real_price"
+melbourne,iebdk2m,2022,6,2,The_Rich,None,"Real_price, Quality"
+vancouver,iz0wxhp,2022,12,-1,None,None,None
+sydney,djriabd,2017,7,0,None,Bootstraps,"Housing_to_Income, Real_price"
+vancouver,duoa96l,2018,2,2,"Underbuilding, NIMBYism, Wage_Price_Imbalance","Government_Policy(I), Building","Housing_to_Income, Quality, Availability, Real_price"
+sanfrancisco,d51onlz,2016,7,-1,None,None,None
+losangeles,g6cgrob,2020,9,-1,None,None,None
+sydney,dctz69d,2017,1,0,"Foreign_Investment, The_Rich, Government_Policy(E)",Government_Policy(I),None
+toronto,fi7w322,2020,2,2,"AirBnB, The_Rich",None,"Availability, Quality"
+sanfrancisco,c1t715o,2011,5,-1,None,None,None
+toronto,gpnx9z6,2021,3,-1,None,None,None
+vancouver,cvl4u9r,2015,10,2,"Wage_Price_Imbalance, Cost_of_Living",None,"Housing_to_Income, Quality, Real_price"
+london,hsnhmer,2022,1,2,"NIMBYism, Overcrowding",Building,"Availability, Real_price"
+toronto,e4y14b1,2018,8,1,None,Bootstraps,Availability
+toronto,eb5d350,2018,12,0,Wage_Price_Imbalance,None,Housing_to_Income
+losangeles,gdinlza,2020,11,2,The_Rich,None,"Real_price, Availability"
+losangeles,i30v4al,2022,4,2,Cost_of_Living,Relocation,"Quality, Real_price"
+sanfrancisco,dhm6f9z,2017,5,0,NIMBYism,None,None
+toronto,ghi1p3z,2020,12,1,Cost_of_Living,None,"Quality, Real_price"
+sydney,iblnq6z,2022,6,2,"Overcrowding, Cost_of_Living",Bootstraps,"Availability, Real_price, Housing_to_Income"
+losangeles,cih2gph,2014,6,-1,None,None,None
+losangeles,dii9f42,2017,6,0,None,"Bootstraps, Relocation","Housing_to_Income, Real_price, Quality"
+vancouver,iz07rbt,2022,12,1,"NIMBYism, Government_Policy(E)","Building, Government_Policy(I)","Quality, Availability"
+bristol,iidjhu2,2022,7,1,Cost_of_Living,Bootstraps,"Housing_to_Income, Quality, Real_price"
+losangeles,d8dyd1z,2016,10,2,"NIMBYism, Underbuilding, The_Rich",Building,Availability
+toronto,dzg34dd,2018,5,0,"Government_Policy(E), The_Rich",Government_Policy(I),"Housing_to_Income, Real_price, Quality"
+vancouver,f3v7tv8,2019,10,1,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+dublin,fx8w7j3,2020,7,1,Wage_Price_Imbalance,Bootstraps,"Quality, Real_price"
+toronto,eb5e6b6,2018,12,-1,None,None,None
+vancouver,d69yynh,2016,8,-1,None,None,None
+toronto,eyer3lz,2019,8,-1,None,None,None
+losangeles,cju9q4p,2014,8,2,"Wage_Price_Imbalance, Overcrowding",None,"Quality, Availability"
+losangeles,dnarsxn,2017,9,-1,None,None,None
+losangeles,dt0rqq3,2018,1,2,"The_Rich, Wage_Price_Imbalance",None,"Quality, Real_price"
+losangeles,fbbz4qx,2019,12,2,"Government_Policy(E), NIMBYism, Underbuilding","Government_Policy(I), Building",Availability
+sanfrancisco,chjc837,2014,5,0,None,None,"Real_price, Quality"
+melbourne,iicihrm,2022,7,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price, Availability"
+vancouver,fs3u2x6,2020,5,2,The_Rich,None,Quality
+toronto,eu5ihfh,2019,7,2,"Foreign_Investment, Overcrowding, The_Rich, Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price, Quality"
+toronto,eb4xcky,2018,12,0,"Foreign_Investment, Government_Policy(E)",None,None
+melbourne,g9amrt0,2020,10,-1,None,None,None
+vancouver,c47u42u,2012,4,-1,None,None,None
+losangeles,dg8aiaz,2017,4,2,Underbuilding,Building,Availability
+toronto,eydfhtq,2019,8,2,Government_Policy(E),"Government_Policy(I), Building",Availability
+vancouver,cq2bpyz,2015,4,2,"Foreign_Investment, The_Rich",None,"Real_price, Availability"
+london,hsr3ilz,2022,1,0,"Government_Policy(E), The_Rich",Government_Policy(I),Real_price
+vancouver,ikr6j1t,2022,8,0,"Wage_Price_Imbalance, Cost_of_Living, The_Rich","Bootstraps, Relocation","Housing_to_Income, Quality, Availability, Real_price"
+auckland,ho6cy8g,2021,12,2,Government_Policy(E),Government_Policy(I),Real_price
+vancouver,cvjsedo,2015,9,2,Cost_of_Living,None,"Real_price, Quality"
+losangeles,g6gkz1y,2020,9,0,None,None,"Real_price, Quality"
+sydney,h6x2pb2,2021,7,0,Wage_Price_Imbalance,None,Housing_to_Income
+london,hslxha8,2022,1,1,None,"Government_Policy(I), Bootstraps",None
+bristol,h73k4lz,2021,7,2,Cost_of_Living,None,"Availability, Real_price"
+sanfrancisco,euemhv6,2019,7,1,"NIMBYism, Underbuilding","Government_Policy(I), Building","Availability, Real_price"
+sydney,cpce64a,2015,3,2,"Wage_Price_Imbalance, Cost_of_Living",None,"Quality, Real_price"
+toronto,dfk85tr,2017,3,2,"Foreign_Investment, Government_Policy(E)",Government_Policy(I),"Availability, Quality"
+toronto,ghatb2w,2020,12,-1,None,None,None
+sydney,d5uteqa,2016,7,2,"NIMBYism, Overcrowding, Cost_of_Living","Building, Relocation","Quality, Real_price"
+sydney,he2e8kb,2021,9,2,"Wage_Price_Imbalance, Cost_of_Living",None,"Housing_to_Income, Quality, Availability, Real_price"
+losangeles,dzk716x,2018,5,-1,None,None,None
+vancouver,d51o84w,2016,7,-1,None,None,None
+london,igye84m,2022,7,0,None,None,"Quality, Real_price"
+sydney,dfu5m1r,2017,4,2,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Real_price"
+bristol,dq54n04,2017,11,2,Wage_Price_Imbalance,Relocation,Real_price
+sanfrancisco,c1t8cbx,2011,5,0,None,None,None
+vancouver,iyylbfn,2022,12,1,"Government_Policy(E), NIMBYism, AirBnB, Underbuilding","Government_Policy(I), Building",Availability
+london,cgij7gy,2014,4,1,The_Rich,None,"Real_price, Availability"
+dublin,hq5n2st,2021,12,-1,None,None,None
+losangeles,cjub0w7,2014,8,0,None,None,None
+melbourne,hn1ey1j,2021,12,-1,None,None,None
+toronto,e4x08m3,2018,8,2,"Cost_of_Living, Overcrowding",None,"Quality, Real_price"
+losangeles,dj70cae,2017,6,-1,None,None,None
+sanfrancisco,d50xfxf,2016,7,-1,None,None,None
+melbourne,dukra9r,2018,2,1,None,Relocation,Quality
+vancouver,duzshnn,2018,3,2,"The_Rich, Government_Policy(E), Foreign_Investment",Government_Policy(I),Real_price
+vancouver,fs661yo,2020,5,-1,None,None,None
+sydney,iyfp9g6,2022,12,2,"AirBnB, The_Rich",None,"Quality, Real_price"
+losangeles,e6o5y8b,2018,9,2,"Foreign_Investment, The_Rich, Government_Policy(E)",Government_Policy(I),None
+toronto,d8q8n6z,2016,10,-1,None,None,None
+melbourne,ieah6l4,2022,6,-1,None,None,None
+losangeles,dfbay3k,2017,3,-1,None,None,None
+vancouver,cq2r2vk,2015,4,0,None,None,Real_price
+sanfrancisco,i62ry2l,2022,4,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+dublin,dz2bkxc,2018,5,2,"Government_Policy(E), The_Rich",Government_Policy(I),None
+toronto,e4xbaki,2018,8,2,None,Relocation,"Real_price, Availability"
+losangeles,df9w9p9,2017,3,1,None,Relocation,Quality
+vancouver,d526ozk,2016,7,0,None,None,None
+sanfrancisco,fupjx88,2020,6,1,Government_Policy(E),Government_Policy(I),Availability
+london,g3ou2o2,2020,9,-1,None,None,None
+toronto,fivlrye,2020,2,0,None,None,Real_price
+vancouver,egurmu0,2019,2,2,Underbuilding,None,"Real_price, Availability"
+losangeles,gdcdysm,2020,11,-1,None,None,None
+vancouver,d68dfwf,2016,8,-1,None,None,None
+sydney,gndvpny,2021,2,1,"Wage_Price_Imbalance, Overcrowding",Relocation,"Housing_to_Income, Quality"
+losangeles,dsz6nfs,2018,1,-1,None,None,None
+dublin,drz49x9,2017,12,2,Cost_of_Living,Bootstraps,"Quality, Real_price, Housing_to_Income"
+vancouver,de37pag,2017,2,2,Wage_Price_Imbalance,None,Housing_to_Income
+sanfrancisco,h5fazoh,2021,7,-1,None,None,None
+toronto,ealbb8h,2018,11,-1,None,None,None
+melbourne,eixfwhm,2019,3,0,Underbuilding,Building,"Quality, Availability, Real_price"
+losangeles,i30ra9e,2022,4,-1,None,None,None
+toronto,eu58wuh,2019,7,0,The_Rich,Bootstraps,None
+dublin,iw7v9gf,2022,11,-1,None,None,None
+vancouver,egthbgg,2019,2,0,Underbuilding,Building,Availability
+vancouver,c2sy0m7,2011,10,2,"Foreign_Investment, Wage_Price_Imbalance",None,"Housing_to_Income, Real_price"
+bristol,h72zwnb,2021,7,2,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+bristol,g8wf2vy,2020,10,-1,None,None,None
+dublin,hq5ruut,2021,12,2,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+toronto,dfv5k2d,2017,4,0,None,None,None
+melbourne,efhswm9,2019,2,2,None,Relocation,Real_price
+vancouver,f3v4dld,2019,10,2,Wage_Price_Imbalance,None,Housing_to_Income
+sydney,dg3cm3o,2017,4,-1,None,None,None
+sanfrancisco,cyfvwur,2015,12,-1,None,None,None
+losangeles,cjvvu7q,2014,8,2,None,None,"Quality, Real_price"
+vancouver,hb9b52t,2021,9,2,Government_Policy(E),Government_Policy(I),None
+auckland,gonsrt0,2021,2,2,"The_Rich, Government_Policy(E), Wage_Price_Imbalance",Government_Policy(I),"Housing_to_Income, Real_price, Availability"
+sanfrancisco,ds5ta0a,2018,1,1,NIMBYism,Government_Policy(I),Quality
+vancouver,db6d6w6,2016,12,2,"The_Rich, Cost_of_Living",Government_Policy(I),Real_price
+losangeles,el72lij,2019,4,2,"Underbuilding, Cost_of_Living",Building,"Quality, Real_price"
+vancouver,ha395n2,2021,8,2,Cost_of_Living,None,Real_price
+sydney,clly0cd,2014,10,1,Cost_of_Living,None,Real_price
+vancouver,fs51ehn,2020,5,2,Government_Policy(E),Government_Policy(I),"Quality, Real_price, Availability"
+sanfrancisco,cyf8d8y,2015,12,-1,None,None,None
+vancouver,c3b5uqr,2011,12,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price, Quality"
+london,ehwo59h,2019,3,2,"Wage_Price_Imbalance, Cost_of_Living, Government_Policy(E), Underbuilding","Government_Policy(I), Building","Housing_to_Income, Quality, Availability, Real_price"
+toronto,eu5ooj7,2019,7,0,"Foreign_Investment, AirBnB",None,None
+sanfrancisco,dndv0za,2017,9,-1,None,None,None
+toronto,dzj6mg7,2018,5,2,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+bristol,iimkwfn,2022,8,2,Wage_Price_Imbalance,Government_Policy(I),Housing_to_Income
+vancouver,d51wht6,2016,7,-1,None,None,None
+losangeles,g6d22ll,2020,9,1,Underbuilding,None,"Availability, Real_price"
+bristol,czme38h,2016,2,2,The_Rich,None,Quality
+sydney,j1chf1h,2022,12,-1,None,None,None
+sydney,ikuej9r,2022,8,-1,None,None,None
+london,hdsa7yc,2021,9,2,Overcrowding,None,Availability
+sanfrancisco,dui33nl,2018,2,2,"Wage_Price_Imbalance, Cost_of_Living",None,"Housing_to_Income, Real_price"
+dublin,hk3srej,2021,11,2,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Quality"
+auckland,gonlhva,2021,2,2,Government_Policy(E),Government_Policy(I),Real_price
+toronto,gpo2a3b,2021,3,0,None,None,None
+losangeles,dzixxck,2018,5,-1,None,None,None
+toronto,e3snu9l,2018,8,1,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+sanfrancisco,dndlgdw,2017,9,2,Wage_Price_Imbalance,Relocation,Quality
+london,i8sriq7,2022,5,-1,None,None,None
+losangeles,duhwqoy,2018,2,-1,None,None,None
+losangeles,ep7s9wh,2019,5,2,Cost_of_Living,Relocation,"Housing_to_Income, Quality, Real_price"
+vancouver,d51yk03,2016,7,-1,None,None,None
+melbourne,efi0wtq,2019,2,-1,None,None,None
+london,hds5ogl,2021,9,-1,None,None,None
+losangeles,d4jrfl7,2016,6,2,Foreign_Investment,None,"Quality, Real_price"
+london,dgsdujq,2017,4,-1,None,None,None
+vancouver,d51l5ct,2016,7,-1,None,None,None
+vancouver,dunyp0f,2018,2,2,The_Rich,None,Real_price
+losangeles,dzj225s,2018,5,1,"Government_Policy(E), Underbuilding, NIMBYism","Building, Government_Policy(I)","Availability, Real_price"
+losangeles,dnbhhcr,2017,9,-1,None,None,None
+bristol,cvpxxa3,2015,10,2,The_Rich,Government_Policy(I),"Availability, Real_price"
+melbourne,hlrabyp,2021,11,2,Cost_of_Living,None,None
+losangeles,cijnf1x,2014,6,2,Wage_Price_Imbalance,None,"Housing_to_Income, Quality, Real_price"
+sanfrancisco,cte48p7,2015,7,1,The_Rich,Building,Availability
+toronto,ctyos8m,2015,8,-1,None,None,None
+sydney,eayigfy,2018,12,2,Wage_Price_Imbalance,Bootstraps,"Housing_to_Income, Quality, Availability"
+vancouver,d51samp,2016,7,1,Cost_of_Living,Relocation,Real_price
+vancouver,d51rx9e,2016,7,2,"Underbuilding, Government_Policy(E), NIMBYism","Relocation, Government_Policy(I), Building","Quality, Availability, Real_price"
+london,iknftso,2022,8,0,None,None,"Real_price, Quality"
+toronto,cty7afp,2015,8,2,None,None,Quality
+london,i50kk0e,2022,4,-1,None,None,None
+sanfrancisco,dxmom54,2018,4,1,Underbuilding,Building,Availability
+losangeles,i30xace,2022,4,-1,None,None,None
+london,dh06efi,2017,5,0,None,"Bootstraps, Relocation","Quality, Availability, Housing_to_Income"
+vancouver,g4lwg47,2020,9,2,"Government_Policy(E), Cost_of_Living",Government_Policy(I),"Quality, Real_price"
+vancouver,de3vako,2017,2,-1,None,None,None
+london,ehwpyuz,2019,3,1,The_Rich,None,Real_price
+vancouver,cy03wom,2015,12,-1,None,None,None
+bristol,g8woeoh,2020,10,-1,None,None,None
+losangeles,dnbyio5,2017,9,-1,None,None,None
+toronto,f9n5jnm,2019,12,2,Wage_Price_Imbalance,None,Availability
+bristol,hg1ecy6,2021,10,0,None,None,Real_price
+sydney,ibmnqil,2022,6,2,Wage_Price_Imbalance,None,Availability
+sydney,eazgf5z,2018,12,2,Wage_Price_Imbalance,"Relocation, Bootstraps","Housing_to_Income, Real_price, Availability"
+vancouver,hyztoi7,2022,3,1,"Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price"
+toronto,hr5hdu0,2022,1,0,Wage_Price_Imbalance,None,None
+auckland,guzceq2,2021,4,2,Cost_of_Living,"Government_Policy(I), Bootstraps","Real_price, Housing_to_Income"
+london,congp7r,2015,2,1,"The_Rich, Government_Policy(E)",Government_Policy(I),None
+melbourne,cs2jzij,2015,6,0,None,Bootstraps,"Housing_to_Income, Quality, Real_price"
+sanfrancisco,g01cmxq,2020,8,-1,None,None,None
+london,g3ovydj,2020,9,2,"Government_Policy(E), The_Rich",Government_Policy(I),"Availability, Real_price"
+losangeles,el7cydx,2019,4,2,Wage_Price_Imbalance,None,Housing_to_Income
+melbourne,iid5a72,2022,7,-1,None,None,None
+toronto,fdh1mv0,2020,1,0,None,Relocation,"Quality, Real_price, Availability"
+melbourne,hn1r0dh,2021,12,2,"Government_Policy(E), The_Rich",Government_Policy(I),None
+toronto,cd2vrrv,2013,10,-1,None,None,None
+vancouver,chmeq34,2014,5,-1,None,None,None
+vancouver,cvkd907,2015,10,-1,None,None,None
+toronto,f9nf3of,2019,12,2,None,Relocation,"Quality, Real_price, Availability"
+dublin,hqam874,2021,12,2,"The_Rich, Government_Policy(E)",Government_Policy(I),"Real_price, Availability"
+losangeles,i32kui1,2022,4,-1,None,None,None
+toronto,h4jbqc8,2021,7,1,None,Government_Policy(I),"Quality, Real_price"
+toronto,e4xmb5n,2018,8,1,Cost_of_Living,None,"Quality, Real_price"
+london,gysugie,2021,5,-1,None,None,None
+toronto,f9n6d0n,2019,12,-1,None,None,None
+sydney,cpchrj2,2015,3,1,Cost_of_Living,Relocation,"Real_price, Quality"
+bristol,e864zcm,2018,10,2,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Housing_to_Income, Quality, Real_price"
+vancouver,fzqjrwy,2020,7,1,Wage_Price_Imbalance,Bootstraps,Housing_to_Income
+bristol,gc5v5z1,2020,11,2,The_Rich,None,Quality
+vancouver,g4kelvu,2020,9,-1,None,None,None
+bristol,dz09l23,2018,5,-1,None,None,None
+toronto,ghdaw22,2020,12,1,The_Rich,None,None
+sydney,he283c3,2021,9,1,None,"Government_Policy(I), Bootstraps",Real_price
+losangeles,j25or4a,2022,12,0,Underbuilding,Building,Availability
+vancouver,dkpr3d2,2017,7,1,None,Relocation,"Quality, Availability, Real_price"
+vancouver,ikpbonk,2022,8,1,Overcrowding,Building,Availability
+losangeles,df9wc6i,2017,3,-1,None,None,None
+auckland,hudx4wt,2022,1,-1,None,None,None
+sydney,cpci9iw,2015,3,-1,None,None,None
+vancouver,d51kwgf,2016,7,2,Wage_Price_Imbalance,None,Availability
+vancouver,cvl68dd,2015,10,-1,None,None,None
+sanfrancisco,dujuaoc,2018,2,-1,None,None,None
+toronto,dzgmibz,2018,5,2,"Foreign_Investment, The_Rich, Government_Policy(E)",Government_Policy(I),"Housing_to_Income, Real_price, Availability"
+sanfrancisco,duiwoyd,2018,2,-1,None,None,None
+losangeles,hlejkkt,2021,11,-1,None,None,None
+sydney,h6xiag4,2021,7,2,None,Relocation,None
+sydney,eayya1e,2018,12,0,The_Rich,None,None
+vancouver,g3hh6va,2020,8,2,"Foreign_Investment, Government_Policy(E)",Government_Policy(I),Availability
+london,hsmqork,2022,1,2,Cost_of_Living,Relocation,"Housing_to_Income, Quality, Real_price"
+toronto,cp54whs,2015,3,0,None,"Bootstraps, Relocation","Quality, Real_price, Housing_to_Income"
+sanfrancisco,eufhlt3,2019,7,1,None,Building,Availability
+melbourne,dd8cgqv,2017,2,-1,None,None,None
+london,g3p4kyk,2020,9,2,"The_Rich, Wage_Price_Imbalance",None,"Housing_to_Income, Quality, Real_price"
+bristol,iideqib,2022,7,1,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Quality, Real_price"
+sanfrancisco,fwyjdnd,2020,7,2,"The_Rich, Government_Policy(E), Cost_of_Living",Group_action,Real_price
+london,igwx8gy,2022,7,2,Cost_of_Living,Relocation,"Housing_to_Income, Quality, Real_price, Availability"
+sydney,i4n491f,2022,4,2,Cost_of_Living,None,"Real_price, Quality"
+vancouver,d51qx47,2016,7,-1,None,None,None
+toronto,d522w36,2016,7,2,None,Relocation,"Real_price, Quality"
+toronto,dfv1fo5,2017,4,1,None,"Bootstraps, Relocation","Quality, Real_price, Availability"
+vancouver,fb3j27p,2019,12,2,"Government_Policy(E), The_Rich, Cost_of_Living, Foreign_Investment",Government_Policy(I),Real_price
+melbourne,f0y7t5d,2019,9,0,None,None,None
+losangeles,fbbmkte,2019,12,-1,None,None,None
+losangeles,d4z26m8,2016,7,2,"Government_Policy(E), Underbuilding, NIMBYism","Government_Policy(I), Building","Availability, Real_price"
+melbourne,cegaipw,2014,1,0,None,None,"Quality, Availability"
+melbourne,i16sp67,2022,3,-1,None,None,None
+london,igwpkp8,2022,7,2,"Underbuilding, The_Rich, Government_Policy(E), AirBnB","Government_Policy(I), Building","Availability, Real_price, Quality"
+losangeles,fbbtxsm,2019,12,-1,None,None,None
+toronto,ealdyhe,2018,11,-1,None,None,None
+london,i500le5,2022,4,-1,None,None,None
+sanfrancisco,cyad1fg,2015,12,1,NIMBYism,Building,"Quality, Availability"
+sydney,he7dwij,2021,9,2,Wage_Price_Imbalance,Relocation,"Quality, Real_price"
+toronto,deqkky5,2017,3,2,Cost_of_Living,None,"Real_price, Quality"
+vancouver,d1zxjyr,2016,4,-1,None,None,None
+sanfrancisco,dlc6til,2017,8,-1,None,None,None
+vancouver,c2sto6q,2011,10,-1,None,None,None
+vancouver,iyycazj,2022,12,-1,None,None,None
+vancouver,hvv2z7u,2022,2,-1,None,None,None
+toronto,e3rwsjr,2018,8,-1,None,None,None
+toronto,fdgrcpj,2020,1,-1,None,None,None
+toronto,gpojngp,2021,3,-1,None,None,None
+vancouver,dyfrle4,2018,5,-1,None,None,None
+toronto,celgqvj,2014,1,0,None,None,Availability
+losangeles,j253iuj,2022,12,2,"Wage_Price_Imbalance, Cost_of_Living","Government_Policy(I), Relocation",Availability
+sydney,cxokdan,2015,12,-1,None,None,None
+sanfrancisco,dgdygx6,2017,4,1,NIMBYism,Building,Availability
+london,cja1emc,2014,7,-1,None,None,None
+london,igxikig,2022,7,1,None,"Relocation, Bootstraps",Availability
+sydney,cm14tzd,2014,11,0,None,None,Real_price
+vancouver,c47q9ft,2012,4,0,Foreign_Investment,None,None
+losangeles,guktfp6,2021,4,0,Cost_of_Living,Government_Policy(I),Real_price
+sanfrancisco,cd9i8h9,2013,11,2,"Underbuilding, The_Rich, Wage_Price_Imbalance, Cost_of_Living",Building,"Quality, Availability, Real_price"
+vancouver,eluz4du,2019,4,-1,None,None,None
+vancouver,c36lran,2011,12,2,"Government_Policy(E), Foreign_Investment, Wage_Price_Imbalance, The_Rich",Government_Policy(I),"Housing_to_Income, Quality, Real_price"
+toronto,hs5tki6,2022,1,2,Wage_Price_Imbalance,None,"Housing_to_Income, Availability"
+bristol,e8870ha,2018,10,0,None,None,"Quality, Real_price"
+losangeles,cihby7z,2014,6,2,None,None,Real_price
+sanfrancisco,ccqeeij,2013,10,0,None,Bootstraps,"Quality, Real_price"
+melbourne,hn181nc,2021,12,2,"Wage_Price_Imbalance, Underbuilding",None,"Housing_to_Income, Availability"
+melbourne,ieevnea,2022,7,2,"Cost_of_Living, Overcrowding",None,"Quality, Availability, Real_price"
+sydney,eihoex2,2019,3,0,None,None,Real_price
+toronto,f9n1qxw,2019,12,-1,None,None,None
+sanfrancisco,cte46ox,2015,7,1,"Underbuilding, NIMBYism",Building,Availability
+toronto,ghanaf7,2020,12,2,Wage_Price_Imbalance,None,Housing_to_Income
+sanfrancisco,dndkkm0,2017,9,1,Government_Policy(E),Government_Policy(I),Real_price
+losangeles,j25asqc,2022,12,0,None,None,Quality
+losangeles,i2zxf9b,2022,4,2,None,None,Quality
+toronto,fjscbc1,2020,3,-1,None,None,None
+london,go4oxjf,2021,2,1,Cost_of_Living,None,Real_price
+toronto,dzgcvia,2018,5,0,NIMBYism,Building,"Real_price, Availability"
+london,ehx22mq,2019,3,-1,None,None,None
+toronto,e4x398x,2018,8,0,None,Building,"Quality, Availability"
+sanfrancisco,cvl22rk,2015,10,-1,None,None,None
+losangeles,dnah4e9,2017,9,-1,None,None,None
+vancouver,dnfh950,2017,9,2,Foreign_Investment,None,None
+sanfrancisco,i62h1a8,2022,4,2,"The_Rich, Wage_Price_Imbalance, Cost_of_Living","Government_Policy(I), Relocation","Quality, Real_price, Housing_to_Income"
+toronto,dfwnyv3,2017,4,1,Wage_Price_Imbalance,Relocation,None
+vancouver,g4kxhs3,2020,9,0,"Overcrowding, Government_Policy(E)",Government_Policy(I),"Real_price, Availability"
+melbourne,dnku7ol,2017,9,0,None,None,"Quality, Real_price, Availability"
+toronto,elldncq,2019,4,0,None,None,None
+london,con7kra,2015,2,-1,None,None,None
+toronto,dba0nss,2016,12,-1,None,None,None
+melbourne,efhxhux,2019,2,-1,None,None,None
+toronto,eycdlww,2019,8,1,NIMBYism,Building,"Quality, Availability"
+sanfrancisco,cvxdjv7,2015,10,-1,None,None,None
+london,hsmjwqe,2022,1,2,Cost_of_Living,None,Real_price
+sanfrancisco,ducrivx,2018,2,2,Wage_Price_Imbalance,None,Housing_to_Income
+toronto,hs4esyr,2022,1,2,Wage_Price_Imbalance,None,Housing_to_Income
+vancouver,dupl18i,2018,2,1,None,None,None
+toronto,hs4hmdn,2022,1,-1,None,None,None
+vancouver,c6rbdvx,2012,10,1,Wage_Price_Imbalance,Bootstraps,"Housing_to_Income, Real_price"
+melbourne,hn1grym,2021,12,1,None,Government_Policy(I),"Real_price, Quality"
+melbourne,dymcrss,2018,5,-1,None,None,None
+sydney,hbg87cd,2021,9,-1,None,None,None
+losangeles,dzizken,2018,5,-1,None,None,None
+sydney,i4n8abs,2022,4,2,"Government_Policy(E), The_Rich, Cost_of_Living",Government_Policy(I),"Availability, Real_price"
+toronto,db9yrnn,2016,12,0,None,None,"Real_price, Quality"
+toronto,eamftxi,2018,11,2,Government_Policy(E),None,Quality
+melbourne,cj0h2im,2014,7,2,Underbuilding,None,Quality
+vancouver,dmi9rrs,2017,9,2,Cost_of_Living,None,Real_price
+toronto,fjl4c13,2020,3,2,None,None,None
+toronto,ghc7m3y,2020,12,1,None,Relocation,"Real_price, Quality, Availability"
+toronto,gpocoz5,2021,3,1,Wage_Price_Imbalance,Bootstraps,Housing_to_Income
+sydney,gnh8hlr,2021,2,0,None,Relocation,"Quality, Real_price"
+toronto,dzgrbbw,2018,5,0,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+sydney,di99tg9,2017,5,-1,None,None,None
+sydney,dca5ymc,2017,1,2,Cost_of_Living,None,"Quality, Real_price"
+vancouver,cvjo6m7,2015,9,1,Government_Policy(E),Government_Policy(I),"Real_price, Housing_to_Income"
+sanfrancisco,d51jfl1,2016,7,1,"AirBnB, Government_Policy(E)",Building,Availability
+sydney,he4vqla,2021,9,-1,None,None,None
+melbourne,hn1ispm,2021,12,2,None,Relocation,"Availability, Real_price"
+sydney,d2bp8dj,2016,4,-1,None,None,None
+losangeles,i3312c3,2022,4,2,"The_Rich, Government_Policy(E), Underbuilding, Wage_Price_Imbalance","Government_Policy(I), Building","Availability, Real_price, Quality"
+losangeles,dzkkih7,2018,5,-1,None,None,None
+toronto,d524c5y,2016,7,1,None,None,Quality
+losangeles,d8dzq7p,2016,10,1,"Government_Policy(E), NIMBYism, Underbuilding","Building, Government_Policy(I)",Availability
+toronto,df1smb8,2017,3,2,The_Rich,Relocation,Real_price
+sydney,em7bvfg,2019,5,2,"Government_Policy(E), The_Rich",Government_Policy(I),None
+vancouver,c47rkha,2012,4,0,None,Bootstraps,"Housing_to_Income, Quality, Real_price"
+vancouver,de39bkd,2017,2,-1,None,None,None
+vancouver,d665dvx,2016,8,2,The_Rich,None,"Housing_to_Income, Real_price"
+sydney,hbfk2lh,2021,9,0,None,None,"Quality, Real_price"
+sanfrancisco,dgdx9yh,2017,4,1,Government_Policy(E),"Government_Policy(I), Building",Availability
+vancouver,d51nacw,2016,7,-1,None,None,None
+melbourne,i3b6j7d,2022,4,0,None,None,Real_price
+losangeles,g09lgqx,2020,8,2,None,None,Availability
+sydney,dca7m1g,2017,1,1,None,None,"Housing_to_Income, Quality, Availability, Real_price"
+melbourne,ddxqflo,2017,2,-1,None,None,None
+sanfrancisco,g04zajt,2020,8,1,None,"Building, Government_Policy(I)",None
+sanfrancisco,ctebcbw,2015,7,1,Underbuilding,Building,"Availability, Real_price"
+melbourne,hwqkg41,2022,2,-1,None,None,None
+losangeles,dij4owd,2017,6,-1,None,None,None
+losangeles,d321wu6,2016,5,-1,None,None,None
+losangeles,dszuz81,2018,1,-1,None,None,None
+london,c2z0b6s,2011,11,-1,None,None,None
+sanfrancisco,dlcbccg,2017,8,-1,None,None,None
+vancouver,db728t8,2016,12,0,Government_Policy(E),Government_Policy(I),Real_price
+london,ehx98ko,2019,3,1,"Government_Policy(E), The_Rich","Government_Policy(I), Bootstraps",None
+toronto,hluxy3n,2021,11,-1,None,None,None
+auckland,gon9qz3,2021,2,2,The_Rich,None,None
+toronto,d51pbem,2016,7,-1,None,None,None
+sydney,djq0up6,2017,7,2,Wage_Price_Imbalance,None,Housing_to_Income
+losangeles,cswtn6d,2015,7,1,Cost_of_Living,Relocation,"Real_price, Availability"
+losangeles,i30w9gg,2022,4,2,"Wage_Price_Imbalance, Cost_of_Living, Overcrowding",None,"Housing_to_Income, Quality, Availability"
+sydney,dft34k5,2017,4,1,None,None,"Quality, Availability"
+sydney,gys3qsf,2021,5,0,The_Rich,Government_Policy(I),None
+losangeles,dj6joop,2017,6,2,Cost_of_Living,None,"Real_price, Quality"
+vancouver,e0vvisx,2018,6,2,None,Relocation,None
+toronto,cd2yx5e,2013,10,-1,None,None,None
+london,hsjmbd1,2022,1,2,None,None,Availability
+sydney,he5cu09,2021,9,-1,None,None,None
+sanfrancisco,dui2rer,2018,2,-1,None,None,None
+sydney,dftgdxm,2017,4,1,Cost_of_Living,None,Real_price
+losangeles,csx24v6,2015,7,1,"Foreign_Investment, The_Rich",Government_Policy(I),Real_price
+london,i8otrho,2022,5,2,None,None,Quality
+sanfrancisco,chz1qbv,2014,6,1,Government_Policy(E),Government_Policy(I),Real_price
+auckland,h7wrim0,2021,8,1,Government_Policy(E),Government_Policy(I),None
+vancouver,c55bpab,2012,6,1,Government_Policy(E),Government_Policy(I),None
+losangeles,d8drnd9,2016,10,0,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Quality, Real_price"
+toronto,gpqi2u5,2021,3,-1,None,None,None
+vancouver,duyylbx,2018,2,2,Wage_Price_Imbalance,None,"Quality, Real_price"
+toronto,c9mh27w,2013,4,-1,None,None,None
+bristol,iidaw20,2022,7,-1,None,None,None
+losangeles,j27swv2,2022,12,-1,None,None,None
+sanfrancisco,cvxp10c,2015,10,0,"NIMBYism, Underbuilding",Building,Availability
+toronto,cd35l2j,2013,10,0,None,None,"Quality, Real_price"
+sanfrancisco,cyfc70v,2015,12,0,NIMBYism,Building,Availability
+vancouver,d1zk11x,2016,4,2,"Wage_Price_Imbalance, Overcrowding, Cost_of_Living",None,"Housing_to_Income, Real_price, Availability"
+toronto,ctz808n,2015,8,2,None,None,None
+toronto,fjh6dxt,2020,3,2,None,Relocation,Quality
+london,co84ivp,2015,2,-1,None,None,None
+sydney,djr7m8k,2017,7,2,Cost_of_Living,Bootstraps,Real_price
+toronto,f9mrapg,2019,12,2,The_Rich,None,"Quality, Availability, Real_price"
+sanfrancisco,cd81z0f,2013,11,2,Underbuilding,Building,Real_price
+sanfrancisco,fwmk8sl,2020,7,-1,None,None,None
+melbourne,ieatrvc,2022,6,-1,None,None,None
+melbourne,ii8lxcq,2022,7,0,None,None,None
+melbourne,dnkkc5e,2017,9,2,None,Relocation,"Quality, Real_price"
+bristol,iie5d8y,2022,7,1,"Cost_of_Living, Overcrowding",Relocation,"Quality, Real_price"
+dublin,hkgtodi,2021,11,-1,None,None,None
+london,igww33v,2022,7,2,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Quality"
+vancouver,die8ye2,2017,6,2,Wage_Price_Imbalance,Relocation,Availability
+sanfrancisco,c54emr6,2012,6,1,Cost_of_Living,Relocation,"Quality, Real_price, Housing_to_Income"
+vancouver,duntmcd,2018,2,1,The_Rich,None,"Real_price, Availability"
+vancouver,cfvlvcz,2014,3,-1,None,None,None
+melbourne,hn1tbcx,2021,12,0,None,None,"Quality, Real_price"
+london,hsm2vwo,2022,1,0,None,"Bootstraps, Relocation","Housing_to_Income, Quality, Real_price"
+toronto,e4x03fs,2018,8,1,None,Relocation,Real_price
+toronto,fjjno75,2020,3,2,Wage_Price_Imbalance,None,Real_price
+melbourne,hn21wb4,2021,12,1,"Wage_Price_Imbalance, Cost_of_Living",Bootstraps,"Quality, Real_price, Housing_to_Income, Availability"
+toronto,hlrilz2,2021,11,-1,None,None,None
+sanfrancisco,duxb2ep,2018,2,2,Underbuilding,Building,Availability
+auckland,ctdrcqw,2015,7,0,None,Bootstraps,Quality
+london,con71ed,2015,2,1,Underbuilding,Building,Availability
+sydney,djras8v,2017,7,2,Government_Policy(E),Government_Policy(I),Availability
+vancouver,gsyydqx,2021,3,0,None,Bootstraps,None
+losangeles,d32pim6,2016,5,1,None,Bootstraps,Real_price
+toronto,e3utqzo,2018,8,-1,None,None,None
+vancouver,fs5z64p,2020,5,-1,None,None,None
+losangeles,gdina7p,2020,11,2,"Government_Policy(E), The_Rich",Government_Policy(I),"Real_price, Housing_to_Income"
+melbourne,dd8c8y9,2017,2,2,Wage_Price_Imbalance,Relocation,"Quality, Availability"
+sanfrancisco,d8ibk90,2016,10,2,NIMBYism,Building,Availability
+losangeles,fbay232,2019,12,2,Wage_Price_Imbalance,None,"Housing_to_Income, Availability"
+london,czs2h0c,2016,2,2,"The_Rich, AirBnB, Government_Policy(E)","Government_Policy(I), Relocation","Real_price, Availability"
+vancouver,ha4ijj9,2021,8,2,"The_Rich, Government_Policy(E)",Government_Policy(I),Real_price
+auckland,guylo86,2021,4,-1,None,None,None
+auckland,gpdw3ry,2021,3,-1,None,None,None
+toronto,gppd78f,2021,3,2,Government_Policy(E),Government_Policy(I),Real_price
+melbourne,i1758bv,2022,3,0,Wage_Price_Imbalance,None,Housing_to_Income
+toronto,hs4j65x,2022,1,2,"Government_Policy(E), The_Rich",Government_Policy(I),"Quality, Real_price, Availability"
+vancouver,duz9eli,2018,2,0,None,None,Availability
+vancouver,d52ikq2,2016,7,0,None,None,"Quality, Real_price"
+toronto,h4i1kzt,2021,7,1,"Foreign_Investment, The_Rich, AirBnB",None,Availability
+toronto,fdhaamg,2020,1,0,None,None,Real_price
+toronto,dzhhb75,2018,5,2,"Government_Policy(E), The_Rich",Government_Policy(I),"Housing_to_Income, Real_price"
+toronto,d2wz7mu,2016,5,0,Cost_of_Living,"Bootstraps, Relocation","Real_price, Quality, Housing_to_Income"
+melbourne,hn1o6ms,2021,12,2,Wage_Price_Imbalance,None,"Quality, Housing_to_Income, Real_price"
+vancouver,duo1p75,2018,2,2,"Wage_Price_Imbalance, Overcrowding, Underbuilding","Government_Policy(I), Building, Relocation","Housing_to_Income, Real_price, Availability"
+dublin,ilvly0p,2022,8,0,None,Bootstraps,Quality
+vancouver,iyyd3fv,2022,12,0,"Government_Policy(E), Underbuilding","Government_Policy(I), Building",Availability
+losangeles,j24r62y,2022,12,-1,None,None,None
+auckland,i9wzhho,2022,5,0,Cost_of_Living,None,None
+london,hslu8xl,2022,1,2,"Wage_Price_Imbalance, Cost_of_Living",Relocation,"Housing_to_Income, Quality, Real_price"
+sanfrancisco,duciejl,2018,2,-1,None,None,None
+vancouver,dkpzvba,2017,7,-1,None,None,None
+bristol,iifchuw,2022,7,-1,None,None,None
+toronto,ghakpas,2020,12,2,"Government_Policy(E), Wage_Price_Imbalance, Cost_of_Living",Government_Policy(I),"Housing_to_Income, Real_price"
+dublin,gv3frir,2021,4,-1,None,None,None
+losangeles,dziwhir,2018,5,-1,None,None,None
+melbourne,dd8ay23,2017,2,-1,None,None,None
+toronto,e3s9kr5,2018,8,-1,None,None,None
+vancouver,d53lty7,2016,7,-1,None,None,None
+bristol,i4eayrr,2022,4,2,"The_Rich, Wage_Price_Imbalance",Bootstraps,"Housing_to_Income, Real_price"
+losangeles,dzj0z84,2018,5,2,Government_Policy(E),Government_Policy(I),Real_price
+sanfrancisco,d4ucahz,2016,6,0,None,Building,Availability
+auckland,fy0eyvz,2020,7,2,"Underbuilding, Government_Policy(E)","Government_Policy(I), Building","Availability, Real_price, Quality"
+losangeles,gdaz8zn,2020,11,2,Underbuilding,None,Availability
+vancouver,fzqpjt1,2020,7,-1,None,None,None
+london,hdtxbgg,2021,9,0,None,None,Quality
+vancouver,elub42b,2019,4,2,Wage_Price_Imbalance,None,"Housing_to_Income, Real_price"
+losangeles,gmpyf3k,2021,2,1,Underbuilding,Building,Availability
+losangeles,hleikmq,2021,11,-1,None,None,None
+vancouver,d54k3jg,2016,7,2,Foreign_Investment,Government_Policy(I),None
+london,hslzh9q,2022,1,0,None,Relocation,"Quality, Real_price, Availability"
+vancouver,eluxsbe,2019,4,1,Cost_of_Living,None,"Real_price, Quality"
+vancouver,hz08qwm,2022,3,2,NIMBYism,Government_Policy(I),"Availability, Real_price"
+toronto,hs6e4ff,2022,1,2,"Foreign_Investment, The_Rich, AirBnB",Government_Policy(I),"Availability, Real_price"
+losangeles,d29lhit,2016,4,2,"Foreign_Investment, Underbuilding, Government_Policy(E)",Government_Policy(I),"Availability, Real_price"
+london,dhn01k1,2017,5,2,None,None,"Availability, Real_price"
+vancouver,ikq5yol,2022,8,-1,None,None,None
+losangeles,cihamwh,2014,6,0,None,None,"Quality, Real_price"
+auckland,g9b1nys,2020,10,2,The_Rich,None,Real_price
+toronto,dfk8sw9,2017,3,2,The_Rich,Government_Policy(I),None
+sydney,gneayoj,2021,2,2,None,None,None
+melbourne,cizrlkm,2014,7,0,None,Relocation,"Housing_to_Income, Real_price, Quality"
+london,cn6trm2,2014,12,2,"Government_Policy(E), Wage_Price_Imbalance",Government_Policy(I),"Housing_to_Income, Real_price, Availability"
+losangeles,dzizyai,2018,5,-1,None,None,None
+toronto,e4ya2t0,2018,8,-1,None,None,None
+melbourne,hlyqn4e,2021,11,-1,None,None,None
+toronto,fiazm4c,2020,2,1,None,None,"Availability, Real_price"
+sydney,ei2766p,2019,3,1,None,Relocation,Housing_to_Income
+losangeles,e6qf85x,2018,9,0,Cost_of_Living,None,Real_price
+sydney,gyrb4du,2021,5,0,None,None,Availability
+vancouver,hvvje94,2022,2,2,"Government_Policy(E), Underbuilding, NIMBYism","Government_Policy(I), Building","Availability, Quality, Real_price"
+vancouver,cfv7ssc,2014,3,0,None,Relocation,"Quality, Real_price"
+sanfrancisco,dgfdlsl,2017,4,-1,None,None,None
+sanfrancisco,fwm0rf4,2020,7,-1,None,None,None
+vancouver,elub00z,2019,4,-1,None,None,None
+toronto,e4xs6n5,2018,8,-1,None,None,None
+losangeles,dnapi11,2017,9,-1,None,None,None
+vancouver,d669slo,2016,8,-1,None,None,None
+losangeles,cjucg9x,2014,8,1,None,None,"Availability, Real_price"
