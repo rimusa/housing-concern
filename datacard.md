@@ -49,27 +49,49 @@ All comments are in English, dating from 2013 to 2023.
 - **Primary data:** Text
 - **Language:** English
 
+
 ### Dataset in numbers
 
-[More Information Needed]
+3,000 sets of annotations, released both in a standardised and a nonstandardised version, for a total of 6,000 sets of annotations.
+
 
 ### Nature of the content
 
 [More Information Needed]
 
+
 ### Format
 
-[More Information Needed]
+CSV files where each row is a set of annotations.
+There are four of such files in the ```Annotations``` directory.
+Those with the prefix ```human``` contain the annotations for the human-only setup (i.e. without any LLM involvement).
+Those with the prefix ```llm``` contain the annotations for the LLM-asisted setup (i.e. an LLM was used for pre-annotation, the output of which was given to the annotators).
+For each of those setups there is a standardised or cleaned-up version for ease of analysis (```standard```) and one that maintains all labels and annotations by the annotators (```nostandard```).
+
+Each CSV file has the following columns:
+- **annotator:** the annotator for the labels within that row, denoted as one of A, B, or C. Note that the same letters were used for the same annnotators across files.
+- **cause_exacerbate:** aspects that are claimed to exacerbate issues of affordability in the housing market. The same comment may mention multiple factors. See the annotation guidelines for more information.
+- **cause_improve:** aspects that are claimed to improve affordability in the housing market. The same comment may mention multiple factors. See the annotation guidelines for more information.
+- **concern:** a numerical value denoting the level of concern about the status of affordability in the housing market. The potential values are as follows:
+  - **0:** off-topic
+  - **1:** no concern
+  - **2:** mixed
+  - **3:** concern
+- **factor:** aspects that comments use to measure or evaluate affordability of housing. The same comment may mention multiple factors. See the annotation guidelines for more information.
+- **id:** the id of the comment in [the Reddit PushFit Dataset](https://ojs.aaai.org/index.php/ICWSM/article/view/7347). Note that we _do not_ include the comments themselves, so these are necessary to make the annotations match with the proper comment.
+- **month:** month in which the original comment was published, as an integer.
+- **subreddit:** subreddit from which the original comment comes from. They all correspond to a city.
+- **year:** year in which the original comment was published.
 
 
 ### Data source(s)
 
-[More Information Needed]
+Comments from [the Reddit Pushfit Dataset](https://ojs.aaai.org/index.php/ICWSM/article/view/7347).
 
 
 ### Data collection method(s)
 
-[More Information Needed]
+Not applicable, the data was sourced from a previously existing dataset.
 
 
 ### Data selection and filtering
@@ -84,19 +106,32 @@ All comments are in English, dating from 2013 to 2023.
 
 ### Data labeling
 
-[More Information Needed]
+The annotation procedure followed the perspectivist paradigm (Basile et al., 2020; Cabitza et al., 2023). That is, we kept all labels and did not aggregate annotations in any manner.
+The dataset includes four categories of labels: concern score, factor, aspect-improve, and aspect-exacerbate.
+- Two categories (concern score and factor) are prescriptive labels based on the More Effective Social Protection for Stronger Economic Growth Survey and Building for a better tomorrow: Policies to make housing more affordable Brief reports from the OECD, respectively.
+- The remaining two categories (aspect-improve and aspect-exacerbate) were developed in a collaborative document using open coding (Khandkar, 2009)
+
+There were two different setups for the data labeling process:
+- **human-only:** these annotations were created by humans, without any LLM involvement.
+- **LLM-assisted:** an LLM was used for pre-annotation, which was then given to the same set of annotators as in the human-only setup.
 
 
 ### Annotator characteristics
 
-[More Information Needed]
+Annotation was carried out by a team of three volunteers, each of which have spent one or more years living in one of the cities in the study.
+Two annotators are women in their late 20s to early 30s from a middle-class background in mid-sized cities, while the third is a man in his thirties from a small-town working class background.
 
 
 ## 4. Ethics and Caveats	
 
 ### Ethical considerations
 
-[More Information Needed]
+First, all annotators involved in the project were given authorship on the paper as compensation for their contributions.
+
+There are two main considerations that come into play regarding the data used for these experiments:
+
+- Although we have taken steps to anonymize comments by removing clear PII, it is incredibly challenging to control for all information that has the potential to identify individuals. Data de-identification is still an open problem, with multiple considerations that must be taken in mind.
+- Even though all comments are freely viewable on public facing forums, the comment authors did not give informed consent for their data to be used for research purposes. Because of this, we opted not to re-publish raw text from the resulting dataset in a public forum. 
 
 
 ### Things to watch out for
@@ -108,17 +143,16 @@ All comments are in English, dating from 2013 to 2023.
 
 - **Data last updated:** [More Information Needed]
 - **Which changes have been made, compared to the previous version:**
-    - [More Information Needed]
-    - [More Information Needed]
-- **Access to previous versions:** [More Information Needed]
-- **This document created:** [More Information Needed]
-- **This document last updated:** [More Information Needed]
-- **Where to look for further details:** [More Information Needed]
+    - None, this is the first iteration of the dataset
+- **Access to previous versions:** N/A
+- **This document created:** 2026-05-08
+- **This document last updated:** 2026-05-08
+- **Where to look for further details:** The original paper and the annotation guidelines
 - **Documentation template version:** [1.0](https://github.com/spraakbanken/SuperLim/blob/main/documentation_sheet_template_v1.0.tsv)
 
 
 ### 6. Other	
 
-- **Related projects:** [More Information Needed]
+- **Related projects:** N/A
 - **References:**
     1. [More Information Needed]
